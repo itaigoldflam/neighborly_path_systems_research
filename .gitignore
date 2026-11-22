@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+metrizable_wheels/.venv/
+venv/
+*.egg-info/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Gurobi
+gurobi.log
+*.lp
+*.ilp
+
+# OS / editor
+.DS_Store
+gurobi.lic

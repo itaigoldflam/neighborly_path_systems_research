@@ -1,0 +1,3190 @@
+[INIT] Torus Grid 3x3: 9 vertices, 18 edges.
+[START] Searching for 1000 systems. Need paths for 18 pairs.
+[SUCCESS] Found a consistent system! (Iteration 19)
+[SUCCESS] Found a consistent system! (Iteration 20)
+[SUCCESS] Found a consistent system! (Iteration 22)
+[SUCCESS] Found a consistent system! (Iteration 23)
+[SUCCESS] Found a consistent system! (Iteration 26)
+[SUCCESS] Found a consistent system! (Iteration 27)
+[SUCCESS] Found a consistent system! (Iteration 29)
+[SUCCESS] Found a consistent system! (Iteration 30)
+[SUCCESS] Found a consistent system! (Iteration 34)
+[SUCCESS] Found a consistent system! (Iteration 35)
+[SUCCESS] Found a consistent system! (Iteration 37)
+[SUCCESS] Found a consistent system! (Iteration 38)
+[SUCCESS] Found a consistent system! (Iteration 41)
+[SUCCESS] Found a consistent system! (Iteration 42)
+[SUCCESS] Found a consistent system! (Iteration 44)
+[SUCCESS] Found a consistent system! (Iteration 45)
+[SUCCESS] Found a consistent system! (Iteration 50)
+[SUCCESS] Found a consistent system! (Iteration 51)
+[SUCCESS] Found a consistent system! (Iteration 53)
+[SUCCESS] Found a consistent system! (Iteration 54)
+[SUCCESS] Found a consistent system! (Iteration 57)
+[SUCCESS] Found a consistent system! (Iteration 58)
+[SUCCESS] Found a consistent system! (Iteration 60)
+[SUCCESS] Found a consistent system! (Iteration 61)
+[SUCCESS] Found a consistent system! (Iteration 65)
+[SUCCESS] Found a consistent system! (Iteration 66)
+[SUCCESS] Found a consistent system! (Iteration 68)
+[SUCCESS] Found a consistent system! (Iteration 69)
+[SUCCESS] Found a consistent system! (Iteration 72)
+[SUCCESS] Found a consistent system! (Iteration 73)
+[SUCCESS] Found a consistent system! (Iteration 75)
+[SUCCESS] Found a consistent system! (Iteration 76)
+[SUCCESS] Found a consistent system! (Iteration 82)
+[SUCCESS] Found a consistent system! (Iteration 83)
+[SUCCESS] Found a consistent system! (Iteration 85)
+[SUCCESS] Found a consistent system! (Iteration 86)
+[SUCCESS] Found a consistent system! (Iteration 89)
+[SUCCESS] Found a consistent system! (Iteration 90)
+[SUCCESS] Found a consistent system! (Iteration 92)
+[SUCCESS] Found a consistent system! (Iteration 93)
+[SUCCESS] Found a consistent system! (Iteration 97)
+[SUCCESS] Found a consistent system! (Iteration 98)
+[SUCCESS] Found a consistent system! (Iteration 100)
+[SUCCESS] Found a consistent system! (Iteration 101)
+[SUCCESS] Found a consistent system! (Iteration 104)
+[SUCCESS] Found a consistent system! (Iteration 105)
+[SUCCESS] Found a consistent system! (Iteration 107)
+[SUCCESS] Found a consistent system! (Iteration 108)
+[SUCCESS] Found a consistent system! (Iteration 113)
+[SUCCESS] Found a consistent system! (Iteration 114)
+[SUCCESS] Found a consistent system! (Iteration 116)
+[SUCCESS] Found a consistent system! (Iteration 117)
+[SUCCESS] Found a consistent system! (Iteration 120)
+[SUCCESS] Found a consistent system! (Iteration 121)
+[SUCCESS] Found a consistent system! (Iteration 123)
+[SUCCESS] Found a consistent system! (Iteration 124)
+[SUCCESS] Found a consistent system! (Iteration 128)
+[SUCCESS] Found a consistent system! (Iteration 129)
+[SUCCESS] Found a consistent system! (Iteration 131)
+[SUCCESS] Found a consistent system! (Iteration 132)
+[SUCCESS] Found a consistent system! (Iteration 135)
+[SUCCESS] Found a consistent system! (Iteration 136)
+[SUCCESS] Found a consistent system! (Iteration 138)
+[SUCCESS] Found a consistent system! (Iteration 139)
+[SUCCESS] Found a consistent system! (Iteration 146)
+[SUCCESS] Found a consistent system! (Iteration 147)
+[SUCCESS] Found a consistent system! (Iteration 149)
+[SUCCESS] Found a consistent system! (Iteration 150)
+[SUCCESS] Found a consistent system! (Iteration 153)
+[SUCCESS] Found a consistent system! (Iteration 154)
+[SUCCESS] Found a consistent system! (Iteration 156)
+[SUCCESS] Found a consistent system! (Iteration 157)
+[SUCCESS] Found a consistent system! (Iteration 161)
+[SUCCESS] Found a consistent system! (Iteration 162)
+[SUCCESS] Found a consistent system! (Iteration 164)
+[SUCCESS] Found a consistent system! (Iteration 165)
+[SUCCESS] Found a consistent system! (Iteration 168)
+[SUCCESS] Found a consistent system! (Iteration 169)
+[SUCCESS] Found a consistent system! (Iteration 171)
+[SUCCESS] Found a consistent system! (Iteration 172)
+[SUCCESS] Found a consistent system! (Iteration 177)
+[SUCCESS] Found a consistent system! (Iteration 178)
+[SUCCESS] Found a consistent system! (Iteration 180)
+[SUCCESS] Found a consistent system! (Iteration 181)
+[SUCCESS] Found a consistent system! (Iteration 184)
+[SUCCESS] Found a consistent system! (Iteration 185)
+[SUCCESS] Found a consistent system! (Iteration 187)
+[SUCCESS] Found a consistent system! (Iteration 188)
+[SUCCESS] Found a consistent system! (Iteration 192)
+[SUCCESS] Found a consistent system! (Iteration 193)
+[SUCCESS] Found a consistent system! (Iteration 195)
+[SUCCESS] Found a consistent system! (Iteration 196)
+[SUCCESS] Found a consistent system! (Iteration 199)
+[SUCCESS] Found a consistent system! (Iteration 200)
+[SUCCESS] Found a consistent system! (Iteration 202)
+[SUCCESS] Found a consistent system! (Iteration 203)
+[SUCCESS] Found a consistent system! (Iteration 209)
+[SUCCESS] Found a consistent system! (Iteration 210)
+[SUCCESS] Found a consistent system! (Iteration 212)
+[SUCCESS] Found a consistent system! (Iteration 213)
+[SUCCESS] Found a consistent system! (Iteration 216)
+[SUCCESS] Found a consistent system! (Iteration 217)
+[SUCCESS] Found a consistent system! (Iteration 219)
+[SUCCESS] Found a consistent system! (Iteration 220)
+[SUCCESS] Found a consistent system! (Iteration 224)
+[SUCCESS] Found a consistent system! (Iteration 225)
+[SUCCESS] Found a consistent system! (Iteration 227)
+[SUCCESS] Found a consistent system! (Iteration 228)
+[SUCCESS] Found a consistent system! (Iteration 231)
+[SUCCESS] Found a consistent system! (Iteration 232)
+[SUCCESS] Found a consistent system! (Iteration 234)
+[SUCCESS] Found a consistent system! (Iteration 235)
+[SUCCESS] Found a consistent system! (Iteration 240)
+[SUCCESS] Found a consistent system! (Iteration 241)
+[SUCCESS] Found a consistent system! (Iteration 243)
+[SUCCESS] Found a consistent system! (Iteration 244)
+[SUCCESS] Found a consistent system! (Iteration 247)
+[SUCCESS] Found a consistent system! (Iteration 248)
+[SUCCESS] Found a consistent system! (Iteration 250)
+[SUCCESS] Found a consistent system! (Iteration 251)
+[SUCCESS] Found a consistent system! (Iteration 255)
+[SUCCESS] Found a consistent system! (Iteration 256)
+[SUCCESS] Found a consistent system! (Iteration 258)
+[SUCCESS] Found a consistent system! (Iteration 259)
+[SUCCESS] Found a consistent system! (Iteration 262)
+[SUCCESS] Found a consistent system! (Iteration 263)
+[SUCCESS] Found a consistent system! (Iteration 265)
+[SUCCESS] Found a consistent system! (Iteration 266)
+[SUCCESS] Found a consistent system! (Iteration 274)
+[SUCCESS] Found a consistent system! (Iteration 275)
+[SUCCESS] Found a consistent system! (Iteration 277)
+[SUCCESS] Found a consistent system! (Iteration 278)
+[SUCCESS] Found a consistent system! (Iteration 281)
+[SUCCESS] Found a consistent system! (Iteration 282)
+[SUCCESS] Found a consistent system! (Iteration 284)
+[SUCCESS] Found a consistent system! (Iteration 285)
+[SUCCESS] Found a consistent system! (Iteration 289)
+[SUCCESS] Found a consistent system! (Iteration 290)
+[SUCCESS] Found a consistent system! (Iteration 292)
+[SUCCESS] Found a consistent system! (Iteration 293)
+[SUCCESS] Found a consistent system! (Iteration 296)
+[SUCCESS] Found a consistent system! (Iteration 297)
+[SUCCESS] Found a consistent system! (Iteration 299)
+[SUCCESS] Found a consistent system! (Iteration 300)
+[SUCCESS] Found a consistent system! (Iteration 305)
+[SUCCESS] Found a consistent system! (Iteration 306)
+[SUCCESS] Found a consistent system! (Iteration 308)
+[SUCCESS] Found a consistent system! (Iteration 309)
+[SUCCESS] Found a consistent system! (Iteration 312)
+[SUCCESS] Found a consistent system! (Iteration 313)
+[SUCCESS] Found a consistent system! (Iteration 315)
+[SUCCESS] Found a consistent system! (Iteration 316)
+[SUCCESS] Found a consistent system! (Iteration 320)
+[SUCCESS] Found a consistent system! (Iteration 321)
+[SUCCESS] Found a consistent system! (Iteration 323)
+[SUCCESS] Found a consistent system! (Iteration 324)
+[SUCCESS] Found a consistent system! (Iteration 327)
+[SUCCESS] Found a consistent system! (Iteration 328)
+[SUCCESS] Found a consistent system! (Iteration 330)
+[SUCCESS] Found a consistent system! (Iteration 331)
+[SUCCESS] Found a consistent system! (Iteration 337)
+[SUCCESS] Found a consistent system! (Iteration 338)
+[SUCCESS] Found a consistent system! (Iteration 340)
+[SUCCESS] Found a consistent system! (Iteration 341)
+[SUCCESS] Found a consistent system! (Iteration 344)
+[SUCCESS] Found a consistent system! (Iteration 345)
+[SUCCESS] Found a consistent system! (Iteration 347)
+[SUCCESS] Found a consistent system! (Iteration 348)
+[SUCCESS] Found a consistent system! (Iteration 352)
+[SUCCESS] Found a consistent system! (Iteration 353)
+[SUCCESS] Found a consistent system! (Iteration 355)
+[SUCCESS] Found a consistent system! (Iteration 356)
+[SUCCESS] Found a consistent system! (Iteration 359)
+[SUCCESS] Found a consistent system! (Iteration 360)
+[SUCCESS] Found a consistent system! (Iteration 362)
+[SUCCESS] Found a consistent system! (Iteration 363)
+[SUCCESS] Found a consistent system! (Iteration 368)
+[SUCCESS] Found a consistent system! (Iteration 369)
+[SUCCESS] Found a consistent system! (Iteration 371)
+[SUCCESS] Found a consistent system! (Iteration 372)
+[SUCCESS] Found a consistent system! (Iteration 375)
+[SUCCESS] Found a consistent system! (Iteration 376)
+[SUCCESS] Found a consistent system! (Iteration 378)
+[SUCCESS] Found a consistent system! (Iteration 379)
+[SUCCESS] Found a consistent system! (Iteration 383)
+[SUCCESS] Found a consistent system! (Iteration 384)
+[SUCCESS] Found a consistent system! (Iteration 386)
+[SUCCESS] Found a consistent system! (Iteration 387)
+[SUCCESS] Found a consistent system! (Iteration 390)
+[SUCCESS] Found a consistent system! (Iteration 391)
+[SUCCESS] Found a consistent system! (Iteration 393)
+[SUCCESS] Found a consistent system! (Iteration 394)
+[SUCCESS] Found a consistent system! (Iteration 401)
+[SUCCESS] Found a consistent system! (Iteration 402)
+[SUCCESS] Found a consistent system! (Iteration 404)
+[SUCCESS] Found a consistent system! (Iteration 405)
+[SUCCESS] Found a consistent system! (Iteration 408)
+[SUCCESS] Found a consistent system! (Iteration 409)
+[SUCCESS] Found a consistent system! (Iteration 411)
+[SUCCESS] Found a consistent system! (Iteration 412)
+[SUCCESS] Found a consistent system! (Iteration 416)
+[SUCCESS] Found a consistent system! (Iteration 417)
+[SUCCESS] Found a consistent system! (Iteration 419)
+[SUCCESS] Found a consistent system! (Iteration 420)
+[SUCCESS] Found a consistent system! (Iteration 423)
+[SUCCESS] Found a consistent system! (Iteration 424)
+[SUCCESS] Found a consistent system! (Iteration 426)
+[SUCCESS] Found a consistent system! (Iteration 427)
+[SUCCESS] Found a consistent system! (Iteration 432)
+[SUCCESS] Found a consistent system! (Iteration 433)
+[SUCCESS] Found a consistent system! (Iteration 435)
+[SUCCESS] Found a consistent system! (Iteration 436)
+[SUCCESS] Found a consistent system! (Iteration 439)
+[SUCCESS] Found a consistent system! (Iteration 440)
+[SUCCESS] Found a consistent system! (Iteration 442)
+[SUCCESS] Found a consistent system! (Iteration 443)
+[SUCCESS] Found a consistent system! (Iteration 447)
+[SUCCESS] Found a consistent system! (Iteration 448)
+[SUCCESS] Found a consistent system! (Iteration 450)
+[SUCCESS] Found a consistent system! (Iteration 451)
+[SUCCESS] Found a consistent system! (Iteration 454)
+[SUCCESS] Found a consistent system! (Iteration 455)
+[SUCCESS] Found a consistent system! (Iteration 457)
+[SUCCESS] Found a consistent system! (Iteration 458)
+[SUCCESS] Found a consistent system! (Iteration 464)
+[SUCCESS] Found a consistent system! (Iteration 465)
+[SUCCESS] Found a consistent system! (Iteration 467)
+[SUCCESS] Found a consistent system! (Iteration 468)
+[SUCCESS] Found a consistent system! (Iteration 471)
+[SUCCESS] Found a consistent system! (Iteration 472)
+[SUCCESS] Found a consistent system! (Iteration 474)
+[SUCCESS] Found a consistent system! (Iteration 475)
+[SUCCESS] Found a consistent system! (Iteration 479)
+[SUCCESS] Found a consistent system! (Iteration 480)
+[SUCCESS] Found a consistent system! (Iteration 482)
+[SUCCESS] Found a consistent system! (Iteration 483)
+[SUCCESS] Found a consistent system! (Iteration 486)
+[SUCCESS] Found a consistent system! (Iteration 487)
+[SUCCESS] Found a consistent system! (Iteration 489)
+[SUCCESS] Found a consistent system! (Iteration 490)
+[SUCCESS] Found a consistent system! (Iteration 495)
+[SUCCESS] Found a consistent system! (Iteration 496)
+[SUCCESS] Found a consistent system! (Iteration 498)
+[SUCCESS] Found a consistent system! (Iteration 499)
+[SUCCESS] Found a consistent system! (Iteration 502)
+[SUCCESS] Found a consistent system! (Iteration 503)
+[SUCCESS] Found a consistent system! (Iteration 505)
+[SUCCESS] Found a consistent system! (Iteration 506)
+[SUCCESS] Found a consistent system! (Iteration 510)
+[SUCCESS] Found a consistent system! (Iteration 511)
+[SUCCESS] Found a consistent system! (Iteration 513)
+[SUCCESS] Found a consistent system! (Iteration 514)
+[SUCCESS] Found a consistent system! (Iteration 517)
+[SUCCESS] Found a consistent system! (Iteration 518)
+[SUCCESS] Found a consistent system! (Iteration 520)
+[SUCCESS] Found a consistent system! (Iteration 521)
+[SUCCESS] Found a consistent system! (Iteration 530)
+[SUCCESS] Found a consistent system! (Iteration 531)
+[SUCCESS] Found a consistent system! (Iteration 533)
+[SUCCESS] Found a consistent system! (Iteration 534)
+[SUCCESS] Found a consistent system! (Iteration 537)
+[SUCCESS] Found a consistent system! (Iteration 538)
+[SUCCESS] Found a consistent system! (Iteration 540)
+[SUCCESS] Found a consistent system! (Iteration 541)
+[SUCCESS] Found a consistent system! (Iteration 545)
+[SUCCESS] Found a consistent system! (Iteration 546)
+[SUCCESS] Found a consistent system! (Iteration 548)
+[SUCCESS] Found a consistent system! (Iteration 549)
+[SUCCESS] Found a consistent system! (Iteration 552)
+[SUCCESS] Found a consistent system! (Iteration 553)
+[SUCCESS] Found a consistent system! (Iteration 555)
+[SUCCESS] Found a consistent system! (Iteration 556)
+[SUCCESS] Found a consistent system! (Iteration 561)
+[SUCCESS] Found a consistent system! (Iteration 562)
+[SUCCESS] Found a consistent system! (Iteration 564)
+[SUCCESS] Found a consistent system! (Iteration 565)
+[SUCCESS] Found a consistent system! (Iteration 568)
+[SUCCESS] Found a consistent system! (Iteration 569)
+[SUCCESS] Found a consistent system! (Iteration 571)
+[SUCCESS] Found a consistent system! (Iteration 572)
+[SUCCESS] Found a consistent system! (Iteration 576)
+[SUCCESS] Found a consistent system! (Iteration 577)
+[SUCCESS] Found a consistent system! (Iteration 579)
+[SUCCESS] Found a consistent system! (Iteration 580)
+[SUCCESS] Found a consistent system! (Iteration 583)
+[SUCCESS] Found a consistent system! (Iteration 584)
+[SUCCESS] Found a consistent system! (Iteration 586)
+[SUCCESS] Found a consistent system! (Iteration 587)
+[SUCCESS] Found a consistent system! (Iteration 593)
+[SUCCESS] Found a consistent system! (Iteration 594)
+[SUCCESS] Found a consistent system! (Iteration 596)
+[SUCCESS] Found a consistent system! (Iteration 597)
+[SUCCESS] Found a consistent system! (Iteration 600)
+[SUCCESS] Found a consistent system! (Iteration 601)
+[SUCCESS] Found a consistent system! (Iteration 603)
+[SUCCESS] Found a consistent system! (Iteration 604)
+[SUCCESS] Found a consistent system! (Iteration 608)
+[SUCCESS] Found a consistent system! (Iteration 609)
+[SUCCESS] Found a consistent system! (Iteration 611)
+[SUCCESS] Found a consistent system! (Iteration 612)
+[SUCCESS] Found a consistent system! (Iteration 615)
+[SUCCESS] Found a consistent system! (Iteration 616)
+[SUCCESS] Found a consistent system! (Iteration 618)
+[SUCCESS] Found a consistent system! (Iteration 619)
+[SUCCESS] Found a consistent system! (Iteration 624)
+[SUCCESS] Found a consistent system! (Iteration 625)
+[SUCCESS] Found a consistent system! (Iteration 627)
+[SUCCESS] Found a consistent system! (Iteration 628)
+[SUCCESS] Found a consistent system! (Iteration 631)
+[SUCCESS] Found a consistent system! (Iteration 632)
+[SUCCESS] Found a consistent system! (Iteration 634)
+[SUCCESS] Found a consistent system! (Iteration 635)
+[SUCCESS] Found a consistent system! (Iteration 639)
+[SUCCESS] Found a consistent system! (Iteration 640)
+[SUCCESS] Found a consistent system! (Iteration 642)
+[SUCCESS] Found a consistent system! (Iteration 643)
+[SUCCESS] Found a consistent system! (Iteration 646)
+[SUCCESS] Found a consistent system! (Iteration 647)
+[SUCCESS] Found a consistent system! (Iteration 649)
+[SUCCESS] Found a consistent system! (Iteration 650)
+[SUCCESS] Found a consistent system! (Iteration 657)
+[SUCCESS] Found a consistent system! (Iteration 658)
+[SUCCESS] Found a consistent system! (Iteration 660)
+[SUCCESS] Found a consistent system! (Iteration 661)
+[SUCCESS] Found a consistent system! (Iteration 664)
+[SUCCESS] Found a consistent system! (Iteration 665)
+[SUCCESS] Found a consistent system! (Iteration 667)
+[SUCCESS] Found a consistent system! (Iteration 668)
+[SUCCESS] Found a consistent system! (Iteration 672)
+[SUCCESS] Found a consistent system! (Iteration 673)
+[SUCCESS] Found a consistent system! (Iteration 675)
+[SUCCESS] Found a consistent system! (Iteration 676)
+[SUCCESS] Found a consistent system! (Iteration 679)
+[SUCCESS] Found a consistent system! (Iteration 680)
+[SUCCESS] Found a consistent system! (Iteration 682)
+[SUCCESS] Found a consistent system! (Iteration 683)
+[SUCCESS] Found a consistent system! (Iteration 688)
+[SUCCESS] Found a consistent system! (Iteration 689)
+[SUCCESS] Found a consistent system! (Iteration 691)
+[SUCCESS] Found a consistent system! (Iteration 692)
+[SUCCESS] Found a consistent system! (Iteration 695)
+[SUCCESS] Found a consistent system! (Iteration 696)
+[SUCCESS] Found a consistent system! (Iteration 698)
+[SUCCESS] Found a consistent system! (Iteration 699)
+[SUCCESS] Found a consistent system! (Iteration 703)
+[SUCCESS] Found a consistent system! (Iteration 704)
+[SUCCESS] Found a consistent system! (Iteration 706)
+[SUCCESS] Found a consistent system! (Iteration 707)
+[SUCCESS] Found a consistent system! (Iteration 710)
+[SUCCESS] Found a consistent system! (Iteration 711)
+[SUCCESS] Found a consistent system! (Iteration 713)
+[SUCCESS] Found a consistent system! (Iteration 714)
+[SUCCESS] Found a consistent system! (Iteration 720)
+[SUCCESS] Found a consistent system! (Iteration 721)
+[SUCCESS] Found a consistent system! (Iteration 723)
+[SUCCESS] Found a consistent system! (Iteration 724)
+[SUCCESS] Found a consistent system! (Iteration 727)
+[SUCCESS] Found a consistent system! (Iteration 728)
+[SUCCESS] Found a consistent system! (Iteration 730)
+[SUCCESS] Found a consistent system! (Iteration 731)
+[SUCCESS] Found a consistent system! (Iteration 735)
+[SUCCESS] Found a consistent system! (Iteration 736)
+[SUCCESS] Found a consistent system! (Iteration 738)
+[SUCCESS] Found a consistent system! (Iteration 739)
+[SUCCESS] Found a consistent system! (Iteration 742)
+[SUCCESS] Found a consistent system! (Iteration 743)
+[SUCCESS] Found a consistent system! (Iteration 745)
+[SUCCESS] Found a consistent system! (Iteration 746)
+[SUCCESS] Found a consistent system! (Iteration 751)
+[SUCCESS] Found a consistent system! (Iteration 752)
+[SUCCESS] Found a consistent system! (Iteration 754)
+[SUCCESS] Found a consistent system! (Iteration 755)
+[SUCCESS] Found a consistent system! (Iteration 758)
+[SUCCESS] Found a consistent system! (Iteration 759)
+[SUCCESS] Found a consistent system! (Iteration 761)
+[SUCCESS] Found a consistent system! (Iteration 762)
+[SUCCESS] Found a consistent system! (Iteration 766)
+[SUCCESS] Found a consistent system! (Iteration 767)
+[SUCCESS] Found a consistent system! (Iteration 769)
+[SUCCESS] Found a consistent system! (Iteration 770)
+[SUCCESS] Found a consistent system! (Iteration 773)
+[SUCCESS] Found a consistent system! (Iteration 774)
+[SUCCESS] Found a consistent system! (Iteration 776)
+[SUCCESS] Found a consistent system! (Iteration 777)
+[SUCCESS] Found a consistent system! (Iteration 785)
+[SUCCESS] Found a consistent system! (Iteration 786)
+[SUCCESS] Found a consistent system! (Iteration 788)
+[SUCCESS] Found a consistent system! (Iteration 789)
+[SUCCESS] Found a consistent system! (Iteration 792)
+[SUCCESS] Found a consistent system! (Iteration 793)
+[SUCCESS] Found a consistent system! (Iteration 795)
+[SUCCESS] Found a consistent system! (Iteration 796)
+[SUCCESS] Found a consistent system! (Iteration 800)
+[SUCCESS] Found a consistent system! (Iteration 801)
+[SUCCESS] Found a consistent system! (Iteration 803)
+[SUCCESS] Found a consistent system! (Iteration 804)
+[SUCCESS] Found a consistent system! (Iteration 807)
+[SUCCESS] Found a consistent system! (Iteration 808)
+[SUCCESS] Found a consistent system! (Iteration 810)
+[SUCCESS] Found a consistent system! (Iteration 811)
+[SUCCESS] Found a consistent system! (Iteration 816)
+[SUCCESS] Found a consistent system! (Iteration 817)
+[SUCCESS] Found a consistent system! (Iteration 819)
+[SUCCESS] Found a consistent system! (Iteration 820)
+[SUCCESS] Found a consistent system! (Iteration 823)
+[SUCCESS] Found a consistent system! (Iteration 824)
+[SUCCESS] Found a consistent system! (Iteration 826)
+[SUCCESS] Found a consistent system! (Iteration 827)
+[SUCCESS] Found a consistent system! (Iteration 831)
+[SUCCESS] Found a consistent system! (Iteration 832)
+[SUCCESS] Found a consistent system! (Iteration 834)
+[SUCCESS] Found a consistent system! (Iteration 835)
+[SUCCESS] Found a consistent system! (Iteration 838)
+[SUCCESS] Found a consistent system! (Iteration 839)
+[SUCCESS] Found a consistent system! (Iteration 841)
+[SUCCESS] Found a consistent system! (Iteration 842)
+[SUCCESS] Found a consistent system! (Iteration 848)
+[SUCCESS] Found a consistent system! (Iteration 849)
+[SUCCESS] Found a consistent system! (Iteration 851)
+[SUCCESS] Found a consistent system! (Iteration 852)
+[SUCCESS] Found a consistent system! (Iteration 855)
+[SUCCESS] Found a consistent system! (Iteration 856)
+[SUCCESS] Found a consistent system! (Iteration 858)
+[SUCCESS] Found a consistent system! (Iteration 859)
+[SUCCESS] Found a consistent system! (Iteration 863)
+[SUCCESS] Found a consistent system! (Iteration 864)
+[SUCCESS] Found a consistent system! (Iteration 866)
+[SUCCESS] Found a consistent system! (Iteration 867)
+[SUCCESS] Found a consistent system! (Iteration 870)
+[SUCCESS] Found a consistent system! (Iteration 871)
+[SUCCESS] Found a consistent system! (Iteration 873)
+[SUCCESS] Found a consistent system! (Iteration 874)
+[SUCCESS] Found a consistent system! (Iteration 879)
+[SUCCESS] Found a consistent system! (Iteration 880)
+[SUCCESS] Found a consistent system! (Iteration 882)
+[SUCCESS] Found a consistent system! (Iteration 883)
+[SUCCESS] Found a consistent system! (Iteration 886)
+[SUCCESS] Found a consistent system! (Iteration 887)
+[SUCCESS] Found a consistent system! (Iteration 889)
+[SUCCESS] Found a consistent system! (Iteration 890)
+[SUCCESS] Found a consistent system! (Iteration 894)
+[SUCCESS] Found a consistent system! (Iteration 895)
+[SUCCESS] Found a consistent system! (Iteration 897)
+[SUCCESS] Found a consistent system! (Iteration 898)
+[SUCCESS] Found a consistent system! (Iteration 901)
+[SUCCESS] Found a consistent system! (Iteration 902)
+[SUCCESS] Found a consistent system! (Iteration 904)
+[SUCCESS] Found a consistent system! (Iteration 905)
+[SUCCESS] Found a consistent system! (Iteration 912)
+[SUCCESS] Found a consistent system! (Iteration 913)
+[SUCCESS] Found a consistent system! (Iteration 915)
+[SUCCESS] Found a consistent system! (Iteration 916)
+[SUCCESS] Found a consistent system! (Iteration 919)
+[SUCCESS] Found a consistent system! (Iteration 920)
+[SUCCESS] Found a consistent system! (Iteration 922)
+[SUCCESS] Found a consistent system! (Iteration 923)
+[SUCCESS] Found a consistent system! (Iteration 927)
+[SUCCESS] Found a consistent system! (Iteration 928)
+[SUCCESS] Found a consistent system! (Iteration 930)
+[SUCCESS] Found a consistent system! (Iteration 931)
+[SUCCESS] Found a consistent system! (Iteration 934)
+[SUCCESS] Found a consistent system! (Iteration 935)
+[SUCCESS] Found a consistent system! (Iteration 937)
+[SUCCESS] Found a consistent system! (Iteration 938)
+[SUCCESS] Found a consistent system! (Iteration 943)
+[SUCCESS] Found a consistent system! (Iteration 944)
+[SUCCESS] Found a consistent system! (Iteration 946)
+[SUCCESS] Found a consistent system! (Iteration 947)
+[SUCCESS] Found a consistent system! (Iteration 950)
+[SUCCESS] Found a consistent system! (Iteration 951)
+[SUCCESS] Found a consistent system! (Iteration 953)
+[SUCCESS] Found a consistent system! (Iteration 954)
+[SUCCESS] Found a consistent system! (Iteration 958)
+[SUCCESS] Found a consistent system! (Iteration 959)
+[SUCCESS] Found a consistent system! (Iteration 961)
+[SUCCESS] Found a consistent system! (Iteration 962)
+[SUCCESS] Found a consistent system! (Iteration 965)
+[SUCCESS] Found a consistent system! (Iteration 966)
+[SUCCESS] Found a consistent system! (Iteration 968)
+[SUCCESS] Found a consistent system! (Iteration 969)
+[SUCCESS] Found a consistent system! (Iteration 975)
+[SUCCESS] Found a consistent system! (Iteration 976)
+[SUCCESS] Found a consistent system! (Iteration 978)
+[SUCCESS] Found a consistent system! (Iteration 979)
+[SUCCESS] Found a consistent system! (Iteration 982)
+[SUCCESS] Found a consistent system! (Iteration 983)
+[SUCCESS] Found a consistent system! (Iteration 985)
+[SUCCESS] Found a consistent system! (Iteration 986)
+[SUCCESS] Found a consistent system! (Iteration 990)
+[SUCCESS] Found a consistent system! (Iteration 991)
+[SUCCESS] Found a consistent system! (Iteration 993)
+[SUCCESS] Found a consistent system! (Iteration 994)
+[SUCCESS] Found a consistent system! (Iteration 997)
+[SUCCESS] Found a consistent system! (Iteration 998)
+[SUCCESS] Found a consistent system! (Iteration 1000)
+[SUCCESS] Found a consistent system! (Iteration 1001)
+[SUCCESS] Found a consistent system! (Iteration 1006)
+[SUCCESS] Found a consistent system! (Iteration 1007)
+[SUCCESS] Found a consistent system! (Iteration 1009)
+[SUCCESS] Found a consistent system! (Iteration 1010)
+[SUCCESS] Found a consistent system! (Iteration 1013)
+[SUCCESS] Found a consistent system! (Iteration 1014)
+[SUCCESS] Found a consistent system! (Iteration 1016)
+[SUCCESS] Found a consistent system! (Iteration 1017)
+[SUCCESS] Found a consistent system! (Iteration 1021)
+[SUCCESS] Found a consistent system! (Iteration 1022)
+[SUCCESS] Found a consistent system! (Iteration 1024)
+[SUCCESS] Found a consistent system! (Iteration 1025)
+[SUCCESS] Found a consistent system! (Iteration 1028)
+[SUCCESS] Found a consistent system! (Iteration 1029)
+[SUCCESS] Found a consistent system! (Iteration 1031)
+[SUCCESS] Found a consistent system! (Iteration 1032)
+[SUCCESS] Found a consistent system! (Iteration 1042)
+[SUCCESS] Found a consistent system! (Iteration 1043)
+[SUCCESS] Found a consistent system! (Iteration 1045)
+[SUCCESS] Found a consistent system! (Iteration 1046)
+[SUCCESS] Found a consistent system! (Iteration 1049)
+[SUCCESS] Found a consistent system! (Iteration 1050)
+[SUCCESS] Found a consistent system! (Iteration 1052)
+[SUCCESS] Found a consistent system! (Iteration 1053)
+[SUCCESS] Found a consistent system! (Iteration 1057)
+[SUCCESS] Found a consistent system! (Iteration 1058)
+[SUCCESS] Found a consistent system! (Iteration 1060)
+[SUCCESS] Found a consistent system! (Iteration 1061)
+[SUCCESS] Found a consistent system! (Iteration 1064)
+[SUCCESS] Found a consistent system! (Iteration 1065)
+[SUCCESS] Found a consistent system! (Iteration 1067)
+[SUCCESS] Found a consistent system! (Iteration 1068)
+[SUCCESS] Found a consistent system! (Iteration 1073)
+[SUCCESS] Found a consistent system! (Iteration 1074)
+[SUCCESS] Found a consistent system! (Iteration 1076)
+[SUCCESS] Found a consistent system! (Iteration 1077)
+[SUCCESS] Found a consistent system! (Iteration 1080)
+[SUCCESS] Found a consistent system! (Iteration 1081)
+[SUCCESS] Found a consistent system! (Iteration 1083)
+[SUCCESS] Found a consistent system! (Iteration 1084)
+[SUCCESS] Found a consistent system! (Iteration 1088)
+[SUCCESS] Found a consistent system! (Iteration 1089)
+[SUCCESS] Found a consistent system! (Iteration 1091)
+[SUCCESS] Found a consistent system! (Iteration 1092)
+[SUCCESS] Found a consistent system! (Iteration 1095)
+[SUCCESS] Found a consistent system! (Iteration 1096)
+[SUCCESS] Found a consistent system! (Iteration 1098)
+[SUCCESS] Found a consistent system! (Iteration 1099)
+[SUCCESS] Found a consistent system! (Iteration 1105)
+[SUCCESS] Found a consistent system! (Iteration 1106)
+[SUCCESS] Found a consistent system! (Iteration 1108)
+[SUCCESS] Found a consistent system! (Iteration 1109)
+[SUCCESS] Found a consistent system! (Iteration 1112)
+[SUCCESS] Found a consistent system! (Iteration 1113)
+[SUCCESS] Found a consistent system! (Iteration 1115)
+[SUCCESS] Found a consistent system! (Iteration 1116)
+[SUCCESS] Found a consistent system! (Iteration 1120)
+[SUCCESS] Found a consistent system! (Iteration 1121)
+[SUCCESS] Found a consistent system! (Iteration 1123)
+[SUCCESS] Found a consistent system! (Iteration 1124)
+[SUCCESS] Found a consistent system! (Iteration 1127)
+[SUCCESS] Found a consistent system! (Iteration 1128)
+[SUCCESS] Found a consistent system! (Iteration 1130)
+[SUCCESS] Found a consistent system! (Iteration 1131)
+[SUCCESS] Found a consistent system! (Iteration 1136)
+[SUCCESS] Found a consistent system! (Iteration 1137)
+[SUCCESS] Found a consistent system! (Iteration 1139)
+[SUCCESS] Found a consistent system! (Iteration 1140)
+[SUCCESS] Found a consistent system! (Iteration 1143)
+[SUCCESS] Found a consistent system! (Iteration 1144)
+[SUCCESS] Found a consistent system! (Iteration 1146)
+[SUCCESS] Found a consistent system! (Iteration 1147)
+[SUCCESS] Found a consistent system! (Iteration 1151)
+[SUCCESS] Found a consistent system! (Iteration 1152)
+[SUCCESS] Found a consistent system! (Iteration 1154)
+[SUCCESS] Found a consistent system! (Iteration 1155)
+[SUCCESS] Found a consistent system! (Iteration 1158)
+[SUCCESS] Found a consistent system! (Iteration 1159)
+[SUCCESS] Found a consistent system! (Iteration 1161)
+[SUCCESS] Found a consistent system! (Iteration 1162)
+[SUCCESS] Found a consistent system! (Iteration 1169)
+[SUCCESS] Found a consistent system! (Iteration 1170)
+[SUCCESS] Found a consistent system! (Iteration 1172)
+[SUCCESS] Found a consistent system! (Iteration 1173)
+[SUCCESS] Found a consistent system! (Iteration 1176)
+[SUCCESS] Found a consistent system! (Iteration 1177)
+[SUCCESS] Found a consistent system! (Iteration 1179)
+[SUCCESS] Found a consistent system! (Iteration 1180)
+[SUCCESS] Found a consistent system! (Iteration 1184)
+[SUCCESS] Found a consistent system! (Iteration 1185)
+[SUCCESS] Found a consistent system! (Iteration 1187)
+[SUCCESS] Found a consistent system! (Iteration 1188)
+[SUCCESS] Found a consistent system! (Iteration 1191)
+[SUCCESS] Found a consistent system! (Iteration 1192)
+[SUCCESS] Found a consistent system! (Iteration 1194)
+[SUCCESS] Found a consistent system! (Iteration 1195)
+[SUCCESS] Found a consistent system! (Iteration 1200)
+[SUCCESS] Found a consistent system! (Iteration 1201)
+[SUCCESS] Found a consistent system! (Iteration 1203)
+[SUCCESS] Found a consistent system! (Iteration 1204)
+[SUCCESS] Found a consistent system! (Iteration 1207)
+[SUCCESS] Found a consistent system! (Iteration 1208)
+[SUCCESS] Found a consistent system! (Iteration 1210)
+[SUCCESS] Found a consistent system! (Iteration 1211)
+[SUCCESS] Found a consistent system! (Iteration 1215)
+[SUCCESS] Found a consistent system! (Iteration 1216)
+[SUCCESS] Found a consistent system! (Iteration 1218)
+[SUCCESS] Found a consistent system! (Iteration 1219)
+[SUCCESS] Found a consistent system! (Iteration 1222)
+[SUCCESS] Found a consistent system! (Iteration 1223)
+[SUCCESS] Found a consistent system! (Iteration 1225)
+[SUCCESS] Found a consistent system! (Iteration 1226)
+[SUCCESS] Found a consistent system! (Iteration 1232)
+[SUCCESS] Found a consistent system! (Iteration 1233)
+[SUCCESS] Found a consistent system! (Iteration 1235)
+[SUCCESS] Found a consistent system! (Iteration 1236)
+[SUCCESS] Found a consistent system! (Iteration 1239)
+[SUCCESS] Found a consistent system! (Iteration 1240)
+[SUCCESS] Found a consistent system! (Iteration 1242)
+[SUCCESS] Found a consistent system! (Iteration 1243)
+[SUCCESS] Found a consistent system! (Iteration 1247)
+[SUCCESS] Found a consistent system! (Iteration 1248)
+[SUCCESS] Found a consistent system! (Iteration 1250)
+[SUCCESS] Found a consistent system! (Iteration 1251)
+[SUCCESS] Found a consistent system! (Iteration 1254)
+[SUCCESS] Found a consistent system! (Iteration 1255)
+[SUCCESS] Found a consistent system! (Iteration 1257)
+[SUCCESS] Found a consistent system! (Iteration 1258)
+[SUCCESS] Found a consistent system! (Iteration 1263)
+[SUCCESS] Found a consistent system! (Iteration 1264)
+[SUCCESS] Found a consistent system! (Iteration 1266)
+[SUCCESS] Found a consistent system! (Iteration 1267)
+[SUCCESS] Found a consistent system! (Iteration 1270)
+[SUCCESS] Found a consistent system! (Iteration 1271)
+[SUCCESS] Found a consistent system! (Iteration 1273)
+[SUCCESS] Found a consistent system! (Iteration 1274)
+[SUCCESS] Found a consistent system! (Iteration 1278)
+[SUCCESS] Found a consistent system! (Iteration 1279)
+[SUCCESS] Found a consistent system! (Iteration 1281)
+[SUCCESS] Found a consistent system! (Iteration 1282)
+[SUCCESS] Found a consistent system! (Iteration 1285)
+[SUCCESS] Found a consistent system! (Iteration 1286)
+[SUCCESS] Found a consistent system! (Iteration 1288)
+[SUCCESS] Found a consistent system! (Iteration 1289)
+[SUCCESS] Found a consistent system! (Iteration 1297)
+[SUCCESS] Found a consistent system! (Iteration 1298)
+[SUCCESS] Found a consistent system! (Iteration 1300)
+[SUCCESS] Found a consistent system! (Iteration 1301)
+[SUCCESS] Found a consistent system! (Iteration 1304)
+[SUCCESS] Found a consistent system! (Iteration 1305)
+[SUCCESS] Found a consistent system! (Iteration 1307)
+[SUCCESS] Found a consistent system! (Iteration 1308)
+[SUCCESS] Found a consistent system! (Iteration 1312)
+[SUCCESS] Found a consistent system! (Iteration 1313)
+[SUCCESS] Found a consistent system! (Iteration 1315)
+[SUCCESS] Found a consistent system! (Iteration 1316)
+[SUCCESS] Found a consistent system! (Iteration 1319)
+[SUCCESS] Found a consistent system! (Iteration 1320)
+[SUCCESS] Found a consistent system! (Iteration 1322)
+[SUCCESS] Found a consistent system! (Iteration 1323)
+[SUCCESS] Found a consistent system! (Iteration 1328)
+[SUCCESS] Found a consistent system! (Iteration 1329)
+[SUCCESS] Found a consistent system! (Iteration 1331)
+[SUCCESS] Found a consistent system! (Iteration 1332)
+[SUCCESS] Found a consistent system! (Iteration 1335)
+[SUCCESS] Found a consistent system! (Iteration 1336)
+[SUCCESS] Found a consistent system! (Iteration 1338)
+[SUCCESS] Found a consistent system! (Iteration 1339)
+[SUCCESS] Found a consistent system! (Iteration 1343)
+[SUCCESS] Found a consistent system! (Iteration 1344)
+[SUCCESS] Found a consistent system! (Iteration 1346)
+[SUCCESS] Found a consistent system! (Iteration 1347)
+[SUCCESS] Found a consistent system! (Iteration 1350)
+[SUCCESS] Found a consistent system! (Iteration 1351)
+[SUCCESS] Found a consistent system! (Iteration 1353)
+[SUCCESS] Found a consistent system! (Iteration 1354)
+[SUCCESS] Found a consistent system! (Iteration 1360)
+[SUCCESS] Found a consistent system! (Iteration 1361)
+[SUCCESS] Found a consistent system! (Iteration 1363)
+[SUCCESS] Found a consistent system! (Iteration 1364)
+[SUCCESS] Found a consistent system! (Iteration 1367)
+[SUCCESS] Found a consistent system! (Iteration 1368)
+[SUCCESS] Found a consistent system! (Iteration 1370)
+[SUCCESS] Found a consistent system! (Iteration 1371)
+[SUCCESS] Found a consistent system! (Iteration 1375)
+[SUCCESS] Found a consistent system! (Iteration 1376)
+[SUCCESS] Found a consistent system! (Iteration 1378)
+[SUCCESS] Found a consistent system! (Iteration 1379)
+[SUCCESS] Found a consistent system! (Iteration 1382)
+[SUCCESS] Found a consistent system! (Iteration 1383)
+[SUCCESS] Found a consistent system! (Iteration 1385)
+[SUCCESS] Found a consistent system! (Iteration 1386)
+[SUCCESS] Found a consistent system! (Iteration 1391)
+[SUCCESS] Found a consistent system! (Iteration 1392)
+[SUCCESS] Found a consistent system! (Iteration 1394)
+[SUCCESS] Found a consistent system! (Iteration 1395)
+[SUCCESS] Found a consistent system! (Iteration 1398)
+[SUCCESS] Found a consistent system! (Iteration 1399)
+[SUCCESS] Found a consistent system! (Iteration 1401)
+[SUCCESS] Found a consistent system! (Iteration 1402)
+[SUCCESS] Found a consistent system! (Iteration 1406)
+[SUCCESS] Found a consistent system! (Iteration 1407)
+[SUCCESS] Found a consistent system! (Iteration 1409)
+[SUCCESS] Found a consistent system! (Iteration 1410)
+[SUCCESS] Found a consistent system! (Iteration 1413)
+[SUCCESS] Found a consistent system! (Iteration 1414)
+[SUCCESS] Found a consistent system! (Iteration 1416)
+[SUCCESS] Found a consistent system! (Iteration 1417)
+[SUCCESS] Found a consistent system! (Iteration 1424)
+[SUCCESS] Found a consistent system! (Iteration 1425)
+[SUCCESS] Found a consistent system! (Iteration 1427)
+[SUCCESS] Found a consistent system! (Iteration 1428)
+[SUCCESS] Found a consistent system! (Iteration 1431)
+[SUCCESS] Found a consistent system! (Iteration 1432)
+[SUCCESS] Found a consistent system! (Iteration 1434)
+[SUCCESS] Found a consistent system! (Iteration 1435)
+[SUCCESS] Found a consistent system! (Iteration 1439)
+[SUCCESS] Found a consistent system! (Iteration 1440)
+[SUCCESS] Found a consistent system! (Iteration 1442)
+[SUCCESS] Found a consistent system! (Iteration 1443)
+[SUCCESS] Found a consistent system! (Iteration 1446)
+[SUCCESS] Found a consistent system! (Iteration 1447)
+[SUCCESS] Found a consistent system! (Iteration 1449)
+[SUCCESS] Found a consistent system! (Iteration 1450)
+[SUCCESS] Found a consistent system! (Iteration 1455)
+[SUCCESS] Found a consistent system! (Iteration 1456)
+[SUCCESS] Found a consistent system! (Iteration 1458)
+[SUCCESS] Found a consistent system! (Iteration 1459)
+[SUCCESS] Found a consistent system! (Iteration 1462)
+[SUCCESS] Found a consistent system! (Iteration 1463)
+[SUCCESS] Found a consistent system! (Iteration 1465)
+[SUCCESS] Found a consistent system! (Iteration 1466)
+[SUCCESS] Found a consistent system! (Iteration 1470)
+[SUCCESS] Found a consistent system! (Iteration 1471)
+[SUCCESS] Found a consistent system! (Iteration 1473)
+[SUCCESS] Found a consistent system! (Iteration 1474)
+[SUCCESS] Found a consistent system! (Iteration 1477)
+[SUCCESS] Found a consistent system! (Iteration 1478)
+[SUCCESS] Found a consistent system! (Iteration 1480)
+[SUCCESS] Found a consistent system! (Iteration 1481)
+[SUCCESS] Found a consistent system! (Iteration 1487)
+[SUCCESS] Found a consistent system! (Iteration 1488)
+[SUCCESS] Found a consistent system! (Iteration 1490)
+[SUCCESS] Found a consistent system! (Iteration 1491)
+[SUCCESS] Found a consistent system! (Iteration 1494)
+[SUCCESS] Found a consistent system! (Iteration 1495)
+[SUCCESS] Found a consistent system! (Iteration 1497)
+[SUCCESS] Found a consistent system! (Iteration 1498)
+[SUCCESS] Found a consistent system! (Iteration 1502)
+[SUCCESS] Found a consistent system! (Iteration 1503)
+[SUCCESS] Found a consistent system! (Iteration 1505)
+[SUCCESS] Found a consistent system! (Iteration 1506)
+[SUCCESS] Found a consistent system! (Iteration 1509)
+[SUCCESS] Found a consistent system! (Iteration 1510)
+[SUCCESS] Found a consistent system! (Iteration 1512)
+[SUCCESS] Found a consistent system! (Iteration 1513)
+[SUCCESS] Found a consistent system! (Iteration 1518)
+[SUCCESS] Found a consistent system! (Iteration 1519)
+[SUCCESS] Found a consistent system! (Iteration 1521)
+[SUCCESS] Found a consistent system! (Iteration 1522)
+[SUCCESS] Found a consistent system! (Iteration 1525)
+[SUCCESS] Found a consistent system! (Iteration 1526)
+[SUCCESS] Found a consistent system! (Iteration 1528)
+[SUCCESS] Found a consistent system! (Iteration 1529)
+[SUCCESS] Found a consistent system! (Iteration 1533)
+[SUCCESS] Found a consistent system! (Iteration 1534)
+[SUCCESS] Found a consistent system! (Iteration 1536)
+[SUCCESS] Found a consistent system! (Iteration 1537)
+[SUCCESS] Found a consistent system! (Iteration 1540)
+[SUCCESS] Found a consistent system! (Iteration 1541)
+[SUCCESS] Found a consistent system! (Iteration 1543)
+[SUCCESS] Found a consistent system! (Iteration 1544)
+[SUCCESS] Found a consistent system! (Iteration 1553)
+[SUCCESS] Found a consistent system! (Iteration 1554)
+[SUCCESS] Found a consistent system! (Iteration 1556)
+[SUCCESS] Found a consistent system! (Iteration 1557)
+[SUCCESS] Found a consistent system! (Iteration 1560)
+[SUCCESS] Found a consistent system! (Iteration 1561)
+[SUCCESS] Found a consistent system! (Iteration 1563)
+[SUCCESS] Found a consistent system! (Iteration 1564)
+[SUCCESS] Found a consistent system! (Iteration 1568)
+[SUCCESS] Found a consistent system! (Iteration 1569)
+[SUCCESS] Found a consistent system! (Iteration 1571)
+[SUCCESS] Found a consistent system! (Iteration 1572)
+[SUCCESS] Found a consistent system! (Iteration 1575)
+[SUCCESS] Found a consistent system! (Iteration 1576)
+[SUCCESS] Found a consistent system! (Iteration 1578)
+[SUCCESS] Found a consistent system! (Iteration 1579)
+[SUCCESS] Found a consistent system! (Iteration 1584)
+[SUCCESS] Found a consistent system! (Iteration 1585)
+[SUCCESS] Found a consistent system! (Iteration 1587)
+[SUCCESS] Found a consistent system! (Iteration 1588)
+[SUCCESS] Found a consistent system! (Iteration 1591)
+[SUCCESS] Found a consistent system! (Iteration 1592)
+[SUCCESS] Found a consistent system! (Iteration 1594)
+[SUCCESS] Found a consistent system! (Iteration 1595)
+[SUCCESS] Found a consistent system! (Iteration 1599)
+[SUCCESS] Found a consistent system! (Iteration 1600)
+[SUCCESS] Found a consistent system! (Iteration 1602)
+[SUCCESS] Found a consistent system! (Iteration 1603)
+[SUCCESS] Found a consistent system! (Iteration 1606)
+[SUCCESS] Found a consistent system! (Iteration 1607)
+[SUCCESS] Found a consistent system! (Iteration 1609)
+[SUCCESS] Found a consistent system! (Iteration 1610)
+[SUCCESS] Found a consistent system! (Iteration 1616)
+[SUCCESS] Found a consistent system! (Iteration 1617)
+[SUCCESS] Found a consistent system! (Iteration 1619)
+[SUCCESS] Found a consistent system! (Iteration 1620)
+[SUCCESS] Found a consistent system! (Iteration 1623)
+[SUCCESS] Found a consistent system! (Iteration 1624)
+[SUCCESS] Found a consistent system! (Iteration 1626)
+[SUCCESS] Found a consistent system! (Iteration 1627)
+[SUCCESS] Found a consistent system! (Iteration 1631)
+[SUCCESS] Found a consistent system! (Iteration 1632)
+[SUCCESS] Found a consistent system! (Iteration 1634)
+[SUCCESS] Found a consistent system! (Iteration 1635)
+[SUCCESS] Found a consistent system! (Iteration 1638)
+[SUCCESS] Found a consistent system! (Iteration 1639)
+[SUCCESS] Found a consistent system! (Iteration 1641)
+[SUCCESS] Found a consistent system! (Iteration 1642)
+[SUCCESS] Found a consistent system! (Iteration 1647)
+[SUCCESS] Found a consistent system! (Iteration 1648)
+[SUCCESS] Found a consistent system! (Iteration 1650)
+[SUCCESS] Found a consistent system! (Iteration 1651)
+[SUCCESS] Found a consistent system! (Iteration 1654)
+[SUCCESS] Found a consistent system! (Iteration 1655)
+[SUCCESS] Found a consistent system! (Iteration 1657)
+[SUCCESS] Found a consistent system! (Iteration 1658)
+[SUCCESS] Found a consistent system! (Iteration 1662)
+[SUCCESS] Found a consistent system! (Iteration 1663)
+[SUCCESS] Found a consistent system! (Iteration 1665)
+[SUCCESS] Found a consistent system! (Iteration 1666)
+[SUCCESS] Found a consistent system! (Iteration 1669)
+[SUCCESS] Found a consistent system! (Iteration 1670)
+[SUCCESS] Found a consistent system! (Iteration 1672)
+[SUCCESS] Found a consistent system! (Iteration 1673)
+[SUCCESS] Found a consistent system! (Iteration 1680)
+[SUCCESS] Found a consistent system! (Iteration 1681)
+[SUCCESS] Found a consistent system! (Iteration 1683)
+[SUCCESS] Found a consistent system! (Iteration 1684)
+[SUCCESS] Found a consistent system! (Iteration 1687)
+[SUCCESS] Found a consistent system! (Iteration 1688)
+[SUCCESS] Found a consistent system! (Iteration 1690)
+[SUCCESS] Found a consistent system! (Iteration 1691)
+[SUCCESS] Found a consistent system! (Iteration 1695)
+[SUCCESS] Found a consistent system! (Iteration 1696)
+[SUCCESS] Found a consistent system! (Iteration 1698)
+[SUCCESS] Found a consistent system! (Iteration 1699)
+[SUCCESS] Found a consistent system! (Iteration 1702)
+[SUCCESS] Found a consistent system! (Iteration 1703)
+[SUCCESS] Found a consistent system! (Iteration 1705)
+[SUCCESS] Found a consistent system! (Iteration 1706)
+[SUCCESS] Found a consistent system! (Iteration 1711)
+[SUCCESS] Found a consistent system! (Iteration 1712)
+[SUCCESS] Found a consistent system! (Iteration 1714)
+[SUCCESS] Found a consistent system! (Iteration 1715)
+[SUCCESS] Found a consistent system! (Iteration 1718)
+[SUCCESS] Found a consistent system! (Iteration 1719)
+[SUCCESS] Found a consistent system! (Iteration 1721)
+[SUCCESS] Found a consistent system! (Iteration 1722)
+[SUCCESS] Found a consistent system! (Iteration 1726)
+[SUCCESS] Found a consistent system! (Iteration 1727)
+[SUCCESS] Found a consistent system! (Iteration 1729)
+[SUCCESS] Found a consistent system! (Iteration 1730)
+[SUCCESS] Found a consistent system! (Iteration 1733)
+[SUCCESS] Found a consistent system! (Iteration 1734)
+[SUCCESS] Found a consistent system! (Iteration 1736)
+[SUCCESS] Found a consistent system! (Iteration 1737)
+[SUCCESS] Found a consistent system! (Iteration 1743)
+[SUCCESS] Found a consistent system! (Iteration 1744)
+[SUCCESS] Found a consistent system! (Iteration 1746)
+[SUCCESS] Found a consistent system! (Iteration 1747)
+[SUCCESS] Found a consistent system! (Iteration 1750)
+[SUCCESS] Found a consistent system! (Iteration 1751)
+[SUCCESS] Found a consistent system! (Iteration 1753)
+[SUCCESS] Found a consistent system! (Iteration 1754)
+[SUCCESS] Found a consistent system! (Iteration 1758)
+[SUCCESS] Found a consistent system! (Iteration 1759)
+[SUCCESS] Found a consistent system! (Iteration 1761)
+[SUCCESS] Found a consistent system! (Iteration 1762)
+[SUCCESS] Found a consistent system! (Iteration 1765)
+[SUCCESS] Found a consistent system! (Iteration 1766)
+[SUCCESS] Found a consistent system! (Iteration 1768)
+[SUCCESS] Found a consistent system! (Iteration 1769)
+[SUCCESS] Found a consistent system! (Iteration 1774)
+[SUCCESS] Found a consistent system! (Iteration 1775)
+[SUCCESS] Found a consistent system! (Iteration 1777)
+[SUCCESS] Found a consistent system! (Iteration 1778)
+[SUCCESS] Found a consistent system! (Iteration 1781)
+[SUCCESS] Found a consistent system! (Iteration 1782)
+[SUCCESS] Found a consistent system! (Iteration 1784)
+[SUCCESS] Found a consistent system! (Iteration 1785)
+[SUCCESS] Found a consistent system! (Iteration 1789)
+[SUCCESS] Found a consistent system! (Iteration 1790)
+[SUCCESS] Found a consistent system! (Iteration 1792)
+[SUCCESS] Found a consistent system! (Iteration 1793)
+[SUCCESS] Found a consistent system! (Iteration 1796)
+[SUCCESS] Found a consistent system! (Iteration 1797)
+[SUCCESS] Found a consistent system! (Iteration 1799)
+[SUCCESS] Found a consistent system! (Iteration 1800)
+[SUCCESS] Found a consistent system! (Iteration 1808)
+[SUCCESS] Found a consistent system! (Iteration 1809)
+[SUCCESS] Found a consistent system! (Iteration 1811)
+[SUCCESS] Found a consistent system! (Iteration 1812)
+[SUCCESS] Found a consistent system! (Iteration 1815)
+[SUCCESS] Found a consistent system! (Iteration 1816)
+[SUCCESS] Found a consistent system! (Iteration 1818)
+[SUCCESS] Found a consistent system! (Iteration 1819)
+[SUCCESS] Found a consistent system! (Iteration 1823)
+[SUCCESS] Found a consistent system! (Iteration 1824)
+[SUCCESS] Found a consistent system! (Iteration 1826)
+[SUCCESS] Found a consistent system! (Iteration 1827)
+[SUCCESS] Found a consistent system! (Iteration 1830)
+[SUCCESS] Found a consistent system! (Iteration 1831)
+[SUCCESS] Found a consistent system! (Iteration 1833)
+[SUCCESS] Found a consistent system! (Iteration 1834)
+[SUCCESS] Found a consistent system! (Iteration 1839)
+[SUCCESS] Found a consistent system! (Iteration 1840)
+[SUCCESS] Found a consistent system! (Iteration 1842)
+[SUCCESS] Found a consistent system! (Iteration 1843)
+[SUCCESS] Found a consistent system! (Iteration 1846)
+[SUCCESS] Found a consistent system! (Iteration 1847)
+[SUCCESS] Found a consistent system! (Iteration 1849)
+[SUCCESS] Found a consistent system! (Iteration 1850)
+[SUCCESS] Found a consistent system! (Iteration 1854)
+[SUCCESS] Found a consistent system! (Iteration 1855)
+[SUCCESS] Found a consistent system! (Iteration 1857)
+[SUCCESS] Found a consistent system! (Iteration 1858)
+[SUCCESS] Found a consistent system! (Iteration 1861)
+[SUCCESS] Found a consistent system! (Iteration 1862)
+[SUCCESS] Found a consistent system! (Iteration 1864)
+[SUCCESS] Found a consistent system! (Iteration 1865)
+[SUCCESS] Found a consistent system! (Iteration 1871)
+[SUCCESS] Found a consistent system! (Iteration 1872)
+[SUCCESS] Found a consistent system! (Iteration 1874)
+[SUCCESS] Found a consistent system! (Iteration 1875)
+[SUCCESS] Found a consistent system! (Iteration 1878)
+[SUCCESS] Found a consistent system! (Iteration 1879)
+[SUCCESS] Found a consistent system! (Iteration 1881)
+[SUCCESS] Found a consistent system! (Iteration 1882)
+[SUCCESS] Found a consistent system! (Iteration 1886)
+[SUCCESS] Found a consistent system! (Iteration 1887)
+[SUCCESS] Found a consistent system! (Iteration 1889)
+[SUCCESS] Found a consistent system! (Iteration 1890)
+[SUCCESS] Found a consistent system! (Iteration 1893)
+[SUCCESS] Found a consistent system! (Iteration 1894)
+[SUCCESS] Found a consistent system! (Iteration 1896)
+[SUCCESS] Found a consistent system! (Iteration 1897)
+[SUCCESS] Found a consistent system! (Iteration 1902)
+[SUCCESS] Found a consistent system! (Iteration 1903)
+[SUCCESS] Found a consistent system! (Iteration 1905)
+[SUCCESS] Found a consistent system! (Iteration 1906)
+[SUCCESS] Found a consistent system! (Iteration 1909)
+[SUCCESS] Found a consistent system! (Iteration 1910)
+[SUCCESS] Found a consistent system! (Iteration 1912)
+[SUCCESS] Found a consistent system! (Iteration 1913)
+[SUCCESS] Found a consistent system! (Iteration 1917)
+[SUCCESS] Found a consistent system! (Iteration 1918)
+[SUCCESS] Found a consistent system! (Iteration 1920)
+[SUCCESS] Found a consistent system! (Iteration 1921)
+[SUCCESS] Found a consistent system! (Iteration 1924)
+[SUCCESS] Found a consistent system! (Iteration 1925)
+[SUCCESS] Found a consistent system! (Iteration 1927)
+[SUCCESS] Found a consistent system! (Iteration 1928)
+[SUCCESS] Found a consistent system! (Iteration 1935)
+[SUCCESS] Found a consistent system! (Iteration 1936)
+[SUCCESS] Found a consistent system! (Iteration 1938)
+[SUCCESS] Found a consistent system! (Iteration 1939)
+[SUCCESS] Found a consistent system! (Iteration 1942)
+[SUCCESS] Found a consistent system! (Iteration 1943)
+[SUCCESS] Found a consistent system! (Iteration 1945)
+[SUCCESS] Found a consistent system! (Iteration 1946)
+[SUCCESS] Found a consistent system! (Iteration 1950)
+[SUCCESS] Found a consistent system! (Iteration 1951)
+[SUCCESS] Found a consistent system! (Iteration 1953)
+[SUCCESS] Found a consistent system! (Iteration 1954)
+[SUCCESS] Found a consistent system! (Iteration 1957)
+[SUCCESS] Found a consistent system! (Iteration 1958)
+[SUCCESS] Found a consistent system! (Iteration 1960)
+[SUCCESS] Found a consistent system! (Iteration 1961)
+[SUCCESS] Found a consistent system! (Iteration 1966)
+[SUCCESS] Found a consistent system! (Iteration 1967)
+[SUCCESS] Found a consistent system! (Iteration 1969)
+[SUCCESS] Found a consistent system! (Iteration 1970)
+[SUCCESS] Found a consistent system! (Iteration 1973)
+[SUCCESS] Found a consistent system! (Iteration 1974)
+[SUCCESS] Found a consistent system! (Iteration 1976)
+[SUCCESS] Found a consistent system! (Iteration 1977)
+[SUCCESS] Found a consistent system! (Iteration 1981)
+[SUCCESS] Found a consistent system! (Iteration 1982)
+[SUCCESS] Found a consistent system! (Iteration 1984)
+[SUCCESS] Found a consistent system! (Iteration 1985)
+[SUCCESS] Found a consistent system! (Iteration 1988)
+[SUCCESS] Found a consistent system! (Iteration 1989)
+[SUCCESS] Found a consistent system! (Iteration 1991)
+[SUCCESS] Found a consistent system! (Iteration 1992)
+[SUCCESS] Found a consistent system! (Iteration 1998)
+[SUCCESS] Found a consistent system! (Iteration 1999)
+[SUCCESS] Found a consistent system! (Iteration 2001)
+[SUCCESS] Found a consistent system! (Iteration 2002)
+[SUCCESS] Found a consistent system! (Iteration 2005)
+[SUCCESS] Found a consistent system! (Iteration 2006)
+[SUCCESS] Found a consistent system! (Iteration 2008)
+[SUCCESS] Found a consistent system! (Iteration 2009)
+
+[INFO] Generated 1000 valid neighborly path systems.
+[RESULT] System 0 is METRIZABLE!
+[RESULT] System 1 is METRIZABLE!
+[RESULT] System 2 is METRIZABLE!
+[RESULT] System 3 is METRIZABLE!
+[RESULT] System 4 is METRIZABLE!
+[RESULT] System 5 is METRIZABLE!
+[RESULT] System 6 is METRIZABLE!
+[RESULT] System 7 is METRIZABLE!
+[RESULT] System 8 is METRIZABLE!
+[RESULT] System 9 is METRIZABLE!
+[RESULT] System 10 is METRIZABLE!
+[RESULT] System 11 is METRIZABLE!
+[RESULT] System 12 is METRIZABLE!
+[RESULT] System 13 is METRIZABLE!
+[RESULT] System 14 is METRIZABLE!
+[RESULT] System 15 is METRIZABLE!
+[RESULT] System 16 is METRIZABLE!
+[RESULT] System 17 is METRIZABLE!
+[RESULT] System 18 is METRIZABLE!
+[RESULT] System 19 is METRIZABLE!
+[RESULT] System 20 is METRIZABLE!
+[RESULT] System 21 is METRIZABLE!
+[RESULT] System 22 is METRIZABLE!
+[RESULT] System 23 is METRIZABLE!
+[RESULT] System 24 is METRIZABLE!
+[RESULT] System 25 is METRIZABLE!
+[RESULT] System 26 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 27 is METRIZABLE!
+[RESULT] System 28 is METRIZABLE!
+[RESULT] System 29 is METRIZABLE!
+[RESULT] System 30 is METRIZABLE!
+[RESULT] System 31 is METRIZABLE!
+[RESULT] System 32 is METRIZABLE!
+[RESULT] System 33 is METRIZABLE!
+[RESULT] System 34 is METRIZABLE!
+[RESULT] System 35 is METRIZABLE!
+[RESULT] System 36 is METRIZABLE!
+[RESULT] System 37 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 38 is METRIZABLE!
+[RESULT] System 39 is METRIZABLE!
+[RESULT] System 40 is METRIZABLE!
+[RESULT] System 41 is METRIZABLE!
+[RESULT] System 42 is METRIZABLE!
+[RESULT] System 43 is METRIZABLE!
+[RESULT] System 44 is METRIZABLE!
+[RESULT] System 45 is METRIZABLE!
+[RESULT] System 46 is METRIZABLE!
+[RESULT] System 47 is METRIZABLE!
+[RESULT] System 48 is METRIZABLE!
+[RESULT] System 49 is METRIZABLE!
+[RESULT] System 50 is METRIZABLE!
+[RESULT] System 51 is METRIZABLE!
+[RESULT] System 52 is METRIZABLE!
+[RESULT] System 53 is METRIZABLE!
+[RESULT] System 54 is METRIZABLE!
+[RESULT] System 55 is METRIZABLE!
+[RESULT] System 56 is METRIZABLE!
+[RESULT] System 57 is METRIZABLE!
+[RESULT] System 58 is METRIZABLE!
+[RESULT] System 59 is METRIZABLE!
+[RESULT] System 60 is METRIZABLE!
+[RESULT] System 61 is METRIZABLE!
+[RESULT] System 62 is METRIZABLE!
+[RESULT] System 63 is METRIZABLE!
+[RESULT] System 64 is METRIZABLE!
+[RESULT] System 65 is METRIZABLE!
+[RESULT] System 66 is METRIZABLE!
+[RESULT] System 67 is METRIZABLE!
+[RESULT] System 68 is METRIZABLE!
+[RESULT] System 69 is METRIZABLE!
+[RESULT] System 70 is METRIZABLE!
+[RESULT] System 71 is METRIZABLE!
+[RESULT] System 72 is METRIZABLE!
+[RESULT] System 73 is METRIZABLE!
+[RESULT] System 74 is METRIZABLE!
+[RESULT] System 75 is METRIZABLE!
+[RESULT] System 76 is METRIZABLE!
+[RESULT] System 77 is METRIZABLE!
+[RESULT] System 78 is METRIZABLE!
+[RESULT] System 79 is METRIZABLE!
+[RESULT] System 80 is METRIZABLE!
+[RESULT] System 81 is METRIZABLE!
+[RESULT] System 82 is METRIZABLE!
+[RESULT] System 83 is METRIZABLE!
+[RESULT] System 84 is METRIZABLE!
+[RESULT] System 85 is METRIZABLE!
+[RESULT] System 86 is METRIZABLE!
+[RESULT] System 87 is METRIZABLE!
+[RESULT] System 88 is METRIZABLE!
+[RESULT] System 89 is METRIZABLE!
+[RESULT] System 90 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 91 is METRIZABLE!
+[RESULT] System 92 is METRIZABLE!
+[RESULT] System 93 is METRIZABLE!
+[RESULT] System 94 is METRIZABLE!
+[RESULT] System 95 is METRIZABLE!
+[RESULT] System 96 is METRIZABLE!
+[RESULT] System 97 is METRIZABLE!
+[RESULT] System 98 is METRIZABLE!
+[RESULT] System 99 is METRIZABLE!
+[RESULT] System 100 is METRIZABLE!
+[RESULT] System 101 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 102 is METRIZABLE!
+[RESULT] System 103 is METRIZABLE!
+[RESULT] System 104 is METRIZABLE!
+[RESULT] System 105 is METRIZABLE!
+[RESULT] System 106 is METRIZABLE!
+[RESULT] System 107 is METRIZABLE!
+[RESULT] System 108 is METRIZABLE!
+[RESULT] System 109 is METRIZABLE!
+[RESULT] System 110 is METRIZABLE!
+[RESULT] System 111 is METRIZABLE!
+[RESULT] System 112 is METRIZABLE!
+[RESULT] System 113 is METRIZABLE!
+[RESULT] System 114 is METRIZABLE!
+[RESULT] System 115 is METRIZABLE!
+[RESULT] System 116 is METRIZABLE!
+[RESULT] System 117 is METRIZABLE!
+[RESULT] System 118 is METRIZABLE!
+[RESULT] System 119 is METRIZABLE!
+[RESULT] System 120 is METRIZABLE!
+[RESULT] System 121 is METRIZABLE!
+[RESULT] System 122 is METRIZABLE!
+[RESULT] System 123 is METRIZABLE!
+[RESULT] System 124 is METRIZABLE!
+[RESULT] System 125 is METRIZABLE!
+[RESULT] System 126 is METRIZABLE!
+[RESULT] System 127 is METRIZABLE!
+[RESULT] System 128 is METRIZABLE!
+[RESULT] System 129 is METRIZABLE!
+[RESULT] System 130 is METRIZABLE!
+[RESULT] System 131 is METRIZABLE!
+[RESULT] System 132 is METRIZABLE!
+[RESULT] System 133 is METRIZABLE!
+[RESULT] System 134 is METRIZABLE!
+[RESULT] System 135 is METRIZABLE!
+[RESULT] System 136 is METRIZABLE!
+[RESULT] System 137 is METRIZABLE!
+[RESULT] System 138 is METRIZABLE!
+[RESULT] System 139 is METRIZABLE!
+[RESULT] System 140 is METRIZABLE!
+[RESULT] System 141 is METRIZABLE!
+[RESULT] System 142 is METRIZABLE!
+[RESULT] System 143 is METRIZABLE!
+[RESULT] System 144 is METRIZABLE!
+[RESULT] System 145 is METRIZABLE!
+[RESULT] System 146 is METRIZABLE!
+[RESULT] System 147 is METRIZABLE!
+[RESULT] System 148 is METRIZABLE!
+[RESULT] System 149 is METRIZABLE!
+[RESULT] System 150 is METRIZABLE!
+[RESULT] System 151 is METRIZABLE!
+[RESULT] System 152 is METRIZABLE!
+[RESULT] System 153 is METRIZABLE!
+[RESULT] System 154 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 155 is METRIZABLE!
+[RESULT] System 156 is METRIZABLE!
+[RESULT] System 157 is METRIZABLE!
+[RESULT] System 158 is METRIZABLE!
+[RESULT] System 159 is METRIZABLE!
+[RESULT] System 160 is METRIZABLE!
+[RESULT] System 161 is METRIZABLE!
+[RESULT] System 162 is METRIZABLE!
+[RESULT] System 163 is METRIZABLE!
+[RESULT] System 164 is METRIZABLE!
+[RESULT] System 165 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 166 is METRIZABLE!
+[RESULT] System 167 is METRIZABLE!
+[RESULT] System 168 is METRIZABLE!
+[RESULT] System 169 is METRIZABLE!
+[RESULT] System 170 is METRIZABLE!
+[RESULT] System 171 is METRIZABLE!
+[RESULT] System 172 is METRIZABLE!
+[RESULT] System 173 is METRIZABLE!
+[RESULT] System 174 is METRIZABLE!
+[RESULT] System 175 is METRIZABLE!
+[RESULT] System 176 is METRIZABLE!
+[RESULT] System 177 is METRIZABLE!
+[RESULT] System 178 is METRIZABLE!
+[RESULT] System 179 is METRIZABLE!
+[RESULT] System 180 is METRIZABLE!
+[RESULT] System 181 is METRIZABLE!
+[RESULT] System 182 is METRIZABLE!
+[RESULT] System 183 is METRIZABLE!
+[RESULT] System 184 is METRIZABLE!
+[RESULT] System 185 is METRIZABLE!
+[RESULT] System 186 is METRIZABLE!
+[RESULT] System 187 is METRIZABLE!
+[RESULT] System 188 is METRIZABLE!
+[RESULT] System 189 is METRIZABLE!
+[RESULT] System 190 is METRIZABLE!
+[RESULT] System 191 is METRIZABLE!
+[RESULT] System 192 is METRIZABLE!
+[RESULT] System 193 is METRIZABLE!
+[RESULT] System 194 is METRIZABLE!
+[RESULT] System 195 is METRIZABLE!
+[RESULT] System 196 is METRIZABLE!
+[RESULT] System 197 is METRIZABLE!
+[RESULT] System 198 is METRIZABLE!
+[RESULT] System 199 is METRIZABLE!
+[RESULT] System 200 is METRIZABLE!
+[RESULT] System 201 is METRIZABLE!
+[RESULT] System 202 is METRIZABLE!
+[RESULT] System 203 is METRIZABLE!
+[RESULT] System 204 is METRIZABLE!
+[RESULT] System 205 is METRIZABLE!
+[RESULT] System 206 is METRIZABLE!
+[RESULT] System 207 is METRIZABLE!
+[RESULT] System 208 is METRIZABLE!
+[RESULT] System 209 is METRIZABLE!
+[RESULT] System 210 is METRIZABLE!
+[RESULT] System 211 is METRIZABLE!
+[RESULT] System 212 is METRIZABLE!
+[RESULT] System 213 is METRIZABLE!
+[RESULT] System 214 is METRIZABLE!
+[RESULT] System 215 is METRIZABLE!
+[RESULT] System 216 is METRIZABLE!
+[RESULT] System 217 is METRIZABLE!
+[RESULT] System 218 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 219 is METRIZABLE!
+[RESULT] System 220 is METRIZABLE!
+[RESULT] System 221 is METRIZABLE!
+[RESULT] System 222 is METRIZABLE!
+[RESULT] System 223 is METRIZABLE!
+[RESULT] System 224 is METRIZABLE!
+[RESULT] System 225 is METRIZABLE!
+[RESULT] System 226 is METRIZABLE!
+[RESULT] System 227 is METRIZABLE!
+[RESULT] System 228 is METRIZABLE!
+[RESULT] System 229 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 230 is METRIZABLE!
+[RESULT] System 231 is METRIZABLE!
+[RESULT] System 232 is METRIZABLE!
+[RESULT] System 233 is METRIZABLE!
+[RESULT] System 234 is METRIZABLE!
+[RESULT] System 235 is METRIZABLE!
+[RESULT] System 236 is METRIZABLE!
+[RESULT] System 237 is METRIZABLE!
+[RESULT] System 238 is METRIZABLE!
+[RESULT] System 239 is METRIZABLE!
+[RESULT] System 240 is METRIZABLE!
+[RESULT] System 241 is METRIZABLE!
+[RESULT] System 242 is METRIZABLE!
+[RESULT] System 243 is METRIZABLE!
+[RESULT] System 244 is METRIZABLE!
+[RESULT] System 245 is METRIZABLE!
+[RESULT] System 246 is METRIZABLE!
+[RESULT] System 247 is METRIZABLE!
+[RESULT] System 248 is METRIZABLE!
+[RESULT] System 249 is METRIZABLE!
+[RESULT] System 250 is METRIZABLE!
+[RESULT] System 251 is METRIZABLE!
+[RESULT] System 252 is METRIZABLE!
+[RESULT] System 253 is METRIZABLE!
+[RESULT] System 254 is METRIZABLE!
+[RESULT] System 255 is METRIZABLE!
+[RESULT] System 256 is METRIZABLE!
+[RESULT] System 257 is METRIZABLE!
+[RESULT] System 258 is METRIZABLE!
+[RESULT] System 259 is METRIZABLE!
+[RESULT] System 260 is METRIZABLE!
+[RESULT] System 261 is METRIZABLE!
+[RESULT] System 262 is METRIZABLE!
+[RESULT] System 263 is METRIZABLE!
+[RESULT] System 264 is METRIZABLE!
+[RESULT] System 265 is METRIZABLE!
+[RESULT] System 266 is METRIZABLE!
+[RESULT] System 267 is METRIZABLE!
+[RESULT] System 268 is METRIZABLE!
+[RESULT] System 269 is METRIZABLE!
+[RESULT] System 270 is METRIZABLE!
+[RESULT] System 271 is METRIZABLE!
+[RESULT] System 272 is METRIZABLE!
+[RESULT] System 273 is METRIZABLE!
+[RESULT] System 274 is METRIZABLE!
+[RESULT] System 275 is METRIZABLE!
+[RESULT] System 276 is METRIZABLE!
+[RESULT] System 277 is METRIZABLE!
+[RESULT] System 278 is METRIZABLE!
+[RESULT] System 279 is METRIZABLE!
+[RESULT] System 280 is METRIZABLE!
+[RESULT] System 281 is METRIZABLE!
+[RESULT] System 282 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 283 is METRIZABLE!
+[RESULT] System 284 is METRIZABLE!
+[RESULT] System 285 is METRIZABLE!
+[RESULT] System 286 is METRIZABLE!
+[RESULT] System 287 is METRIZABLE!
+[RESULT] System 288 is METRIZABLE!
+[RESULT] System 289 is METRIZABLE!
+[RESULT] System 290 is METRIZABLE!
+[RESULT] System 291 is METRIZABLE!
+[RESULT] System 292 is METRIZABLE!
+[RESULT] System 293 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 294 is METRIZABLE!
+[RESULT] System 295 is METRIZABLE!
+[RESULT] System 296 is METRIZABLE!
+[RESULT] System 297 is METRIZABLE!
+[RESULT] System 298 is METRIZABLE!
+[RESULT] System 299 is METRIZABLE!
+[RESULT] System 300 is METRIZABLE!
+[RESULT] System 301 is METRIZABLE!
+[RESULT] System 302 is METRIZABLE!
+[RESULT] System 303 is METRIZABLE!
+[RESULT] System 304 is METRIZABLE!
+[RESULT] System 305 is METRIZABLE!
+[RESULT] System 306 is METRIZABLE!
+[RESULT] System 307 is METRIZABLE!
+[RESULT] System 308 is METRIZABLE!
+[RESULT] System 309 is METRIZABLE!
+[RESULT] System 310 is METRIZABLE!
+[RESULT] System 311 is METRIZABLE!
+[RESULT] System 312 is METRIZABLE!
+[RESULT] System 313 is METRIZABLE!
+[RESULT] System 314 is METRIZABLE!
+[RESULT] System 315 is METRIZABLE!
+[RESULT] System 316 is METRIZABLE!
+[RESULT] System 317 is METRIZABLE!
+[RESULT] System 318 is METRIZABLE!
+[RESULT] System 319 is METRIZABLE!
+[RESULT] System 320 is METRIZABLE!
+[RESULT] System 321 is METRIZABLE!
+[RESULT] System 322 is METRIZABLE!
+[RESULT] System 323 is METRIZABLE!
+[RESULT] System 324 is METRIZABLE!
+[RESULT] System 325 is METRIZABLE!
+[RESULT] System 326 is METRIZABLE!
+[RESULT] System 327 is METRIZABLE!
+[RESULT] System 328 is METRIZABLE!
+[RESULT] System 329 is METRIZABLE!
+[RESULT] System 330 is METRIZABLE!
+[RESULT] System 331 is METRIZABLE!
+[RESULT] System 332 is METRIZABLE!
+[RESULT] System 333 is METRIZABLE!
+[RESULT] System 334 is METRIZABLE!
+[RESULT] System 335 is METRIZABLE!
+[RESULT] System 336 is METRIZABLE!
+[RESULT] System 337 is METRIZABLE!
+[RESULT] System 338 is METRIZABLE!
+[RESULT] System 339 is METRIZABLE!
+[RESULT] System 340 is METRIZABLE!
+[RESULT] System 341 is METRIZABLE!
+[RESULT] System 342 is METRIZABLE!
+[RESULT] System 343 is METRIZABLE!
+[RESULT] System 344 is METRIZABLE!
+[RESULT] System 345 is METRIZABLE!
+[RESULT] System 346 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 347 is METRIZABLE!
+[RESULT] System 348 is METRIZABLE!
+[RESULT] System 349 is METRIZABLE!
+[RESULT] System 350 is METRIZABLE!
+[RESULT] System 351 is METRIZABLE!
+[RESULT] System 352 is METRIZABLE!
+[RESULT] System 353 is METRIZABLE!
+[RESULT] System 354 is METRIZABLE!
+[RESULT] System 355 is METRIZABLE!
+[RESULT] System 356 is METRIZABLE!
+[RESULT] System 357 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 358 is METRIZABLE!
+[RESULT] System 359 is METRIZABLE!
+[RESULT] System 360 is METRIZABLE!
+[RESULT] System 361 is METRIZABLE!
+[RESULT] System 362 is METRIZABLE!
+[RESULT] System 363 is METRIZABLE!
+[RESULT] System 364 is METRIZABLE!
+[RESULT] System 365 is METRIZABLE!
+[RESULT] System 366 is METRIZABLE!
+[RESULT] System 367 is METRIZABLE!
+[RESULT] System 368 is METRIZABLE!
+[RESULT] System 369 is METRIZABLE!
+[RESULT] System 370 is METRIZABLE!
+[RESULT] System 371 is METRIZABLE!
+[RESULT] System 372 is METRIZABLE!
+[RESULT] System 373 is METRIZABLE!
+[RESULT] System 374 is METRIZABLE!
+[RESULT] System 375 is METRIZABLE!
+[RESULT] System 376 is METRIZABLE!
+[RESULT] System 377 is METRIZABLE!
+[RESULT] System 378 is METRIZABLE!
+[RESULT] System 379 is METRIZABLE!
+[RESULT] System 380 is METRIZABLE!
+[RESULT] System 381 is METRIZABLE!
+[RESULT] System 382 is METRIZABLE!
+[RESULT] System 383 is METRIZABLE!
+[RESULT] System 384 is METRIZABLE!
+[RESULT] System 385 is METRIZABLE!
+[RESULT] System 386 is METRIZABLE!
+[RESULT] System 387 is METRIZABLE!
+[RESULT] System 388 is METRIZABLE!
+[RESULT] System 389 is METRIZABLE!
+[RESULT] System 390 is METRIZABLE!
+[RESULT] System 391 is METRIZABLE!
+[RESULT] System 392 is METRIZABLE!
+[RESULT] System 393 is METRIZABLE!
+[RESULT] System 394 is METRIZABLE!
+[RESULT] System 395 is METRIZABLE!
+[RESULT] System 396 is METRIZABLE!
+[RESULT] System 397 is METRIZABLE!
+[RESULT] System 398 is METRIZABLE!
+[RESULT] System 399 is METRIZABLE!
+[RESULT] System 400 is METRIZABLE!
+[RESULT] System 401 is METRIZABLE!
+[RESULT] System 402 is METRIZABLE!
+[RESULT] System 403 is METRIZABLE!
+[RESULT] System 404 is METRIZABLE!
+[RESULT] System 405 is METRIZABLE!
+[RESULT] System 406 is METRIZABLE!
+[RESULT] System 407 is METRIZABLE!
+[RESULT] System 408 is METRIZABLE!
+[RESULT] System 409 is METRIZABLE!
+[RESULT] System 410 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 411 is METRIZABLE!
+[RESULT] System 412 is METRIZABLE!
+[RESULT] System 413 is METRIZABLE!
+[RESULT] System 414 is METRIZABLE!
+[RESULT] System 415 is METRIZABLE!
+[RESULT] System 416 is METRIZABLE!
+[RESULT] System 417 is METRIZABLE!
+[RESULT] System 418 is METRIZABLE!
+[RESULT] System 419 is METRIZABLE!
+[RESULT] System 420 is METRIZABLE!
+[RESULT] System 421 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 422 is METRIZABLE!
+[RESULT] System 423 is METRIZABLE!
+[RESULT] System 424 is METRIZABLE!
+[RESULT] System 425 is METRIZABLE!
+[RESULT] System 426 is METRIZABLE!
+[RESULT] System 427 is METRIZABLE!
+[RESULT] System 428 is METRIZABLE!
+[RESULT] System 429 is METRIZABLE!
+[RESULT] System 430 is METRIZABLE!
+[RESULT] System 431 is METRIZABLE!
+[RESULT] System 432 is METRIZABLE!
+[RESULT] System 433 is METRIZABLE!
+[RESULT] System 434 is METRIZABLE!
+[RESULT] System 435 is METRIZABLE!
+[RESULT] System 436 is METRIZABLE!
+[RESULT] System 437 is METRIZABLE!
+[RESULT] System 438 is METRIZABLE!
+[RESULT] System 439 is METRIZABLE!
+[RESULT] System 440 is METRIZABLE!
+[RESULT] System 441 is METRIZABLE!
+[RESULT] System 442 is METRIZABLE!
+[RESULT] System 443 is METRIZABLE!
+[RESULT] System 444 is METRIZABLE!
+[RESULT] System 445 is METRIZABLE!
+[RESULT] System 446 is METRIZABLE!
+[RESULT] System 447 is METRIZABLE!
+[RESULT] System 448 is METRIZABLE!
+[RESULT] System 449 is METRIZABLE!
+[RESULT] System 450 is METRIZABLE!
+[RESULT] System 451 is METRIZABLE!
+[RESULT] System 452 is METRIZABLE!
+[RESULT] System 453 is METRIZABLE!
+[RESULT] System 454 is METRIZABLE!
+[RESULT] System 455 is METRIZABLE!
+[RESULT] System 456 is METRIZABLE!
+[RESULT] System 457 is METRIZABLE!
+[RESULT] System 458 is METRIZABLE!
+[RESULT] System 459 is METRIZABLE!
+[RESULT] System 460 is METRIZABLE!
+[RESULT] System 461 is METRIZABLE!
+[RESULT] System 462 is METRIZABLE!
+[RESULT] System 463 is METRIZABLE!
+[RESULT] System 464 is METRIZABLE!
+[RESULT] System 465 is METRIZABLE!
+[RESULT] System 466 is METRIZABLE!
+[RESULT] System 467 is METRIZABLE!
+[RESULT] System 468 is METRIZABLE!
+[RESULT] System 469 is METRIZABLE!
+[RESULT] System 470 is METRIZABLE!
+[RESULT] System 471 is METRIZABLE!
+[RESULT] System 472 is METRIZABLE!
+[RESULT] System 473 is METRIZABLE!
+[RESULT] System 474 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 475 is METRIZABLE!
+[RESULT] System 476 is METRIZABLE!
+[RESULT] System 477 is METRIZABLE!
+[RESULT] System 478 is METRIZABLE!
+[RESULT] System 479 is METRIZABLE!
+[RESULT] System 480 is METRIZABLE!
+[RESULT] System 481 is METRIZABLE!
+[RESULT] System 482 is METRIZABLE!
+[RESULT] System 483 is METRIZABLE!
+[RESULT] System 484 is METRIZABLE!
+[RESULT] System 485 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (0, 0), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 486 is METRIZABLE!
+[RESULT] System 487 is METRIZABLE!
+[RESULT] System 488 is METRIZABLE!
+[RESULT] System 489 is METRIZABLE!
+[RESULT] System 490 is METRIZABLE!
+[RESULT] System 491 is METRIZABLE!
+[RESULT] System 492 is METRIZABLE!
+[RESULT] System 493 is METRIZABLE!
+[RESULT] System 494 is METRIZABLE!
+[RESULT] System 495 is METRIZABLE!
+[RESULT] System 496 is METRIZABLE!
+[RESULT] System 497 is METRIZABLE!
+[RESULT] System 498 is METRIZABLE!
+[RESULT] System 499 is METRIZABLE!
+[RESULT] System 500 is METRIZABLE!
+[RESULT] System 501 is METRIZABLE!
+[RESULT] System 502 is METRIZABLE!
+[RESULT] System 503 is METRIZABLE!
+[RESULT] System 504 is METRIZABLE!
+[RESULT] System 505 is METRIZABLE!
+[RESULT] System 506 is METRIZABLE!
+[RESULT] System 507 is METRIZABLE!
+[RESULT] System 508 is METRIZABLE!
+[RESULT] System 509 is METRIZABLE!
+[RESULT] System 510 is METRIZABLE!
+[RESULT] System 511 is METRIZABLE!
+[RESULT] System 512 is METRIZABLE!
+[RESULT] System 513 is METRIZABLE!
+[RESULT] System 514 is METRIZABLE!
+[RESULT] System 515 is METRIZABLE!
+[RESULT] System 516 is METRIZABLE!
+[RESULT] System 517 is METRIZABLE!
+[RESULT] System 518 is METRIZABLE!
+[RESULT] System 519 is METRIZABLE!
+[RESULT] System 520 is METRIZABLE!
+[RESULT] System 521 is METRIZABLE!
+[RESULT] System 522 is METRIZABLE!
+[RESULT] System 523 is METRIZABLE!
+[RESULT] System 524 is METRIZABLE!
+[RESULT] System 525 is METRIZABLE!
+[RESULT] System 526 is METRIZABLE!
+[RESULT] System 527 is METRIZABLE!
+[RESULT] System 528 is METRIZABLE!
+[RESULT] System 529 is METRIZABLE!
+[RESULT] System 530 is METRIZABLE!
+[RESULT] System 531 is METRIZABLE!
+[RESULT] System 532 is METRIZABLE!
+[RESULT] System 533 is METRIZABLE!
+[RESULT] System 534 is METRIZABLE!
+[RESULT] System 535 is METRIZABLE!
+[RESULT] System 536 is METRIZABLE!
+[RESULT] System 537 is METRIZABLE!
+[RESULT] System 538 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 539 is METRIZABLE!
+[RESULT] System 540 is METRIZABLE!
+[RESULT] System 541 is METRIZABLE!
+[RESULT] System 542 is METRIZABLE!
+[RESULT] System 543 is METRIZABLE!
+[RESULT] System 544 is METRIZABLE!
+[RESULT] System 545 is METRIZABLE!
+[RESULT] System 546 is METRIZABLE!
+[RESULT] System 547 is METRIZABLE!
+[RESULT] System 548 is METRIZABLE!
+[RESULT] System 549 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 550 is METRIZABLE!
+[RESULT] System 551 is METRIZABLE!
+[RESULT] System 552 is METRIZABLE!
+[RESULT] System 553 is METRIZABLE!
+[RESULT] System 554 is METRIZABLE!
+[RESULT] System 555 is METRIZABLE!
+[RESULT] System 556 is METRIZABLE!
+[RESULT] System 557 is METRIZABLE!
+[RESULT] System 558 is METRIZABLE!
+[RESULT] System 559 is METRIZABLE!
+[RESULT] System 560 is METRIZABLE!
+[RESULT] System 561 is METRIZABLE!
+[RESULT] System 562 is METRIZABLE!
+[RESULT] System 563 is METRIZABLE!
+[RESULT] System 564 is METRIZABLE!
+[RESULT] System 565 is METRIZABLE!
+[RESULT] System 566 is METRIZABLE!
+[RESULT] System 567 is METRIZABLE!
+[RESULT] System 568 is METRIZABLE!
+[RESULT] System 569 is METRIZABLE!
+[RESULT] System 570 is METRIZABLE!
+[RESULT] System 571 is METRIZABLE!
+[RESULT] System 572 is METRIZABLE!
+[RESULT] System 573 is METRIZABLE!
+[RESULT] System 574 is METRIZABLE!
+[RESULT] System 575 is METRIZABLE!
+[RESULT] System 576 is METRIZABLE!
+[RESULT] System 577 is METRIZABLE!
+[RESULT] System 578 is METRIZABLE!
+[RESULT] System 579 is METRIZABLE!
+[RESULT] System 580 is METRIZABLE!
+[RESULT] System 581 is METRIZABLE!
+[RESULT] System 582 is METRIZABLE!
+[RESULT] System 583 is METRIZABLE!
+[RESULT] System 584 is METRIZABLE!
+[RESULT] System 585 is METRIZABLE!
+[RESULT] System 586 is METRIZABLE!
+[RESULT] System 587 is METRIZABLE!
+[RESULT] System 588 is METRIZABLE!
+[RESULT] System 589 is METRIZABLE!
+[RESULT] System 590 is METRIZABLE!
+[RESULT] System 591 is METRIZABLE!
+[RESULT] System 592 is METRIZABLE!
+[RESULT] System 593 is METRIZABLE!
+[RESULT] System 594 is METRIZABLE!
+[RESULT] System 595 is METRIZABLE!
+[RESULT] System 596 is METRIZABLE!
+[RESULT] System 597 is METRIZABLE!
+[RESULT] System 598 is METRIZABLE!
+[RESULT] System 599 is METRIZABLE!
+[RESULT] System 600 is METRIZABLE!
+[RESULT] System 601 is METRIZABLE!
+[RESULT] System 602 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 603 is METRIZABLE!
+[RESULT] System 604 is METRIZABLE!
+[RESULT] System 605 is METRIZABLE!
+[RESULT] System 606 is METRIZABLE!
+[RESULT] System 607 is METRIZABLE!
+[RESULT] System 608 is METRIZABLE!
+[RESULT] System 609 is METRIZABLE!
+[RESULT] System 610 is METRIZABLE!
+[RESULT] System 611 is METRIZABLE!
+[RESULT] System 612 is METRIZABLE!
+[RESULT] System 613 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 614 is METRIZABLE!
+[RESULT] System 615 is METRIZABLE!
+[RESULT] System 616 is METRIZABLE!
+[RESULT] System 617 is METRIZABLE!
+[RESULT] System 618 is METRIZABLE!
+[RESULT] System 619 is METRIZABLE!
+[RESULT] System 620 is METRIZABLE!
+[RESULT] System 621 is METRIZABLE!
+[RESULT] System 622 is METRIZABLE!
+[RESULT] System 623 is METRIZABLE!
+[RESULT] System 624 is METRIZABLE!
+[RESULT] System 625 is METRIZABLE!
+[RESULT] System 626 is METRIZABLE!
+[RESULT] System 627 is METRIZABLE!
+[RESULT] System 628 is METRIZABLE!
+[RESULT] System 629 is METRIZABLE!
+[RESULT] System 630 is METRIZABLE!
+[RESULT] System 631 is METRIZABLE!
+[RESULT] System 632 is METRIZABLE!
+[RESULT] System 633 is METRIZABLE!
+[RESULT] System 634 is METRIZABLE!
+[RESULT] System 635 is METRIZABLE!
+[RESULT] System 636 is METRIZABLE!
+[RESULT] System 637 is METRIZABLE!
+[RESULT] System 638 is METRIZABLE!
+[RESULT] System 639 is METRIZABLE!
+[RESULT] System 640 is METRIZABLE!
+[RESULT] System 641 is METRIZABLE!
+[RESULT] System 642 is METRIZABLE!
+[RESULT] System 643 is METRIZABLE!
+[RESULT] System 644 is METRIZABLE!
+[RESULT] System 645 is METRIZABLE!
+[RESULT] System 646 is METRIZABLE!
+[RESULT] System 647 is METRIZABLE!
+[RESULT] System 648 is METRIZABLE!
+[RESULT] System 649 is METRIZABLE!
+[RESULT] System 650 is METRIZABLE!
+[RESULT] System 651 is METRIZABLE!
+[RESULT] System 652 is METRIZABLE!
+[RESULT] System 653 is METRIZABLE!
+[RESULT] System 654 is METRIZABLE!
+[RESULT] System 655 is METRIZABLE!
+[RESULT] System 656 is METRIZABLE!
+[RESULT] System 657 is METRIZABLE!
+[RESULT] System 658 is METRIZABLE!
+[RESULT] System 659 is METRIZABLE!
+[RESULT] System 660 is METRIZABLE!
+[RESULT] System 661 is METRIZABLE!
+[RESULT] System 662 is METRIZABLE!
+[RESULT] System 663 is METRIZABLE!
+[RESULT] System 664 is METRIZABLE!
+[RESULT] System 665 is METRIZABLE!
+[RESULT] System 666 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 667 is METRIZABLE!
+[RESULT] System 668 is METRIZABLE!
+[RESULT] System 669 is METRIZABLE!
+[RESULT] System 670 is METRIZABLE!
+[RESULT] System 671 is METRIZABLE!
+[RESULT] System 672 is METRIZABLE!
+[RESULT] System 673 is METRIZABLE!
+[RESULT] System 674 is METRIZABLE!
+[RESULT] System 675 is METRIZABLE!
+[RESULT] System 676 is METRIZABLE!
+[RESULT] System 677 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 678 is METRIZABLE!
+[RESULT] System 679 is METRIZABLE!
+[RESULT] System 680 is METRIZABLE!
+[RESULT] System 681 is METRIZABLE!
+[RESULT] System 682 is METRIZABLE!
+[RESULT] System 683 is METRIZABLE!
+[RESULT] System 684 is METRIZABLE!
+[RESULT] System 685 is METRIZABLE!
+[RESULT] System 686 is METRIZABLE!
+[RESULT] System 687 is METRIZABLE!
+[RESULT] System 688 is METRIZABLE!
+[RESULT] System 689 is METRIZABLE!
+[RESULT] System 690 is METRIZABLE!
+[RESULT] System 691 is METRIZABLE!
+[RESULT] System 692 is METRIZABLE!
+[RESULT] System 693 is METRIZABLE!
+[RESULT] System 694 is METRIZABLE!
+[RESULT] System 695 is METRIZABLE!
+[RESULT] System 696 is METRIZABLE!
+[RESULT] System 697 is METRIZABLE!
+[RESULT] System 698 is METRIZABLE!
+[RESULT] System 699 is METRIZABLE!
+[RESULT] System 700 is METRIZABLE!
+[RESULT] System 701 is METRIZABLE!
+[RESULT] System 702 is METRIZABLE!
+[RESULT] System 703 is METRIZABLE!
+[RESULT] System 704 is METRIZABLE!
+[RESULT] System 705 is METRIZABLE!
+[RESULT] System 706 is METRIZABLE!
+[RESULT] System 707 is METRIZABLE!
+[RESULT] System 708 is METRIZABLE!
+[RESULT] System 709 is METRIZABLE!
+[RESULT] System 710 is METRIZABLE!
+[RESULT] System 711 is METRIZABLE!
+[RESULT] System 712 is METRIZABLE!
+[RESULT] System 713 is METRIZABLE!
+[RESULT] System 714 is METRIZABLE!
+[RESULT] System 715 is METRIZABLE!
+[RESULT] System 716 is METRIZABLE!
+[RESULT] System 717 is METRIZABLE!
+[RESULT] System 718 is METRIZABLE!
+[RESULT] System 719 is METRIZABLE!
+[RESULT] System 720 is METRIZABLE!
+[RESULT] System 721 is METRIZABLE!
+[RESULT] System 722 is METRIZABLE!
+[RESULT] System 723 is METRIZABLE!
+[RESULT] System 724 is METRIZABLE!
+[RESULT] System 725 is METRIZABLE!
+[RESULT] System 726 is METRIZABLE!
+[RESULT] System 727 is METRIZABLE!
+[RESULT] System 728 is METRIZABLE!
+[RESULT] System 729 is METRIZABLE!
+[RESULT] System 730 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 731 is METRIZABLE!
+[RESULT] System 732 is METRIZABLE!
+[RESULT] System 733 is METRIZABLE!
+[RESULT] System 734 is METRIZABLE!
+[RESULT] System 735 is METRIZABLE!
+[RESULT] System 736 is METRIZABLE!
+[RESULT] System 737 is METRIZABLE!
+[RESULT] System 738 is METRIZABLE!
+[RESULT] System 739 is METRIZABLE!
+[RESULT] System 740 is METRIZABLE!
+[RESULT] System 741 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (1, 2), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 742 is METRIZABLE!
+[RESULT] System 743 is METRIZABLE!
+[RESULT] System 744 is METRIZABLE!
+[RESULT] System 745 is METRIZABLE!
+[RESULT] System 746 is METRIZABLE!
+[RESULT] System 747 is METRIZABLE!
+[RESULT] System 748 is METRIZABLE!
+[RESULT] System 749 is METRIZABLE!
+[RESULT] System 750 is METRIZABLE!
+[RESULT] System 751 is METRIZABLE!
+[RESULT] System 752 is METRIZABLE!
+[RESULT] System 753 is METRIZABLE!
+[RESULT] System 754 is METRIZABLE!
+[RESULT] System 755 is METRIZABLE!
+[RESULT] System 756 is METRIZABLE!
+[RESULT] System 757 is METRIZABLE!
+[RESULT] System 758 is METRIZABLE!
+[RESULT] System 759 is METRIZABLE!
+[RESULT] System 760 is METRIZABLE!
+[RESULT] System 761 is METRIZABLE!
+[RESULT] System 762 is METRIZABLE!
+[RESULT] System 763 is METRIZABLE!
+[RESULT] System 764 is METRIZABLE!
+[RESULT] System 765 is METRIZABLE!
+[RESULT] System 766 is METRIZABLE!
+[RESULT] System 767 is METRIZABLE!
+[RESULT] System 768 is METRIZABLE!
+[RESULT] System 769 is METRIZABLE!
+[RESULT] System 770 is METRIZABLE!
+[RESULT] System 771 is METRIZABLE!
+[RESULT] System 772 is METRIZABLE!
+[RESULT] System 773 is METRIZABLE!
+[RESULT] System 774 is METRIZABLE!
+[RESULT] System 775 is METRIZABLE!
+[RESULT] System 776 is METRIZABLE!
+[RESULT] System 777 is METRIZABLE!
+[RESULT] System 778 is METRIZABLE!
+[RESULT] System 779 is METRIZABLE!
+[RESULT] System 780 is METRIZABLE!
+[RESULT] System 781 is METRIZABLE!
+[RESULT] System 782 is METRIZABLE!
+[RESULT] System 783 is METRIZABLE!
+[RESULT] System 784 is METRIZABLE!
+[RESULT] System 785 is METRIZABLE!
+[RESULT] System 786 is METRIZABLE!
+[RESULT] System 787 is METRIZABLE!
+[RESULT] System 788 is METRIZABLE!
+[RESULT] System 789 is METRIZABLE!
+[RESULT] System 790 is METRIZABLE!
+[RESULT] System 791 is METRIZABLE!
+[RESULT] System 792 is METRIZABLE!
+[RESULT] System 793 is METRIZABLE!
+[RESULT] System 794 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 795 is METRIZABLE!
+[RESULT] System 796 is METRIZABLE!
+[RESULT] System 797 is METRIZABLE!
+[RESULT] System 798 is METRIZABLE!
+[RESULT] System 799 is METRIZABLE!
+[RESULT] System 800 is METRIZABLE!
+[RESULT] System 801 is METRIZABLE!
+[RESULT] System 802 is METRIZABLE!
+[RESULT] System 803 is METRIZABLE!
+[RESULT] System 804 is METRIZABLE!
+[RESULT] System 805 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 806 is METRIZABLE!
+[RESULT] System 807 is METRIZABLE!
+[RESULT] System 808 is METRIZABLE!
+[RESULT] System 809 is METRIZABLE!
+[RESULT] System 810 is METRIZABLE!
+[RESULT] System 811 is METRIZABLE!
+[RESULT] System 812 is METRIZABLE!
+[RESULT] System 813 is METRIZABLE!
+[RESULT] System 814 is METRIZABLE!
+[RESULT] System 815 is METRIZABLE!
+[RESULT] System 816 is METRIZABLE!
+[RESULT] System 817 is METRIZABLE!
+[RESULT] System 818 is METRIZABLE!
+[RESULT] System 819 is METRIZABLE!
+[RESULT] System 820 is METRIZABLE!
+[RESULT] System 821 is METRIZABLE!
+[RESULT] System 822 is METRIZABLE!
+[RESULT] System 823 is METRIZABLE!
+[RESULT] System 824 is METRIZABLE!
+[RESULT] System 825 is METRIZABLE!
+[RESULT] System 826 is METRIZABLE!
+[RESULT] System 827 is METRIZABLE!
+[RESULT] System 828 is METRIZABLE!
+[RESULT] System 829 is METRIZABLE!
+[RESULT] System 830 is METRIZABLE!
+[RESULT] System 831 is METRIZABLE!
+[RESULT] System 832 is METRIZABLE!
+[RESULT] System 833 is METRIZABLE!
+[RESULT] System 834 is METRIZABLE!
+[RESULT] System 835 is METRIZABLE!
+[RESULT] System 836 is METRIZABLE!
+[RESULT] System 837 is METRIZABLE!
+[RESULT] System 838 is METRIZABLE!
+[RESULT] System 839 is METRIZABLE!
+[RESULT] System 840 is METRIZABLE!
+[RESULT] System 841 is METRIZABLE!
+[RESULT] System 842 is METRIZABLE!
+[RESULT] System 843 is METRIZABLE!
+[RESULT] System 844 is METRIZABLE!
+[RESULT] System 845 is METRIZABLE!
+[RESULT] System 846 is METRIZABLE!
+[RESULT] System 847 is METRIZABLE!
+[RESULT] System 848 is METRIZABLE!
+[RESULT] System 849 is METRIZABLE!
+[RESULT] System 850 is METRIZABLE!
+[RESULT] System 851 is METRIZABLE!
+[RESULT] System 852 is METRIZABLE!
+[RESULT] System 853 is METRIZABLE!
+[RESULT] System 854 is METRIZABLE!
+[RESULT] System 855 is METRIZABLE!
+[RESULT] System 856 is METRIZABLE!
+[RESULT] System 857 is METRIZABLE!
+[RESULT] System 858 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 859 is METRIZABLE!
+[RESULT] System 860 is METRIZABLE!
+[RESULT] System 861 is METRIZABLE!
+[RESULT] System 862 is METRIZABLE!
+[RESULT] System 863 is METRIZABLE!
+[RESULT] System 864 is METRIZABLE!
+[RESULT] System 865 is METRIZABLE!
+[RESULT] System 866 is METRIZABLE!
+[RESULT] System 867 is METRIZABLE!
+[RESULT] System 868 is METRIZABLE!
+[RESULT] System 869 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (0, 0), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 870 is METRIZABLE!
+[RESULT] System 871 is METRIZABLE!
+[RESULT] System 872 is METRIZABLE!
+[RESULT] System 873 is METRIZABLE!
+[RESULT] System 874 is METRIZABLE!
+[RESULT] System 875 is METRIZABLE!
+[RESULT] System 876 is METRIZABLE!
+[RESULT] System 877 is METRIZABLE!
+[RESULT] System 878 is METRIZABLE!
+[RESULT] System 879 is METRIZABLE!
+[RESULT] System 880 is METRIZABLE!
+[RESULT] System 881 is METRIZABLE!
+[RESULT] System 882 is METRIZABLE!
+[RESULT] System 883 is METRIZABLE!
+[RESULT] System 884 is METRIZABLE!
+[RESULT] System 885 is METRIZABLE!
+[RESULT] System 886 is METRIZABLE!
+[RESULT] System 887 is METRIZABLE!
+[RESULT] System 888 is METRIZABLE!
+[RESULT] System 889 is METRIZABLE!
+[RESULT] System 890 is METRIZABLE!
+[RESULT] System 891 is METRIZABLE!
+[RESULT] System 892 is METRIZABLE!
+[RESULT] System 893 is METRIZABLE!
+[RESULT] System 894 is METRIZABLE!
+[RESULT] System 895 is METRIZABLE!
+[RESULT] System 896 is METRIZABLE!
+[RESULT] System 897 is METRIZABLE!
+[RESULT] System 898 is METRIZABLE!
+[RESULT] System 899 is METRIZABLE!
+[RESULT] System 900 is METRIZABLE!
+[RESULT] System 901 is METRIZABLE!
+[RESULT] System 902 is METRIZABLE!
+[RESULT] System 903 is METRIZABLE!
+[RESULT] System 904 is METRIZABLE!
+[RESULT] System 905 is METRIZABLE!
+[RESULT] System 906 is METRIZABLE!
+[RESULT] System 907 is METRIZABLE!
+[RESULT] System 908 is METRIZABLE!
+[RESULT] System 909 is METRIZABLE!
+[RESULT] System 910 is METRIZABLE!
+[RESULT] System 911 is METRIZABLE!
+[RESULT] System 912 is METRIZABLE!
+[RESULT] System 913 is METRIZABLE!
+[RESULT] System 914 is METRIZABLE!
+[RESULT] System 915 is METRIZABLE!
+[RESULT] System 916 is METRIZABLE!
+[RESULT] System 917 is METRIZABLE!
+[RESULT] System 918 is METRIZABLE!
+[RESULT] System 919 is METRIZABLE!
+[RESULT] System 920 is METRIZABLE!
+[RESULT] System 921 is METRIZABLE!
+[RESULT] System 922 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 923 is METRIZABLE!
+[RESULT] System 924 is METRIZABLE!
+[RESULT] System 925 is METRIZABLE!
+[RESULT] System 926 is METRIZABLE!
+[RESULT] System 927 is METRIZABLE!
+[RESULT] System 928 is METRIZABLE!
+[RESULT] System 929 is METRIZABLE!
+[RESULT] System 930 is METRIZABLE!
+[RESULT] System 931 is METRIZABLE!
+[RESULT] System 932 is METRIZABLE!
+[RESULT] System 933 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (0, 1), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 934 is METRIZABLE!
+[RESULT] System 935 is METRIZABLE!
+[RESULT] System 936 is METRIZABLE!
+[RESULT] System 937 is METRIZABLE!
+[RESULT] System 938 is METRIZABLE!
+[RESULT] System 939 is METRIZABLE!
+[RESULT] System 940 is METRIZABLE!
+[RESULT] System 941 is METRIZABLE!
+[RESULT] System 942 is METRIZABLE!
+[RESULT] System 943 is METRIZABLE!
+[RESULT] System 944 is METRIZABLE!
+[RESULT] System 945 is METRIZABLE!
+[RESULT] System 946 is METRIZABLE!
+[RESULT] System 947 is METRIZABLE!
+[RESULT] System 948 is METRIZABLE!
+[RESULT] System 949 is METRIZABLE!
+[RESULT] System 950 is METRIZABLE!
+[RESULT] System 951 is METRIZABLE!
+[RESULT] System 952 is METRIZABLE!
+[RESULT] System 953 is METRIZABLE!
+[RESULT] System 954 is METRIZABLE!
+[RESULT] System 955 is METRIZABLE!
+[RESULT] System 956 is METRIZABLE!
+[RESULT] System 957 is METRIZABLE!
+[RESULT] System 958 is METRIZABLE!
+[RESULT] System 959 is METRIZABLE!
+[RESULT] System 960 is METRIZABLE!
+[RESULT] System 961 is METRIZABLE!
+[RESULT] System 962 is METRIZABLE!
+[RESULT] System 963 is METRIZABLE!
+[RESULT] System 964 is METRIZABLE!
+[RESULT] System 965 is METRIZABLE!
+[RESULT] System 966 is METRIZABLE!
+[RESULT] System 967 is METRIZABLE!
+[RESULT] System 968 is METRIZABLE!
+[RESULT] System 969 is METRIZABLE!
+[RESULT] System 970 is METRIZABLE!
+[RESULT] System 971 is METRIZABLE!
+[RESULT] System 972 is METRIZABLE!
+[RESULT] System 973 is METRIZABLE!
+[RESULT] System 974 is METRIZABLE!
+[RESULT] System 975 is METRIZABLE!
+[RESULT] System 976 is METRIZABLE!
+[RESULT] System 977 is METRIZABLE!
+[RESULT] System 978 is METRIZABLE!
+[RESULT] System 979 is METRIZABLE!
+[RESULT] System 980 is METRIZABLE!
+[RESULT] System 981 is METRIZABLE!
+[RESULT] System 982 is METRIZABLE!
+[RESULT] System 983 is METRIZABLE!
+[RESULT] System 984 is METRIZABLE!
+[RESULT] System 985 is METRIZABLE!
+[RESULT] System 986 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (2, 0), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (1, 2), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (1, 0), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (2, 1), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (2, 2), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (1, 1), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 987 is METRIZABLE!
+[RESULT] System 988 is METRIZABLE!
+[RESULT] System 989 is METRIZABLE!
+[RESULT] System 990 is METRIZABLE!
+[RESULT] System 991 is METRIZABLE!
+[RESULT] System 992 is METRIZABLE!
+[RESULT] System 993 is METRIZABLE!
+[RESULT] System 994 is METRIZABLE!
+[RESULT] System 995 is METRIZABLE!
+[RESULT] System 996 is METRIZABLE!
+[RESULT] System 997 is NOT metrizable. Here are the paths:
+    (0, 0) -> (0, 1): [(0, 0), (0, 1)]
+    (0, 0) -> (0, 2): [(0, 0), (0, 2)]
+    (0, 0) -> (1, 0): [(0, 0), (1, 0)]
+    (0, 0) -> (1, 1): [(0, 0), (0, 1), (1, 1)]
+    (0, 0) -> (1, 2): [(0, 0), (0, 2), (1, 2)]
+    (0, 0) -> (2, 0): [(0, 0), (2, 0)]
+    (0, 0) -> (2, 1): [(0, 0), (0, 1), (2, 1)]
+    (0, 0) -> (2, 2): [(0, 0), (0, 2), (2, 2)]
+    (0, 1) -> (0, 2): [(0, 1), (0, 2)]
+    (0, 1) -> (1, 0): [(0, 1), (0, 0), (1, 0)]
+    (0, 1) -> (1, 1): [(0, 1), (1, 1)]
+    (0, 1) -> (1, 2): [(0, 1), (0, 2), (1, 2)]
+    (0, 1) -> (2, 0): [(0, 1), (0, 0), (2, 0)]
+    (0, 1) -> (2, 1): [(0, 1), (2, 1)]
+    (0, 1) -> (2, 2): [(0, 1), (0, 2), (2, 2)]
+    (0, 2) -> (1, 0): [(0, 2), (1, 2), (1, 0)]
+    (0, 2) -> (1, 1): [(0, 2), (0, 1), (1, 1)]
+    (0, 2) -> (1, 2): [(0, 2), (1, 2)]
+    (0, 2) -> (2, 0): [(0, 2), (2, 2), (2, 0)]
+    (0, 2) -> (2, 1): [(0, 2), (2, 2), (2, 1)]
+    (0, 2) -> (2, 2): [(0, 2), (2, 2)]
+    (1, 0) -> (1, 1): [(1, 0), (1, 1)]
+    (1, 0) -> (1, 2): [(1, 0), (1, 2)]
+    (1, 0) -> (2, 0): [(1, 0), (2, 0)]
+    (1, 0) -> (2, 1): [(1, 0), (1, 1), (2, 1)]
+    (1, 0) -> (2, 2): [(1, 0), (2, 0), (2, 2)]
+    (1, 1) -> (1, 2): [(1, 1), (1, 2)]
+    (1, 1) -> (2, 0): [(1, 1), (2, 1), (2, 0)]
+    (1, 1) -> (2, 1): [(1, 1), (2, 1)]
+    (1, 1) -> (2, 2): [(1, 1), (1, 2), (2, 2)]
+    (1, 2) -> (2, 0): [(1, 2), (1, 0), (2, 0)]
+    (1, 2) -> (2, 1): [(1, 2), (2, 2), (2, 1)]
+    (1, 2) -> (2, 2): [(1, 2), (2, 2)]
+    (2, 0) -> (2, 1): [(2, 0), (2, 1)]
+    (2, 0) -> (2, 2): [(2, 0), (2, 2)]
+    (2, 1) -> (2, 2): [(2, 1), (2, 2)]
+--------------------------------------------------
+[RESULT] System 998 is METRIZABLE!
+[RESULT] System 999 is METRIZABLE!
+
+[SUMMARY] Total Metrizable Systems: 968 out of 1000

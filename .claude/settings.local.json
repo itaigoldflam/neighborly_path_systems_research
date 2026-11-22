@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m pip --version)",
+      "Bash(python3 -)",
+      "Bash(./.venv/bin/python3 -c ' *)",
+      "Read(//home/itai/metrizable_wheels/.venv/Lib/site-packages/gurobipy/**)",
+      "Read(//mnt/c/Users/**)",
+      "Bash(cd *)",
+      "Bash(curl -s https://pypi.org/pypi/gurobipy/json)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(sorted\\(d['releases'].keys\\(\\)\\)[-10:]\\)\")",
+      "Bash(./.venv/bin/python3 -m pip install --quiet --no-cache-dir --index-url https://pypi.org/simple \"gurobipy==13.0.2\")",
+      "Bash(./.venv/bin/python3 -c \"import gurobipy; print\\(gurobipy.gurobi.version\\(\\)\\)\")",
+      "Bash(./.venv/bin/python3 *)",
+      "Bash(git add *)",
+      "Bash(git commit -q -m ' *)",
+      "Bash(../.venv/bin/python3 -c ' *)",
+      "Read(//tmp/orig_grid/**)",
+      "Bash(/home/itai/path_systems_research/.venv/bin/python3 -c ' *)",
+      "Bash(timeout 60 ../.venv/bin/python3 -c ' *)",
+      "Bash(timeout 90 ../.venv/bin/python3 -c ' *)",
+      "Bash(timeout 30 ../.venv/bin/python3 -c ' *)"
+    ]
+  }
+}

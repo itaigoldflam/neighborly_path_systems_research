@@ -1,0 +1,4517 @@
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 2, 2, 2, 6, 5, 4, 3] ===
+Total combinations explored and failed: 26880
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_2: t_0 + t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_6_1: t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_3: t_3 < h_1 + h_2
+big_delta_k3_2_4: t_3 < h_2 + h_3
+small_delta_k3_3_5: h_2 + h_3 < t_3 + t_4
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_4: t_4 < h_2 + h_3
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * big_delta_k3_1_3
+  * small_delta_k3_3_5
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 2, 2, 3, 6, 5, 4, 3] ===
+Total combinations explored and failed: 15456
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_2: t_0 + t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_6_1: t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_3: t_3 < h_1 + h_2
+big_delta_k3_2_4: t_3 < h_2 + h_3
+small_delta_k3_3_5: h_2 + h_3 < t_3 + t_4
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * big_delta_k3_1_3
+  * small_delta_k3_3_5
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 2, 2, 4, 6, 5, 4, 3] ===
+Total combinations explored and failed: 11592
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_2: t_0 + t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_6_1: t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_3: t_3 < h_1 + h_2
+big_delta_k3_2_4: t_3 < h_2 + h_3
+small_delta_k3_3_5: h_2 + h_3 < t_3 + t_4
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_3
+  * small_delta_k3_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 2, 3, 3, 6, 5, 4, 3] ===
+Total combinations explored and failed: 26880
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_2: t_0 + t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_6_1: t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_3: t_3 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * big_delta_k3_1_3
+  * small_delta_k3_3_6
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 2, 3, 4, 6, 5, 4, 3] ===
+Total combinations explored and failed: 15456
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_2: t_0 + t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_6_1: t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_3: t_3 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_3
+  * small_delta_k3_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 2, 3, 6, 5, 4, 3, 3] ===
+Total combinations explored and failed: 7728
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 6(R) -> Edge 7(R) -> Edge 7(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_6_1: t_0 + t_1 + t_2 + t_3 + t_6 < h_3 + h_0
+big_delta_k0_10_2: t_0 + t_3 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_4
+--- Step k=1 (Reduced edge 6) ---
+big_delta_k1_4_7: t_1 + t_6 < h_2 + h_3
+big_delta_k1_5_0: t_1 + t_2 + t_3 + t_6 < h_3 + h_0
+--- Step k=2 (Reduced edge 7) ---
+big_delta_k2_5_0: t_2 + t_3 + t_6 < h_3 + h_0
+small_delta_k2_8_1: h_0 + h_1 < t_2 + t_3
+--- Step k=3 (Reduced edge 7) ---
+big_delta_k3_5_0: t_3 + t_6 < h_3 + h_0
+big_delta_k3_7_1: t_3 < h_0 + h_1
+small_delta_k3_0_2: h_0 + h_1 < t_3 + t_4
+--- Step k=4 (Reduced edge 1) ---
+big_delta_k4_0_2: t_4 < h_0 + h_1
+big_delta_k4_1_3: t_4 < h_1 + h_2
+small_delta_k4_2_4: h_1 + h_2 < t_4 + t_5
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_4: t_5 < h_2 + h_3
+small_delta_k5_3_5: h_2 + h_3 < t_5 + t_6
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_6_1
+  * small_delta_k2_8_1
+  * big_delta_k5_1_3
+  * small_delta_k5_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 2, 4, 4, 6, 5, 4, 3] ===
+Total combinations explored and failed: 26880
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_2: t_0 + t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_6_1: t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_3: t_3 < h_1 + h_2
+big_delta_k3_2_6: t_3 + t_4 + t_5 < h_2 + h_3
+small_delta_k3_3_7: h_2 + h_3 < t_3 + t_4 + t_5 + t_6
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_3
+  * small_delta_k3_3_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 3, 3, 2, 2, 5, 4, 3] ===
+Total combinations explored and failed: 22176
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * big_delta_k3_1_4
+  * small_delta_k4_3_5
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 3, 3, 2, 3, 5, 4, 3] ===
+Total combinations explored and failed: 13384
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k4_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 3, 3, 3, 2, 5, 4, 3] ===
+Total combinations explored and failed: 22848
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * big_delta_k3_1_4
+  * small_delta_k3_3_6
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 3, 3, 3, 3, 5, 4, 3] ===
+Total combinations explored and failed: 8512
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k3_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 3, 3, 4, 3, 5, 4, 3] ===
+Total combinations explored and failed: 14280
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k3_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 3, 3, 6, 5, 4, 3, 3] ===
+Total combinations explored and failed: 15456
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 5(R) -> Edge 7(R) -> Edge 7(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_6_1: t_0 + t_1 + t_2 + t_3 + t_6 < h_3 + h_0
+big_delta_k0_10_2: t_0 + t_3 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_4
+--- Step k=1 (Reduced edge 5) ---
+big_delta_k1_3_6: t_1 + t_5 < h_2 + h_3
+big_delta_k1_4_7: t_1 + t_6 < h_2 + h_3
+big_delta_k1_5_0: t_1 + t_2 + t_3 + t_6 < h_3 + h_0
+--- Step k=2 (Reduced edge 7) ---
+big_delta_k2_5_0: t_2 + t_3 + t_6 < h_3 + h_0
+small_delta_k2_8_1: h_0 + h_1 < t_2 + t_3
+--- Step k=3 (Reduced edge 7) ---
+big_delta_k3_5_0: t_3 + t_6 < h_3 + h_0
+big_delta_k3_7_1: t_3 < h_0 + h_1
+small_delta_k3_0_2: h_0 + h_1 < t_3 + t_4
+--- Step k=4 (Reduced edge 1) ---
+big_delta_k4_0_2: t_4 < h_0 + h_1
+big_delta_k4_1_3: t_4 < h_1 + h_2
+small_delta_k4_2_4: h_1 + h_2 < t_4 + t_5
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_4: t_5 < h_2 + h_3
+small_delta_k5_3_5: h_2 + h_3 < t_5 + t_6
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_6_1
+  * small_delta_k2_8_1
+  * big_delta_k5_1_3
+  * small_delta_k5_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 3, 4, 3, 3, 5, 4, 3] ===
+Total combinations explored and failed: 22176
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_6: t_3 + t_4 + t_5 < h_2 + h_3
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k4_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 3, 4, 4, 3, 5, 4, 3] ===
+Total combinations explored and failed: 22848
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_3: t_2 < h_1 + h_2
+small_delta_k2_2_4: h_1 + h_2 < t_2 + t_3
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_6: t_3 + t_4 + t_5 < h_2 + h_3
+small_delta_k3_3_7: h_2 + h_3 < t_3 + t_4 + t_5 + t_6
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k3_3_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 4, 3, 2, 2, 4, 4, 3] ===
+Total combinations explored and failed: 19824
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 5(R) -> Edge 5(R) -> Edge 6(R) -> Edge 6(R) -> Edge 1(R) -> Edge 2(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_1: t_0 + t_3 + t_4 < h_3 + h_0
+big_delta_k0_9_2: t_0 + t_3 + t_4 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_5
+--- Step k=1 (Reduced edge 5) ---
+big_delta_k1_3_7: t_1 + t_2 + t_6 < h_2 + h_3
+small_delta_k1_6_8: h_3 + h_0 < t_1 + t_2
+--- Step k=2 (Reduced edge 5) ---
+big_delta_k2_3_6: t_2 + t_6 < h_2 + h_3
+big_delta_k2_5_7: t_2 < h_3 + h_0
+small_delta_k2_6_8: h_3 + h_0 < t_2 + t_3
+--- Step k=3 (Reduced edge 6) ---
+big_delta_k3_5_0: t_3 + t_4 < h_3 + h_0
+big_delta_k3_6_1: t_3 + t_4 < h_0 + h_1
+--- Step k=4 (Reduced edge 6) ---
+big_delta_k4_5_0: t_4 < h_3 + h_0
+big_delta_k4_6_1: t_4 < h_0 + h_1
+small_delta_k4_0_2: h_0 + h_1 < t_4 + t_5
+--- Step k=5 (Reduced edge 1) ---
+big_delta_k5_0_2: t_5 < h_0 + h_1
+big_delta_k5_1_3: t_5 < h_1 + h_2
+small_delta_k5_2_4: h_1 + h_2 < t_5 + t_6
+--- Step k=6 (Reduced edge 2) ---
+big_delta_k6_1_3: t_6 < h_1 + h_2
+big_delta_k6_2_4: t_6 < h_2 + h_3
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k1_3_7
+  * small_delta_k1_6_8
+  * big_delta_k5_0_2
+  * small_delta_k5_2_4
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 4, 3, 2, 3, 4, 4, 3] ===
+Total combinations explored and failed: 20216
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 5(R) -> Edge 5(R) -> Edge 6(R) -> Edge 6(R) -> Edge 1(R) -> Edge 2(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_1: t_0 + t_3 + t_4 < h_3 + h_0
+big_delta_k0_9_2: t_0 + t_3 + t_4 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_5
+--- Step k=1 (Reduced edge 5) ---
+big_delta_k1_3_7: t_1 + t_2 + t_6 < h_2 + h_3
+small_delta_k1_6_8: h_3 + h_0 < t_1 + t_2
+--- Step k=2 (Reduced edge 5) ---
+big_delta_k2_3_6: t_2 + t_6 < h_2 + h_3
+big_delta_k2_5_8: t_2 + t_3 < h_3 + h_0
+small_delta_k2_6_0: h_3 + h_0 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 6) ---
+big_delta_k3_5_0: t_3 + t_4 < h_3 + h_0
+big_delta_k3_6_1: t_3 + t_4 < h_0 + h_1
+--- Step k=4 (Reduced edge 6) ---
+big_delta_k4_5_0: t_4 < h_3 + h_0
+big_delta_k4_6_1: t_4 < h_0 + h_1
+small_delta_k4_0_2: h_0 + h_1 < t_4 + t_5
+--- Step k=5 (Reduced edge 1) ---
+big_delta_k5_0_2: t_5 < h_0 + h_1
+big_delta_k5_1_3: t_5 < h_1 + h_2
+small_delta_k5_2_4: h_1 + h_2 < t_5 + t_6
+--- Step k=6 (Reduced edge 2) ---
+big_delta_k6_1_3: t_6 < h_1 + h_2
+big_delta_k6_2_4: t_6 < h_2 + h_3
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k1_3_7
+  * small_delta_k1_6_8
+  * big_delta_k5_0_2
+  * small_delta_k5_2_4
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 2, 4, 3, 2, 4, 4, 4, 3] ===
+Total combinations explored and failed: 20888
+
+Analyzing a sample failed path to find the contradiction:
+Edge 6(R) -> Edge 6(R) -> Edge 0(R) -> Edge 6(R) -> Edge 6(R) -> Edge 1(R) -> Edge 2(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 6) ---
+big_delta_k0_4_8: t_0 + t_1 + t_6 < h_2 + h_3
+small_delta_k0_7_9: h_3 + h_0 < t_0 + t_1
+--- Step k=1 (Reduced edge 6) ---
+big_delta_k1_4_7: t_1 + t_6 < h_2 + h_3
+big_delta_k1_6_0: t_1 + t_3 + t_4 < h_3 + h_0
+small_delta_k1_7_1: h_3 + h_0 < t_1 + t_2 + t_3 + t_4
+--- Step k=2 (Reduced edge 0) ---
+big_delta_k2_6_1: t_2 + t_3 + t_4 < h_3 + h_0
+big_delta_k2_7_2: t_2 + t_3 + t_4 < h_0 + h_1
+small_delta_k2_1_3: h_0 + h_1 < t_2 + t_5
+--- Step k=3 (Reduced edge 6) ---
+big_delta_k3_5_0: t_3 + t_4 < h_3 + h_0
+big_delta_k3_6_1: t_3 + t_4 < h_0 + h_1
+--- Step k=4 (Reduced edge 6) ---
+big_delta_k4_5_0: t_4 < h_3 + h_0
+big_delta_k4_6_1: t_4 < h_0 + h_1
+small_delta_k4_0_2: h_0 + h_1 < t_4 + t_5
+--- Step k=5 (Reduced edge 1) ---
+big_delta_k5_0_2: t_5 < h_0 + h_1
+big_delta_k5_1_3: t_5 < h_1 + h_2
+small_delta_k5_2_4: h_1 + h_2 < t_5 + t_6
+--- Step k=6 (Reduced edge 2) ---
+big_delta_k6_1_3: t_6 < h_1 + h_2
+big_delta_k6_2_4: t_6 < h_2 + h_3
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_4_8
+  * small_delta_k0_7_9
+  * big_delta_k5_0_2
+  * small_delta_k5_2_4
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 2, 2, 2, 6, 5, 4, 3] ===
+Total combinations explored and failed: 161280
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_2: t_0 + t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_6_1: t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_3: t_3 < h_1 + h_2
+big_delta_k3_2_4: t_3 < h_2 + h_3
+small_delta_k3_3_5: h_2 + h_3 < t_3 + t_4
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_4: t_4 < h_2 + h_3
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * big_delta_k2_1_4
+  * small_delta_k3_3_5
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 2, 2, 3, 6, 5, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_2: t_0 + t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_6_1: t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_3: t_3 < h_1 + h_2
+big_delta_k3_2_4: t_3 < h_2 + h_3
+small_delta_k3_3_5: h_2 + h_3 < t_3 + t_4
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * big_delta_k2_1_4
+  * small_delta_k3_3_5
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 2, 2, 4, 6, 5, 4, 3] ===
+Total combinations explored and failed: 124320
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_2: t_0 + t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_6_1: t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_3: t_3 < h_1 + h_2
+big_delta_k3_2_4: t_3 < h_2 + h_3
+small_delta_k3_3_5: h_2 + h_3 < t_3 + t_4
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_4
+  * small_delta_k3_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 2, 2, 5, 6, 5, 4, 3] ===
+Total combinations explored and failed: 119280
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_7_2: t_0 + t_3 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_5: t_1 + t_2 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_4: t_2 < h_2 + h_3
+big_delta_k2_3_5: t_2 < h_3 + h_0
+small_delta_k2_4_6: h_3 + h_0 < t_2 + t_3
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_0: t_3 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k3_4_1: t_3 + t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_5
+  * small_delta_k2_4_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 2, 3, 3, 6, 5, 4, 3] ===
+Total combinations explored and failed: 161280
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_2: t_0 + t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_6_1: t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_3: t_3 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * big_delta_k2_1_4
+  * small_delta_k3_3_6
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 2, 3, 4, 6, 5, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_2: t_0 + t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_6_1: t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_3: t_3 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_4
+  * small_delta_k3_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 2, 3, 5, 6, 5, 4, 3] ===
+Total combinations explored and failed: 124320
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_7_2: t_0 + t_3 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_5: t_1 + t_2 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_4: t_2 < h_2 + h_3
+big_delta_k2_3_6: t_2 + t_3 < h_3 + h_0
+small_delta_k2_4_7: h_3 + h_0 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_0: t_3 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k3_4_1: t_3 + t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_5
+  * small_delta_k2_4_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 2, 4, 4, 6, 5, 4, 3] ===
+Total combinations explored and failed: 161280
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_2: t_0 + t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_6_1: t_1 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_3: t_3 < h_1 + h_2
+big_delta_k3_2_6: t_3 + t_4 + t_5 < h_2 + h_3
+small_delta_k3_3_7: h_2 + h_3 < t_3 + t_4 + t_5 + t_6
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_4
+  * small_delta_k3_3_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 2, 4, 5, 6, 5, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_7_2: t_0 + t_3 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_5: t_1 + t_2 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_4: t_2 < h_2 + h_3
+big_delta_k2_3_7: t_2 + t_3 + t_4 < h_3 + h_0
+small_delta_k2_4_8: h_3 + h_0 < t_2 + t_3 + t_4 + t_5
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_0: t_3 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k3_4_1: t_3 + t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_5
+  * small_delta_k2_4_8
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 2, 5, 5, 6, 5, 4, 3] ===
+Total combinations explored and failed: 161280
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_7_2: t_0 + t_3 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_5: t_1 + t_2 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_4: t_2 < h_2 + h_3
+big_delta_k2_3_8: t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+small_delta_k2_4_0: h_3 + h_0 < t_2 + t_3 + t_4 + t_5 + t_6
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_0: t_3 + t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k3_4_1: t_3 + t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_5
+  * small_delta_k2_4_0
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 2, 2, 2, 5, 4, 3] ===
+Total combinations explored and failed: 26880
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+small_delta_k3_3_5: h_2 + h_3 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * big_delta_k3_1_4
+  * small_delta_k3_3_5
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 2, 2, 3, 5, 4, 3] ===
+Total combinations explored and failed: 15456
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+small_delta_k3_3_5: h_2 + h_3 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k3_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 2, 2, 5, 4, 3, 3] ===
+Total combinations explored and failed: 11816
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 4(R) -> Edge 7(R) -> Edge 7(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_1: t_0 + t_2 + t_3 + t_6 < h_3 + h_0
+big_delta_k0_10_2: t_0 + t_3 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_4
+--- Step k=1 (Reduced edge 4) ---
+big_delta_k1_2_5: t_1 + t_5 < h_1 + h_2
+big_delta_k1_3_6: t_1 + t_5 < h_2 + h_3
+small_delta_k1_5_7: h_2 + h_3 < t_1 + t_6
+--- Step k=2 (Reduced edge 7) ---
+big_delta_k2_5_0: t_2 + t_3 + t_6 < h_3 + h_0
+small_delta_k2_8_1: h_0 + h_1 < t_2 + t_3
+--- Step k=3 (Reduced edge 7) ---
+big_delta_k3_5_0: t_3 + t_6 < h_3 + h_0
+big_delta_k3_7_1: t_3 < h_0 + h_1
+small_delta_k3_0_2: h_0 + h_1 < t_3 + t_4
+--- Step k=4 (Reduced edge 1) ---
+big_delta_k4_0_2: t_4 < h_0 + h_1
+big_delta_k4_1_3: t_4 < h_1 + h_2
+small_delta_k4_2_4: h_1 + h_2 < t_4 + t_5
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_4: t_5 < h_2 + h_3
+small_delta_k5_3_5: h_2 + h_3 < t_5 + t_6
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_1
+  * big_delta_k1_2_5
+  * small_delta_k1_5_7
+  * small_delta_k2_8_1
+  * small_delta_k5_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 2, 3, 3, 5, 4, 3] ===
+Total combinations explored and failed: 26880
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+small_delta_k3_3_5: h_2 + h_3 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k3_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 3, 2, 2, 5, 4, 3] ===
+Total combinations explored and failed: 26208
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * big_delta_k3_1_4
+  * small_delta_k4_3_5
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 3, 2, 3, 5, 4, 3] ===
+Total combinations explored and failed: 14560
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k4_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 3, 2, 5, 4, 3, 3] ===
+Total combinations explored and failed: 11984
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 4(R) -> Edge 7(R) -> Edge 7(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_1: t_0 + t_2 + t_3 + t_6 < h_3 + h_0
+big_delta_k0_10_2: t_0 + t_3 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_4
+--- Step k=1 (Reduced edge 4) ---
+big_delta_k1_2_5: t_1 + t_5 < h_1 + h_2
+big_delta_k1_3_6: t_1 + t_5 < h_2 + h_3
+big_delta_k1_4_7: t_1 + t_6 < h_2 + h_3
+--- Step k=2 (Reduced edge 7) ---
+big_delta_k2_5_0: t_2 + t_3 + t_6 < h_3 + h_0
+small_delta_k2_8_1: h_0 + h_1 < t_2 + t_3
+--- Step k=3 (Reduced edge 7) ---
+big_delta_k3_5_0: t_3 + t_6 < h_3 + h_0
+big_delta_k3_7_1: t_3 < h_0 + h_1
+small_delta_k3_0_2: h_0 + h_1 < t_3 + t_4
+--- Step k=4 (Reduced edge 1) ---
+big_delta_k4_0_2: t_4 < h_0 + h_1
+big_delta_k4_1_3: t_4 < h_1 + h_2
+small_delta_k4_2_4: h_1 + h_2 < t_4 + t_5
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_4: t_5 < h_2 + h_3
+small_delta_k5_3_5: h_2 + h_3 < t_5 + t_6
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_1
+  * big_delta_k1_2_5
+  * small_delta_k2_8_1
+  * small_delta_k5_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 3, 3, 2, 5, 4, 3] ===
+Total combinations explored and failed: 53760
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * big_delta_k3_1_4
+  * small_delta_k3_3_6
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 3, 3, 3, 5, 4, 3] ===
+Total combinations explored and failed: 13216
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k3_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 3, 4, 3, 5, 4, 3] ===
+Total combinations explored and failed: 44800
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k3_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 4, 3, 3, 5, 4, 3] ===
+Total combinations explored and failed: 26208
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_6: t_3 + t_4 + t_5 < h_2 + h_3
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k4_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 4, 4, 3, 5, 4, 3] ===
+Total combinations explored and failed: 53760
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_6: t_3 + t_4 + t_5 < h_2 + h_3
+small_delta_k3_3_7: h_2 + h_3 < t_3 + t_4 + t_5 + t_6
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k3_3_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 3, 6, 5, 4, 3, 3, 3] ===
+Total combinations explored and failed: 26880
+
+Analyzing a sample failed path to find the contradiction:
+Edge 5(R) -> Edge 7(R) -> Edge 7(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 5) ---
+big_delta_k0_3_6: t_0 + t_4 < h_2 + h_3
+big_delta_k0_4_7: t_0 + t_5 < h_2 + h_3
+big_delta_k0_5_0: t_0 + t_1 + t_2 + t_5 + t_6 < h_3 + h_0
+--- Step k=1 (Reduced edge 7) ---
+big_delta_k1_5_0: t_1 + t_2 + t_5 + t_6 < h_3 + h_0
+small_delta_k1_8_1: h_0 + h_1 < t_1 + t_2 + t_6
+--- Step k=2 (Reduced edge 7) ---
+big_delta_k2_5_0: t_2 + t_5 + t_6 < h_3 + h_0
+big_delta_k2_7_1: t_2 + t_6 < h_0 + h_1
+small_delta_k2_8_2: h_0 + h_1 < t_2 + t_3 + t_6
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_7_2: t_3 + t_6 < h_0 + h_1
+big_delta_k3_1_3: t_3 < h_1 + h_2
+small_delta_k3_2_4: h_1 + h_2 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_5_0
+  * small_delta_k1_8_1
+  * big_delta_k4_1_3
+  * small_delta_k4_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 4, 3, 3, 2, 2, 4, 3] ===
+Total combinations explored and failed: 22176
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_5: t_3 + t_4 + t_5 < h_1 + h_2
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_4: t_5 < h_2 + h_3
+small_delta_k5_3_5: h_2 + h_3 < t_5 + t_6
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_5
+  * small_delta_k5_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 4, 3, 3, 3, 2, 4, 3] ===
+Total combinations explored and failed: 22848
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_5: t_3 + t_4 + t_5 < h_1 + h_2
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_5
+  * small_delta_k3_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 4, 4, 3, 2, 2, 4, 3] ===
+Total combinations explored and failed: 21784
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_5: t_3 + t_4 + t_5 < h_1 + h_2
+big_delta_k3_2_6: t_3 + t_4 + t_5 < h_2 + h_3
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_4: t_5 < h_2 + h_3
+small_delta_k5_3_5: h_2 + h_3 < t_5 + t_6
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_5
+  * small_delta_k5_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 4, 4, 3, 3, 2, 4, 3] ===
+Total combinations explored and failed: 22176
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_5: t_3 + t_4 + t_5 < h_1 + h_2
+big_delta_k3_2_6: t_3 + t_4 + t_5 < h_2 + h_3
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_5
+  * small_delta_k4_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 4, 4, 4, 3, 2, 4, 3] ===
+Total combinations explored and failed: 36960
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_5: t_3 + t_4 + t_5 < h_1 + h_2
+big_delta_k3_2_6: t_3 + t_4 + t_5 < h_2 + h_3
+small_delta_k3_3_7: h_2 + h_3 < t_3 + t_4 + t_5 + t_6
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_5
+  * small_delta_k3_3_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 2, 2, 2, 4, 4, 3] ===
+Total combinations explored and failed: 26880
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 0(R) -> Edge 1(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_1: t_0 + t_3 + t_6 < h_3 + h_0
+big_delta_k0_9_2: t_0 + t_4 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_4
+--- Step k=1 (Reduced edge 4) ---
+big_delta_k1_2_6: t_1 + t_2 + t_5 < h_1 + h_2
+small_delta_k1_5_7: h_2 + h_3 < t_1 + t_2
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_2_5: t_2 + t_5 < h_1 + h_2
+big_delta_k2_4_6: t_2 < h_2 + h_3
+small_delta_k2_5_7: h_2 + h_3 < t_2 + t_3
+--- Step k=3 (Reduced edge 5) ---
+big_delta_k3_4_6: t_3 < h_2 + h_3
+big_delta_k3_5_0: t_3 + t_6 < h_3 + h_0
+small_delta_k3_6_1: h_3 + h_0 < t_3 + t_4 + t_6
+--- Step k=4 (Reduced edge 0) ---
+big_delta_k4_5_1: t_4 + t_6 < h_3 + h_0
+big_delta_k4_0_2: t_4 < h_0 + h_1
+small_delta_k4_1_3: h_0 + h_1 < t_4 + t_5
+--- Step k=5 (Reduced edge 1) ---
+big_delta_k5_0_2: t_5 < h_0 + h_1
+big_delta_k5_1_3: t_5 < h_1 + h_2
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_1
+  * big_delta_k1_2_6
+  * small_delta_k1_5_7
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 2, 2, 2, 5, 4, 3] ===
+Total combinations explored and failed: 161280
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+small_delta_k3_3_5: h_2 + h_3 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * big_delta_k2_1_5
+  * small_delta_k3_3_5
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 2, 2, 3, 4, 4, 3] ===
+Total combinations explored and failed: 26208
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 0(R) -> Edge 1(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_1: t_0 + t_3 + t_6 < h_3 + h_0
+big_delta_k0_9_2: t_0 + t_4 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_4
+--- Step k=1 (Reduced edge 4) ---
+big_delta_k1_2_6: t_1 + t_2 + t_5 < h_1 + h_2
+small_delta_k1_5_7: h_2 + h_3 < t_1 + t_2
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_2_5: t_2 + t_5 < h_1 + h_2
+big_delta_k2_4_6: t_2 < h_2 + h_3
+small_delta_k2_5_7: h_2 + h_3 < t_2 + t_3
+--- Step k=3 (Reduced edge 5) ---
+big_delta_k3_4_7: t_3 + t_6 < h_2 + h_3
+big_delta_k3_5_0: t_3 + t_6 < h_3 + h_0
+small_delta_k3_6_1: h_3 + h_0 < t_3 + t_4 + t_6
+--- Step k=4 (Reduced edge 0) ---
+big_delta_k4_5_1: t_4 + t_6 < h_3 + h_0
+big_delta_k4_0_2: t_4 < h_0 + h_1
+small_delta_k4_1_3: h_0 + h_1 < t_4 + t_5
+--- Step k=5 (Reduced edge 1) ---
+big_delta_k5_0_2: t_5 < h_0 + h_1
+big_delta_k5_1_3: t_5 < h_1 + h_2
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k1_2_6
+  * small_delta_k1_5_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 2, 2, 3, 5, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+small_delta_k3_3_5: h_2 + h_3 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_5
+  * small_delta_k3_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 2, 2, 4, 4, 4, 3] ===
+Total combinations explored and failed: 25816
+
+Analyzing a sample failed path to find the contradiction:
+Edge 5(R) -> Edge 5(R) -> Edge 6(R) -> Edge 1(R) -> Edge 2(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 5) ---
+big_delta_k0_3_7: t_0 + t_1 + t_4 < h_2 + h_3
+small_delta_k0_6_8: h_3 + h_0 < t_0 + t_1
+--- Step k=1 (Reduced edge 5) ---
+big_delta_k1_3_6: t_1 + t_4 < h_2 + h_3
+big_delta_k1_5_7: t_1 < h_3 + h_0
+small_delta_k1_6_8: h_3 + h_0 < t_1 + t_2
+--- Step k=2 (Reduced edge 6) ---
+big_delta_k2_5_0: t_2 + t_5 + t_6 < h_3 + h_0
+big_delta_k2_6_1: t_2 + t_5 + t_6 < h_0 + h_1
+small_delta_k2_7_2: h_0 + h_1 < t_2 + t_3 + t_5 + t_6
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_6_2: t_3 + t_5 + t_6 < h_0 + h_1
+big_delta_k3_1_3: t_3 < h_1 + h_2
+small_delta_k3_2_4: h_1 + h_2 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_3_7
+  * small_delta_k0_6_8
+  * big_delta_k3_6_2
+  * small_delta_k3_2_4
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 2, 2, 4, 5, 4, 3] ===
+Total combinations explored and failed: 124320
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+small_delta_k2_4_6: h_3 + h_0 < t_2 + t_3
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_5: t_3 < h_3 + h_0
+small_delta_k3_4_6: h_3 + h_0 < t_3 + t_4
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k2_4_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 2, 3, 3, 4, 4, 3] ===
+Total combinations explored and failed: 53760
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 0(R) -> Edge 1(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_1: t_0 + t_3 + t_6 < h_3 + h_0
+big_delta_k0_9_2: t_0 + t_4 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_4
+--- Step k=1 (Reduced edge 4) ---
+big_delta_k1_2_6: t_1 + t_2 + t_5 < h_1 + h_2
+small_delta_k1_5_7: h_2 + h_3 < t_1 + t_2
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_2_5: t_2 + t_5 < h_1 + h_2
+big_delta_k2_4_7: t_2 + t_3 < h_2 + h_3
+small_delta_k2_5_8: h_2 + h_3 < t_2 + t_3 + t_6
+--- Step k=3 (Reduced edge 5) ---
+big_delta_k3_4_7: t_3 + t_6 < h_2 + h_3
+big_delta_k3_5_0: t_3 + t_6 < h_3 + h_0
+small_delta_k3_6_1: h_3 + h_0 < t_3 + t_4 + t_6
+--- Step k=4 (Reduced edge 0) ---
+big_delta_k4_5_1: t_4 + t_6 < h_3 + h_0
+big_delta_k4_0_2: t_4 < h_0 + h_1
+small_delta_k4_1_3: h_0 + h_1 < t_4 + t_5
+--- Step k=5 (Reduced edge 1) ---
+big_delta_k5_0_2: t_5 < h_0 + h_1
+big_delta_k5_1_3: t_5 < h_1 + h_2
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k1_2_6
+  * small_delta_k1_5_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 2, 3, 3, 5, 4, 3] ===
+Total combinations explored and failed: 161280
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+small_delta_k3_3_5: h_2 + h_3 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_5
+  * small_delta_k3_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 2, 3, 4, 4, 4, 3] ===
+Total combinations explored and failed: 44800
+
+Analyzing a sample failed path to find the contradiction:
+Edge 5(R) -> Edge 5(R) -> Edge 6(R) -> Edge 1(R) -> Edge 2(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 5) ---
+big_delta_k0_3_7: t_0 + t_1 + t_4 < h_2 + h_3
+small_delta_k0_6_8: h_3 + h_0 < t_0 + t_1
+--- Step k=1 (Reduced edge 5) ---
+big_delta_k1_3_6: t_1 + t_4 < h_2 + h_3
+big_delta_k1_5_8: t_1 + t_2 < h_3 + h_0
+small_delta_k1_6_9: h_3 + h_0 < t_1 + t_2 + t_5
+--- Step k=2 (Reduced edge 6) ---
+big_delta_k2_5_0: t_2 + t_5 + t_6 < h_3 + h_0
+big_delta_k2_6_1: t_2 + t_5 + t_6 < h_0 + h_1
+small_delta_k2_7_2: h_0 + h_1 < t_2 + t_3 + t_5 + t_6
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_6_2: t_3 + t_5 + t_6 < h_0 + h_1
+big_delta_k3_1_3: t_3 < h_1 + h_2
+small_delta_k3_2_4: h_1 + h_2 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_3_7
+  * small_delta_k0_6_8
+  * big_delta_k3_6_2
+  * small_delta_k3_2_4
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 2, 3, 4, 5, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+small_delta_k2_4_6: h_3 + h_0 < t_2 + t_3
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_6: t_3 + t_4 < h_3 + h_0
+small_delta_k3_4_7: h_3 + h_0 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k2_4_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 2, 4, 4, 4, 4, 3] ===
+Total combinations explored and failed: 53760
+
+Analyzing a sample failed path to find the contradiction:
+Edge 5(R) -> Edge 5(R) -> Edge 6(R) -> Edge 1(R) -> Edge 2(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 5) ---
+big_delta_k0_3_7: t_0 + t_1 + t_4 < h_2 + h_3
+small_delta_k0_6_8: h_3 + h_0 < t_0 + t_1
+--- Step k=1 (Reduced edge 5) ---
+big_delta_k1_3_6: t_1 + t_4 < h_2 + h_3
+big_delta_k1_5_9: t_1 + t_2 + t_5 < h_3 + h_0
+small_delta_k1_6_0: h_3 + h_0 < t_1 + t_2 + t_5 + t_6
+--- Step k=2 (Reduced edge 6) ---
+big_delta_k2_5_0: t_2 + t_5 + t_6 < h_3 + h_0
+big_delta_k2_6_1: t_2 + t_5 + t_6 < h_0 + h_1
+small_delta_k2_7_2: h_0 + h_1 < t_2 + t_3 + t_5 + t_6
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_6_2: t_3 + t_5 + t_6 < h_0 + h_1
+big_delta_k3_1_3: t_3 < h_1 + h_2
+small_delta_k3_2_4: h_1 + h_2 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_3_7
+  * small_delta_k0_6_8
+  * big_delta_k3_6_2
+  * small_delta_k3_2_4
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 2, 4, 4, 5, 4, 3] ===
+Total combinations explored and failed: 161280
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+small_delta_k2_4_6: h_3 + h_0 < t_2 + t_3
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_7: t_3 + t_4 + t_5 < h_3 + h_0
+small_delta_k3_4_0: h_3 + h_0 < t_3 + t_4 + t_5 + t_6
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k2_4_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 3, 2, 2, 5, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * big_delta_k2_1_5
+  * small_delta_k4_3_5
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 3, 2, 3, 5, 4, 3] ===
+Total combinations explored and failed: 100800
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_5
+  * small_delta_k4_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 3, 2, 4, 5, 4, 3] ===
+Total combinations explored and failed: 87696
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+big_delta_k2_3_6: t_2 + t_3 < h_3 + h_0
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_5: t_3 < h_3 + h_0
+small_delta_k3_4_6: h_3 + h_0 < t_3 + t_4
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k3_4_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 3, 3, 2, 5, 4, 3] ===
+Total combinations explored and failed: 161280
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+small_delta_k6_0_1: h_0 + h_1 < t_6
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * big_delta_k2_1_5
+  * small_delta_k3_3_6
+  * small_delta_k6_0_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 3, 3, 3, 5, 4, 3] ===
+Total combinations explored and failed: 73920
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_5
+  * small_delta_k3_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 3, 3, 4, 5, 4, 3] ===
+Total combinations explored and failed: 58128
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+big_delta_k2_3_6: t_2 + t_3 < h_3 + h_0
+small_delta_k2_4_7: h_3 + h_0 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_6: t_3 + t_4 < h_3 + h_0
+small_delta_k3_4_7: h_3 + h_0 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k2_4_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 3, 4, 3, 5, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_3_6: h_2 + h_3 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_5
+  * small_delta_k3_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 3, 4, 4, 5, 4, 3] ===
+Total combinations explored and failed: 64176
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+big_delta_k2_3_6: t_2 + t_3 < h_3 + h_0
+small_delta_k2_4_7: h_3 + h_0 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_7: t_3 + t_4 + t_5 < h_3 + h_0
+small_delta_k3_4_0: h_3 + h_0 < t_3 + t_4 + t_5 + t_6
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k2_4_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 3, 5, 4, 5, 4, 3] ===
+Total combinations explored and failed: 124320
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+big_delta_k2_3_6: t_2 + t_3 < h_3 + h_0
+small_delta_k2_4_7: h_3 + h_0 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_0: t_3 + t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k2_4_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 4, 3, 3, 5, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_6: t_3 + t_4 + t_5 < h_2 + h_3
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_5
+  * small_delta_k4_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 4, 3, 4, 5, 4, 3] ===
+Total combinations explored and failed: 100800
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+big_delta_k2_3_7: t_2 + t_3 + t_4 < h_3 + h_0
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_6: t_3 + t_4 < h_3 + h_0
+small_delta_k3_4_7: h_3 + h_0 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k3_4_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 4, 4, 3, 5, 4, 3] ===
+Total combinations explored and failed: 161280
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_2: t_2 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 2) ---
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+big_delta_k3_2_6: t_3 + t_4 + t_5 < h_2 + h_3
+small_delta_k3_3_7: h_2 + h_3 < t_3 + t_4 + t_5 + t_6
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_6: t_4 + t_5 + t_6 < h_2 + h_3
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_5
+  * small_delta_k3_3_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 4, 4, 4, 5, 4, 3] ===
+Total combinations explored and failed: 73920
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+big_delta_k2_3_7: t_2 + t_3 + t_4 < h_3 + h_0
+small_delta_k2_4_8: h_3 + h_0 < t_2 + t_3 + t_4 + t_5
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_7: t_3 + t_4 + t_5 < h_3 + h_0
+small_delta_k3_4_0: h_3 + h_0 < t_3 + t_4 + t_5 + t_6
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k2_4_8
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 4, 5, 4, 5, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+big_delta_k2_3_7: t_2 + t_3 + t_4 < h_3 + h_0
+small_delta_k2_4_8: h_3 + h_0 < t_2 + t_3 + t_4 + t_5
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_0: t_3 + t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k2_4_8
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 5, 4, 4, 5, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+big_delta_k2_3_8: t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_7: t_3 + t_4 + t_5 < h_3 + h_0
+small_delta_k3_4_0: h_3 + h_0 < t_3 + t_4 + t_5 + t_6
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k3_4_0
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 4, 3, 5, 5, 4, 5, 4, 3] ===
+Total combinations explored and failed: 161280
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+big_delta_k2_3_8: t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+small_delta_k2_4_0: h_3 + h_0 < t_2 + t_3 + t_4 + t_5 + t_6
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_0: t_3 + t_4 + t_5 + t_6 < h_3 + h_0
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k2_4_0
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 2, 2, 3, 3, 2, 4, 4, 3] ===
+Total combinations explored and failed: 15720
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 5(R) -> Edge 1(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_1: t_0 + t_4 + t_5 < h_3 + h_0
+big_delta_k0_9_2: t_0 + t_4 + t_5 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_6
+--- Step k=1 (Reduced edge 3) ---
+big_delta_k1_1_4: t_1 + t_6 < h_1 + h_2
+big_delta_k1_3_5: t_1 < h_2 + h_3
+small_delta_k1_4_6: h_2 + h_3 < t_1 + t_2
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_3_6: t_2 + t_3 < h_2 + h_3
+big_delta_k2_4_7: t_2 + t_3 < h_3 + h_0
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_5: t_3 < h_2 + h_3
+big_delta_k3_4_6: t_3 < h_3 + h_0
+small_delta_k3_5_7: h_3 + h_0 < t_3 + t_4
+--- Step k=4 (Reduced edge 5) ---
+big_delta_k4_4_0: t_4 + t_5 < h_3 + h_0
+big_delta_k4_5_1: t_4 + t_5 < h_0 + h_1
+--- Step k=5 (Reduced edge 5) ---
+big_delta_k5_4_0: t_5 < h_3 + h_0
+big_delta_k5_5_1: t_5 < h_0 + h_1
+small_delta_k5_0_2: h_0 + h_1 < t_5 + t_6
+--- Step k=6 (Reduced edge 1) ---
+big_delta_k6_0_2: t_6 < h_0 + h_1
+big_delta_k6_1_3: t_6 < h_1 + h_2
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_1
+  * small_delta_k0_1_3
+  * big_delta_k1_1_4
+  * small_delta_k1_4_6
+  * big_delta_k2_4_7
+  * small_delta_k3_5_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 2, 2, 3, 3, 3, 4, 4, 3] ===
+Total combinations explored and failed: 9020
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 5(R) -> Edge 1(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_1: t_0 + t_4 + t_5 < h_3 + h_0
+big_delta_k0_9_2: t_0 + t_4 + t_5 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_6
+--- Step k=1 (Reduced edge 3) ---
+big_delta_k1_1_4: t_1 + t_6 < h_1 + h_2
+big_delta_k1_3_5: t_1 < h_2 + h_3
+small_delta_k1_4_6: h_2 + h_3 < t_1 + t_2
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_3_6: t_2 + t_3 < h_2 + h_3
+big_delta_k2_4_7: t_2 + t_3 < h_3 + h_0
+small_delta_k2_5_8: h_3 + h_0 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_5: t_3 < h_2 + h_3
+big_delta_k3_4_7: t_3 + t_4 < h_3 + h_0
+small_delta_k3_5_0: h_3 + h_0 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 5) ---
+big_delta_k4_4_0: t_4 + t_5 < h_3 + h_0
+big_delta_k4_5_1: t_4 + t_5 < h_0 + h_1
+--- Step k=5 (Reduced edge 5) ---
+big_delta_k5_4_0: t_5 < h_3 + h_0
+big_delta_k5_5_1: t_5 < h_0 + h_1
+small_delta_k5_0_2: h_0 + h_1 < t_5 + t_6
+--- Step k=6 (Reduced edge 1) ---
+big_delta_k6_0_2: t_6 < h_0 + h_1
+big_delta_k6_1_3: t_6 < h_1 + h_2
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_1
+  * small_delta_k0_1_3
+  * big_delta_k1_1_4
+  * small_delta_k1_4_6
+  * big_delta_k2_4_7
+  * small_delta_k3_5_0
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 2, 2, 3, 4, 3, 4, 3, 3] ===
+Total combinations explored and failed: 17920
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 5(R) -> Edge 1(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_1: t_0 + t_4 + t_5 < h_3 + h_0
+big_delta_k0_10_2: t_0 + t_5 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_6
+--- Step k=1 (Reduced edge 3) ---
+big_delta_k1_1_4: t_1 + t_6 < h_1 + h_2
+big_delta_k1_3_5: t_1 < h_2 + h_3
+small_delta_k1_4_6: h_2 + h_3 < t_1 + t_2
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_3_6: t_2 + t_3 < h_2 + h_3
+big_delta_k2_4_8: t_2 + t_3 + t_4 < h_3 + h_0
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_5: t_3 < h_2 + h_3
+big_delta_k3_4_7: t_3 + t_4 < h_3 + h_0
+small_delta_k3_5_0: h_3 + h_0 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 5) ---
+big_delta_k4_4_0: t_4 + t_5 < h_3 + h_0
+small_delta_k4_6_1: h_0 + h_1 < t_4 + t_5
+--- Step k=5 (Reduced edge 5) ---
+big_delta_k5_4_0: t_5 < h_3 + h_0
+big_delta_k5_5_1: t_5 < h_0 + h_1
+small_delta_k5_0_2: h_0 + h_1 < t_5 + t_6
+--- Step k=6 (Reduced edge 1) ---
+big_delta_k6_0_2: t_6 < h_0 + h_1
+big_delta_k6_1_3: t_6 < h_1 + h_2
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_1
+  * small_delta_k0_1_3
+  * big_delta_k1_1_4
+  * small_delta_k1_4_6
+  * big_delta_k2_4_8
+  * small_delta_k3_5_0
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 2, 2, 3, 4, 3, 4, 4, 3] ===
+Total combinations explored and failed: 17740
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 5(R) -> Edge 1(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_1: t_0 + t_4 + t_5 < h_3 + h_0
+big_delta_k0_9_2: t_0 + t_4 + t_5 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_6
+--- Step k=1 (Reduced edge 3) ---
+big_delta_k1_1_4: t_1 + t_6 < h_1 + h_2
+big_delta_k1_3_5: t_1 < h_2 + h_3
+small_delta_k1_4_6: h_2 + h_3 < t_1 + t_2
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_3_6: t_2 + t_3 < h_2 + h_3
+big_delta_k2_4_8: t_2 + t_3 + t_4 < h_3 + h_0
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_5: t_3 < h_2 + h_3
+big_delta_k3_4_7: t_3 + t_4 < h_3 + h_0
+small_delta_k3_5_0: h_3 + h_0 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 5) ---
+big_delta_k4_4_0: t_4 + t_5 < h_3 + h_0
+big_delta_k4_5_1: t_4 + t_5 < h_0 + h_1
+--- Step k=5 (Reduced edge 5) ---
+big_delta_k5_4_0: t_5 < h_3 + h_0
+big_delta_k5_5_1: t_5 < h_0 + h_1
+small_delta_k5_0_2: h_0 + h_1 < t_5 + t_6
+--- Step k=6 (Reduced edge 1) ---
+big_delta_k6_0_2: t_6 < h_0 + h_1
+big_delta_k6_1_3: t_6 < h_1 + h_2
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_1
+  * small_delta_k0_1_3
+  * big_delta_k1_1_4
+  * small_delta_k1_4_6
+  * big_delta_k2_4_8
+  * small_delta_k3_5_0
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 2, 2, 3, 6, 5, 4, 3, 3] ===
+Total combinations explored and failed: 112000
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 5(R) -> Edge 1(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_6_1: t_0 + t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+big_delta_k0_10_2: t_0 + t_5 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_6
+--- Step k=1 (Reduced edge 3) ---
+big_delta_k1_1_4: t_1 + t_6 < h_1 + h_2
+big_delta_k1_3_5: t_1 < h_2 + h_3
+small_delta_k1_4_6: h_2 + h_3 < t_1 + t_2
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_3_6: t_2 + t_3 < h_2 + h_3
+big_delta_k2_4_0: t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_5: t_3 < h_2 + h_3
+big_delta_k3_4_0: t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=4 (Reduced edge 5) ---
+big_delta_k4_4_0: t_4 + t_5 < h_3 + h_0
+small_delta_k4_6_1: h_0 + h_1 < t_4 + t_5
+--- Step k=5 (Reduced edge 5) ---
+big_delta_k5_4_0: t_5 < h_3 + h_0
+big_delta_k5_5_1: t_5 < h_0 + h_1
+small_delta_k5_0_2: h_0 + h_1 < t_5 + t_6
+--- Step k=6 (Reduced edge 1) ---
+big_delta_k6_0_2: t_6 < h_0 + h_1
+big_delta_k6_1_3: t_6 < h_1 + h_2
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_6_1
+  * small_delta_k0_1_3
+  * big_delta_k1_1_4
+  * small_delta_k1_4_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 2, 2, 3, 6, 5, 4, 4, 3] ===
+Total combinations explored and failed: 103600
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 5(R) -> Edge 1(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_6_1: t_0 + t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+big_delta_k0_9_2: t_0 + t_4 + t_5 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_6
+--- Step k=1 (Reduced edge 3) ---
+big_delta_k1_1_4: t_1 + t_6 < h_1 + h_2
+big_delta_k1_3_5: t_1 < h_2 + h_3
+small_delta_k1_4_6: h_2 + h_3 < t_1 + t_2
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_3_6: t_2 + t_3 < h_2 + h_3
+big_delta_k2_4_0: t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_5: t_3 < h_2 + h_3
+big_delta_k3_4_0: t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=4 (Reduced edge 5) ---
+big_delta_k4_4_0: t_4 + t_5 < h_3 + h_0
+big_delta_k4_5_1: t_4 + t_5 < h_0 + h_1
+--- Step k=5 (Reduced edge 5) ---
+big_delta_k5_4_0: t_5 < h_3 + h_0
+big_delta_k5_5_1: t_5 < h_0 + h_1
+small_delta_k5_0_2: h_0 + h_1 < t_5 + t_6
+--- Step k=6 (Reduced edge 1) ---
+big_delta_k6_0_2: t_6 < h_0 + h_1
+big_delta_k6_1_3: t_6 < h_1 + h_2
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_6_1
+  * small_delta_k0_1_3
+  * big_delta_k1_1_4
+  * small_delta_k1_4_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 2, 3, 3, 6, 5, 4, 3, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 5(R) -> Edge 1(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_6_1: t_0 + t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+big_delta_k0_10_2: t_0 + t_5 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_6
+--- Step k=1 (Reduced edge 3) ---
+big_delta_k1_1_4: t_1 + t_6 < h_1 + h_2
+big_delta_k1_3_6: t_1 + t_2 < h_2 + h_3
+small_delta_k1_4_7: h_2 + h_3 < t_1 + t_2 + t_3
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_3_6: t_2 + t_3 < h_2 + h_3
+big_delta_k2_4_0: t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_5: t_3 < h_2 + h_3
+big_delta_k3_4_0: t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=4 (Reduced edge 5) ---
+big_delta_k4_4_0: t_4 + t_5 < h_3 + h_0
+small_delta_k4_6_1: h_0 + h_1 < t_4 + t_5
+--- Step k=5 (Reduced edge 5) ---
+big_delta_k5_4_0: t_5 < h_3 + h_0
+big_delta_k5_5_1: t_5 < h_0 + h_1
+small_delta_k5_0_2: h_0 + h_1 < t_5 + t_6
+--- Step k=6 (Reduced edge 1) ---
+big_delta_k6_0_2: t_6 < h_0 + h_1
+big_delta_k6_1_3: t_6 < h_1 + h_2
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_6_1
+  * small_delta_k0_1_3
+  * big_delta_k1_1_4
+  * small_delta_k1_4_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 2, 3, 3, 6, 5, 4, 4, 3] ===
+Total combinations explored and failed: 124320
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 5(R) -> Edge 1(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_6_1: t_0 + t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+big_delta_k0_9_2: t_0 + t_4 + t_5 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_6
+--- Step k=1 (Reduced edge 3) ---
+big_delta_k1_1_4: t_1 + t_6 < h_1 + h_2
+big_delta_k1_3_6: t_1 + t_2 < h_2 + h_3
+small_delta_k1_4_7: h_2 + h_3 < t_1 + t_2 + t_3
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_3_6: t_2 + t_3 < h_2 + h_3
+big_delta_k2_4_0: t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_5: t_3 < h_2 + h_3
+big_delta_k3_4_0: t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=4 (Reduced edge 5) ---
+big_delta_k4_4_0: t_4 + t_5 < h_3 + h_0
+big_delta_k4_5_1: t_4 + t_5 < h_0 + h_1
+--- Step k=5 (Reduced edge 5) ---
+big_delta_k5_4_0: t_5 < h_3 + h_0
+big_delta_k5_5_1: t_5 < h_0 + h_1
+small_delta_k5_0_2: h_0 + h_1 < t_5 + t_6
+--- Step k=6 (Reduced edge 1) ---
+big_delta_k6_0_2: t_6 < h_0 + h_1
+big_delta_k6_1_3: t_6 < h_1 + h_2
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_6_1
+  * small_delta_k0_1_3
+  * big_delta_k1_1_4
+  * small_delta_k1_4_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 2, 3, 4, 4, 3, 2, 3, 3] ===
+Total combinations explored and failed: 15900
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 1(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_1: t_0 + t_5 < h_3 + h_0
+big_delta_k0_10_2: t_0 + t_5 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_6
+--- Step k=1 (Reduced edge 3) ---
+big_delta_k1_1_4: t_1 + t_6 < h_1 + h_2
+big_delta_k1_3_6: t_1 + t_2 < h_2 + h_3
+small_delta_k1_4_7: h_2 + h_3 < t_1 + t_2 + t_3
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_3_7: t_2 + t_3 + t_4 < h_2 + h_3
+big_delta_k2_4_8: t_2 + t_3 + t_4 < h_3 + h_0
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_6: t_3 + t_4 < h_2 + h_3
+big_delta_k3_4_7: t_3 + t_4 < h_3 + h_0
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_5: t_4 < h_2 + h_3
+big_delta_k4_4_6: t_4 < h_3 + h_0
+small_delta_k4_5_0: h_3 + h_0 < t_4 + t_5
+--- Step k=5 (Reduced edge 5) ---
+big_delta_k5_4_0: t_5 < h_3 + h_0
+big_delta_k5_5_1: t_5 < h_0 + h_1
+small_delta_k5_0_2: h_0 + h_1 < t_5 + t_6
+--- Step k=6 (Reduced edge 1) ---
+big_delta_k6_0_2: t_6 < h_0 + h_1
+big_delta_k6_1_3: t_6 < h_1 + h_2
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_1
+  * small_delta_k0_1_3
+  * big_delta_k1_1_4
+  * small_delta_k1_4_7
+  * big_delta_k2_4_8
+  * small_delta_k4_5_0
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 2, 3, 4, 6, 5, 4, 3, 3] ===
+Total combinations explored and failed: 112000
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 1(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_6_1: t_0 + t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+big_delta_k0_10_2: t_0 + t_5 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_6
+--- Step k=1 (Reduced edge 3) ---
+big_delta_k1_1_4: t_1 + t_6 < h_1 + h_2
+big_delta_k1_3_6: t_1 + t_2 < h_2 + h_3
+small_delta_k1_4_7: h_2 + h_3 < t_1 + t_2 + t_3
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_3_7: t_2 + t_3 + t_4 < h_2 + h_3
+big_delta_k2_4_0: t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_6: t_3 + t_4 < h_2 + h_3
+big_delta_k3_4_0: t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_5: t_4 < h_2 + h_3
+big_delta_k4_4_0: t_4 + t_5 < h_3 + h_0
+--- Step k=5 (Reduced edge 5) ---
+big_delta_k5_4_0: t_5 < h_3 + h_0
+big_delta_k5_5_1: t_5 < h_0 + h_1
+small_delta_k5_0_2: h_0 + h_1 < t_5 + t_6
+--- Step k=6 (Reduced edge 1) ---
+big_delta_k6_0_2: t_6 < h_0 + h_1
+big_delta_k6_1_3: t_6 < h_1 + h_2
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_6_1
+  * small_delta_k0_1_3
+  * big_delta_k1_1_4
+  * small_delta_k1_4_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 2, 4, 4, 6, 5, 4, 3, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R) -> Edge 5(R) -> Edge 1(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_6_1: t_0 + t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+big_delta_k0_10_2: t_0 + t_5 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_6
+--- Step k=1 (Reduced edge 3) ---
+big_delta_k1_1_4: t_1 + t_6 < h_1 + h_2
+big_delta_k1_3_7: t_1 + t_2 + t_3 < h_2 + h_3
+small_delta_k1_4_8: h_2 + h_3 < t_1 + t_2 + t_3 + t_4
+--- Step k=2 (Reduced edge 4) ---
+big_delta_k2_3_7: t_2 + t_3 + t_4 < h_2 + h_3
+big_delta_k2_4_0: t_2 + t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_6: t_3 + t_4 < h_2 + h_3
+big_delta_k3_4_0: t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_5: t_4 < h_2 + h_3
+big_delta_k4_4_0: t_4 + t_5 < h_3 + h_0
+--- Step k=5 (Reduced edge 5) ---
+big_delta_k5_4_0: t_5 < h_3 + h_0
+big_delta_k5_5_1: t_5 < h_0 + h_1
+small_delta_k5_0_2: h_0 + h_1 < t_5 + t_6
+--- Step k=6 (Reduced edge 1) ---
+big_delta_k6_0_2: t_6 < h_0 + h_1
+big_delta_k6_1_3: t_6 < h_1 + h_2
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_6_1
+  * small_delta_k0_1_3
+  * big_delta_k1_1_4
+  * small_delta_k1_4_8
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 2, 2, 3, 3, 5, 4, 3] ===
+Total combinations explored and failed: 22176
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_3: t_3 < h_1 + h_2
+small_delta_k3_2_4: h_1 + h_2 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k4_1_3
+  * small_delta_k4_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 2, 3, 3, 2, 2, 4, 3] ===
+Total combinations explored and failed: 17920
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_3: t_3 < h_1 + h_2
+small_delta_k3_2_4: h_1 + h_2 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_4: t_5 < h_2 + h_3
+small_delta_k5_3_5: h_2 + h_3 < t_5 + t_6
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k4_1_4
+  * small_delta_k5_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 2, 3, 3, 2, 3, 4, 3] ===
+Total combinations explored and failed: 10224
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_9_2: t_0 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_4: t_1 + t_2 < h_1 + h_2
+big_delta_k1_2_5: t_1 + t_2 < h_2 + h_3
+--- Step k=2 (Reduced edge 2) ---
+big_delta_k2_1_3: t_2 < h_1 + h_2
+big_delta_k2_2_4: t_2 < h_2 + h_3
+small_delta_k2_3_5: h_2 + h_3 < t_2 + t_3
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+big_delta_k3_3_6: t_3 + t_4 < h_3 + h_0
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_4: t_4 < h_2 + h_3
+big_delta_k4_3_5: t_4 < h_3 + h_0
+small_delta_k4_4_6: h_3 + h_0 < t_4 + t_5
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_5
+  * small_delta_k2_3_5
+  * big_delta_k3_2_5
+  * small_delta_k4_4_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 2, 3, 3, 3, 2, 4, 3] ===
+Total combinations explored and failed: 18200
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_3: t_3 < h_1 + h_2
+small_delta_k3_2_4: h_1 + h_2 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k4_1_4
+  * small_delta_k4_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 2, 3, 3, 3, 3, 4, 3] ===
+Total combinations explored and failed: 6412
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_9_2: t_0 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_4: t_1 + t_2 < h_1 + h_2
+big_delta_k1_2_5: t_1 + t_2 < h_2 + h_3
+--- Step k=2 (Reduced edge 2) ---
+big_delta_k2_1_3: t_2 < h_1 + h_2
+big_delta_k2_2_4: t_2 < h_2 + h_3
+small_delta_k2_3_5: h_2 + h_3 < t_2 + t_3
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+big_delta_k3_3_6: t_3 + t_4 < h_3 + h_0
+small_delta_k3_4_7: h_3 + h_0 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_4: t_4 < h_2 + h_3
+big_delta_k4_3_6: t_4 + t_5 < h_3 + h_0
+small_delta_k4_4_0: h_3 + h_0 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_5
+  * small_delta_k2_3_5
+  * big_delta_k3_2_5
+  * small_delta_k4_4_0
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 2, 3, 4, 3, 3, 4, 3] ===
+Total combinations explored and failed: 17920
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_9_2: t_0 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_4: t_1 + t_2 < h_1 + h_2
+big_delta_k1_2_5: t_1 + t_2 < h_2 + h_3
+--- Step k=2 (Reduced edge 2) ---
+big_delta_k2_1_3: t_2 < h_1 + h_2
+big_delta_k2_2_4: t_2 < h_2 + h_3
+small_delta_k2_3_5: h_2 + h_3 < t_2 + t_3
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+big_delta_k3_3_7: t_3 + t_4 + t_5 < h_3 + h_0
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_4: t_4 < h_2 + h_3
+big_delta_k4_3_6: t_4 + t_5 < h_3 + h_0
+small_delta_k4_4_0: h_3 + h_0 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_5
+  * small_delta_k2_3_5
+  * big_delta_k3_2_5
+  * small_delta_k4_4_0
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 3, 2, 2, 3, 5, 4, 3] ===
+Total combinations explored and failed: 15288
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k4_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 3, 2, 3, 3, 5, 4, 3] ===
+Total combinations explored and failed: 26208
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_4
+  * small_delta_k4_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 3, 2, 5, 4, 3, 3, 3] ===
+Total combinations explored and failed: 22848
+
+Analyzing a sample failed path to find the contradiction:
+Edge 4(R) -> Edge 7(R) -> Edge 7(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 4) ---
+big_delta_k0_2_5: t_0 + t_4 < h_1 + h_2
+big_delta_k0_3_6: t_0 + t_4 < h_2 + h_3
+big_delta_k0_4_7: t_0 + t_5 < h_2 + h_3
+--- Step k=1 (Reduced edge 7) ---
+big_delta_k1_5_0: t_1 + t_2 + t_5 + t_6 < h_3 + h_0
+small_delta_k1_8_1: h_0 + h_1 < t_1 + t_2 + t_6
+--- Step k=2 (Reduced edge 7) ---
+big_delta_k2_5_0: t_2 + t_5 + t_6 < h_3 + h_0
+big_delta_k2_7_1: t_2 + t_6 < h_0 + h_1
+small_delta_k2_8_2: h_0 + h_1 < t_2 + t_3 + t_6
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_7_2: t_3 + t_6 < h_0 + h_1
+big_delta_k3_1_3: t_3 < h_1 + h_2
+small_delta_k3_2_4: h_1 + h_2 < t_3 + t_4
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_4: t_5 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_2_5
+  * big_delta_k1_5_0
+  * small_delta_k1_8_1
+  * small_delta_k4_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 3, 3, 2, 5, 4, 3, 3] ===
+Total combinations explored and failed: 36960
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 3(R) -> Edge 5(R) -> Edge 6(R) -> Edge 6(R) -> Edge 1(R) -> Edge 2(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_7_1: t_0 + t_2 + t_3 + t_4 < h_3 + h_0
+big_delta_k0_10_2: t_0 + t_4 < h_0 + h_1
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_5
+--- Step k=1 (Reduced edge 3) ---
+big_delta_k1_1_4: t_1 + t_5 < h_1 + h_2
+big_delta_k1_2_5: t_1 + t_6 < h_1 + h_2
+big_delta_k1_3_6: t_1 + t_6 < h_2 + h_3
+small_delta_k1_4_7: h_2 + h_3 < t_1 + t_2 + t_6
+--- Step k=2 (Reduced edge 5) ---
+big_delta_k2_3_6: t_2 + t_6 < h_2 + h_3
+big_delta_k2_5_0: t_2 + t_3 + t_4 < h_3 + h_0
+--- Step k=3 (Reduced edge 6) ---
+big_delta_k3_5_0: t_3 + t_4 < h_3 + h_0
+small_delta_k3_7_1: h_0 + h_1 < t_3 + t_4
+--- Step k=4 (Reduced edge 6) ---
+big_delta_k4_5_0: t_4 < h_3 + h_0
+big_delta_k4_6_1: t_4 < h_0 + h_1
+small_delta_k4_0_2: h_0 + h_1 < t_4 + t_5
+--- Step k=5 (Reduced edge 1) ---
+big_delta_k5_0_2: t_5 < h_0 + h_1
+big_delta_k5_1_3: t_5 < h_1 + h_2
+small_delta_k5_2_4: h_1 + h_2 < t_5 + t_6
+--- Step k=6 (Reduced edge 2) ---
+big_delta_k6_1_3: t_6 < h_1 + h_2
+big_delta_k6_2_4: t_6 < h_2 + h_3
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_1
+  * big_delta_k1_2_5
+  * small_delta_k1_4_7
+  * small_delta_k3_7_1
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 3, 3, 3, 2, 2, 4, 3] ===
+Total combinations explored and failed: 10640
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+small_delta_k3_2_5: h_1 + h_2 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_4: t_5 < h_2 + h_3
+small_delta_k5_3_5: h_2 + h_3 < t_5 + t_6
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k4_1_4
+  * small_delta_k5_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 3, 3, 3, 3, 2, 4, 3] ===
+Total combinations explored and failed: 11872
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+small_delta_k3_2_5: h_1 + h_2 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k4_1_4
+  * small_delta_k4_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 4, 3, 3, 2, 2, 4, 3] ===
+Total combinations explored and failed: 21896
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_5: t_3 + t_4 + t_5 < h_1 + h_2
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_4: t_5 < h_2 + h_3
+small_delta_k5_3_5: h_2 + h_3 < t_5 + t_6
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_5
+  * small_delta_k5_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 3, 4, 3, 3, 3, 2, 4, 3] ===
+Total combinations explored and failed: 22568
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_4: t_2 + t_3 < h_1 + h_2
+small_delta_k2_2_5: h_1 + h_2 < t_2 + t_3 + t_4
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_5: t_3 + t_4 + t_5 < h_1 + h_2
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_5
+  * small_delta_k4_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 4, 3, 2, 2, 3, 5, 4, 3] ===
+Total combinations explored and failed: 112000
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_4: t_4 < h_2 + h_3
+small_delta_k4_3_5: h_2 + h_3 < t_4 + t_5
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_5
+  * small_delta_k4_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 4, 3, 2, 2, 4, 5, 4, 3] ===
+Total combinations explored and failed: 103600
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_4: t_1 + t_2 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 2) ---
+big_delta_k2_1_3: t_2 < h_1 + h_2
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_5: t_3 < h_3 + h_0
+small_delta_k3_4_6: h_3 + h_0 < t_3 + t_4
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k3_4_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 4, 3, 2, 3, 3, 5, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_8_2: t_0 + t_1 + t_5 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_7_1: t_1 + t_5 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_3: t_4 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 3) ---
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_5
+  * small_delta_k4_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 4, 3, 2, 3, 4, 5, 4, 3] ===
+Total combinations explored and failed: 112000
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_4: t_1 + t_2 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 2) ---
+big_delta_k2_1_3: t_2 < h_1 + h_2
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_6: t_3 + t_4 < h_3 + h_0
+small_delta_k3_4_7: h_3 + h_0 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k3_4_7
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 4, 3, 2, 4, 4, 5, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_8_2: t_0 + t_4 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_4: t_1 + t_2 < h_1 + h_2
+big_delta_k1_2_6: t_1 + t_2 + t_3 < h_2 + h_3
+--- Step k=2 (Reduced edge 2) ---
+big_delta_k2_1_3: t_2 < h_1 + h_2
+big_delta_k2_2_5: t_2 + t_3 < h_2 + h_3
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_4: t_3 < h_2 + h_3
+big_delta_k3_3_7: t_3 + t_4 + t_5 < h_3 + h_0
+small_delta_k3_4_0: h_3 + h_0 < t_3 + t_4 + t_5 + t_6
+--- Step k=4 (Reduced edge 4) ---
+big_delta_k4_3_0: t_4 + t_5 + t_6 < h_3 + h_0
+big_delta_k4_4_1: t_4 + t_5 + t_6 < h_0 + h_1
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_8_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_6
+  * small_delta_k3_4_0
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 4, 3, 3, 3, 3, 2, 4, 3] ===
+Total combinations explored and failed: 47040
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_4: t_3 + t_4 < h_1 + h_2
+small_delta_k3_2_5: h_1 + h_2 < t_3 + t_4 + t_5
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k4_1_4
+  * small_delta_k4_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 4, 4, 3, 3, 2, 2, 4, 3] ===
+Total combinations explored and failed: 25536
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+small_delta_k2_2_6: h_1 + h_2 < t_2 + t_3 + t_4 + t_5
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_5: t_3 + t_4 + t_5 < h_1 + h_2
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_4: t_5 < h_2 + h_3
+small_delta_k5_3_5: h_2 + h_3 < t_5 + t_6
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_5
+  * small_delta_k5_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 4, 4, 3, 3, 3, 2, 4, 3] ===
+Total combinations explored and failed: 50400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_5: t_2 + t_3 + t_4 < h_1 + h_2
+small_delta_k2_2_6: h_1 + h_2 < t_2 + t_3 + t_4 + t_5
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_5: t_3 + t_4 + t_5 < h_1 + h_2
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+small_delta_k4_3_6: h_2 + h_3 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_5: t_5 + t_6 < h_2 + h_3
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k3_1_5
+  * small_delta_k4_3_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 5, 4, 3, 2, 3, 3, 4, 3] ===
+Total combinations explored and failed: 134400
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_9_2: t_0 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_4: t_1 + t_2 < h_1 + h_2
+big_delta_k1_2_7: t_1 + t_2 + t_3 + t_4 < h_2 + h_3
+--- Step k=2 (Reduced edge 2) ---
+big_delta_k2_1_3: t_2 < h_1 + h_2
+big_delta_k2_2_6: t_2 + t_3 + t_4 < h_2 + h_3
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+small_delta_k3_4_6: h_3 + h_0 < t_3 + t_4
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_4: t_4 < h_2 + h_3
+big_delta_k4_3_6: t_4 + t_5 < h_3 + h_0
+small_delta_k4_4_0: h_3 + h_0 < t_4 + t_5 + t_6
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_7
+  * small_delta_k3_4_6
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 5, 4, 3, 3, 2, 2, 4, 3] ===
+Total combinations explored and failed: 112000
+
+Analyzing a sample failed path to find the contradiction:
+Edge 0(R) -> Edge 0(R) -> Edge 1(R) -> Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 0) ---
+big_delta_k0_9_2: t_0 + t_1 + t_6 < h_3 + h_0
+small_delta_k0_1_3: h_0 + h_1 < t_0 + t_1
+--- Step k=1 (Reduced edge 0) ---
+big_delta_k1_8_1: t_1 + t_6 < h_3 + h_0
+big_delta_k1_0_2: t_1 < h_0 + h_1
+small_delta_k1_1_3: h_0 + h_1 < t_1 + t_2
+--- Step k=2 (Reduced edge 1) ---
+big_delta_k2_0_3: t_2 + t_3 < h_0 + h_1
+big_delta_k2_1_6: t_2 + t_3 + t_4 + t_5 < h_1 + h_2
+--- Step k=3 (Reduced edge 1) ---
+big_delta_k3_0_2: t_3 < h_0 + h_1
+big_delta_k3_1_5: t_3 + t_4 + t_5 < h_1 + h_2
+--- Step k=4 (Reduced edge 2) ---
+big_delta_k4_1_4: t_4 + t_5 < h_1 + h_2
+big_delta_k4_2_5: t_4 + t_5 < h_2 + h_3
+--- Step k=5 (Reduced edge 2) ---
+big_delta_k5_1_3: t_5 < h_1 + h_2
+big_delta_k5_2_4: t_5 < h_2 + h_3
+small_delta_k5_3_5: h_2 + h_3 < t_5 + t_6
+--- Step k=6 (Reduced edge 3) ---
+big_delta_k6_2_4: t_6 < h_2 + h_3
+big_delta_k6_3_0: t_6 < h_3 + h_0
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_1_3
+  * big_delta_k2_1_6
+  * small_delta_k5_3_5
+==================================================
+
+
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 3, 5, 4, 3, 3, 2, 3, 4, 3] ===
+Total combinations explored and failed: 84000
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 2(R) -> Edge 3(R) -> Edge 3(R) -> Edge 4(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_9_2: t_0 + t_5 + t_6 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_4: t_1 + t_2 < h_1 + h_2
+big_delta_k1_2_7: t_1 + t_2 + t_3 + t_4 < h_2 + h_3
+--- Step k=2 (Reduced edge 2) ---
+big_delta_k2_1_3: t_2 < h_1 + h_2
+big_delta_k2_2_6: t_2 + t_3 + t_4 < h_2 + h_3
+--- Step k=3 (Reduced edge 3) ---
+big_delta_k3_2_5: t_3 + t_4 < h_2 + h_3
+big_delta_k3_3_6: t_3 + t_4 < h_3 + h_0
+--- Step k=4 (Reduced edge 3) ---
+big_delta_k4_2_4: t_4 < h_2 + h_3
+big_delta_k4_3_5: t_4 < h_3 + h_0
+small_delta_k4_4_6: h_3 + h_0 < t_4 + t_5
+--- Step k=5 (Reduced edge 4) ---
+big_delta_k5_3_0: t_5 + t_6 < h_3 + h_0
+big_delta_k5_4_1: t_5 + t_6 < h_0 + h_1
+--- Step k=6 (Reduced edge 4) ---
+big_delta_k6_3_0: t_6 < h_3 + h_0
+big_delta_k6_4_1: t_6 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_9_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_7
+  * small_delta_k4_4_6
+==================================================
+
+

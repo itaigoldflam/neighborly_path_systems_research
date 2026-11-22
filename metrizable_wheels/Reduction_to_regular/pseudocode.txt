@@ -1,0 +1,74 @@
+def reducible_edges(R):
+    n = len(R)
+    reducible = [0,...,n-1]
+    for 0 <= i <= n-1:
+        reducible.delete(i + r[i]) # delete value if exist
+    return reducible
+
+reducted_wheel(R, i):
+    indices=[]
+    n = len(R)
+    R_red = (n-1) * [0]   # n-1 len list
+    for 0 <= j <= n-2:
+        if j < i:
+            if (i - j mod n) < R[j]:     # if i between j, j + r[j], so (i,i+1) in that path
+                R_red[j] = R[j] - 1
+            else:
+                R_red[j] = R[j]
+        elif j=i:
+            R_red[j] = max(R[i]-1, R[i+1])
+        elif j > i:
+            if (i - (j+1) mod n) < R[j+1]:
+                R_red[j] = R[j+1] - 1
+            else:
+                R_red[j] = R[j+1]
+    return R_red
+
+def get_L_from_R(R: List[int]) -> List[int]:
+    """Calculates the CCW reach vector L from CW reach vector R."""
+    n = len(R)
+    L = [0] * n
+    for i in range(n):
+        reach = R[i]
+        for step in range(1, reach + 1):
+            target = (i + step) % n
+            L[target] = max(L[target], step)
+    return L
+
+def is_contained(R, i, (x,y)):
+    n = len(R)
+    return i-x mod n < R[x] or i-y mod n < R[y]
+
+
+find_reduction_wheels(R):
+    W = [R]   # list of all wheels in the reductions
+    indexes_reducted = []   # on wheel W[i], we reducted the edge (reducible_indexes[i], reducible_indexes[i]+1)
+    big_deltas_list = []    # on wheel W[i+1], the big deltas are the tuples in big_deltas_list[i]
+    small_deltas_list = []
+    reducible_indexes = find_reducible_edge(R)
+    iter_num = 1
+    while Reducible_ind not empty:
+        i = reducible_indexes[0]
+        indexes_reducted.append(i)
+        W.append(reducted_wheel(R,i))
+
+        # in this part, we check all the paths in the big wheel that (i,i+1) in them, and decide they have a big delta.
+        # there is only one path that stops at (i,i+1) we need to check that has a small delta - the smallest path that stops at i+1.
+        # we rely on that the delta of a subpath is bigger than the delta of the path, so for big deltas we need to check the biggest paths that has the smallest deltas.
+        # for small deltas, we take the smallest path because it has the biggest delta (and all paths that stop at i+1 are included in each other).
+        big_delta_paths = []
+        L = get_L_from_R(R)
+        for 0 <= j <= L[i]:
+            start_ind = L[i] + j
+            big_delta_paths.append((start_ind, start_ind + R[start_ind]))
+        small_delta_paths = []
+        if R[i+1] > R[i]-1:
+            small_delta_paths.append((i+1, i+R[i]+1))
+        
+        big_deltas_list.append(big_delta_paths)
+        small_deltas_list.append(small_delta_paths)
+
+        Reducible_ind = [reducible[j]-1 for 1 <= j <= len(reducible)-1]  # delete the first, and substract all the rest by 1 (so it will be the reducible on the next wheel)
+        iter num += 1
+
+

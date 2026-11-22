@@ -1,0 +1,9 @@
+DELTA RESEARCH RESULTS FOR PARTIAL WHEELS (n=7)
+Filtered to specific configurations (3 larges with one >=3, or 4 larges)
+============================================================
+
+Partition [2,2,3]:
+STATUS: NOT METRIZABLE, BUT MAX DELTA ≈ 1.0 (1.00007)
+(Found a balanced contradiction. The system variables can be inflated to solve for any eps > 0)
+------------------------------------------------------------
+

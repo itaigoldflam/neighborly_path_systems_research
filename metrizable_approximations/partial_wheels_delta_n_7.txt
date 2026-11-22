@@ -1,0 +1,4 @@
+DELTA RESEARCH RESULTS FOR PARTIAL WHEELS (n=7)
+Filtered to specific configurations (3 larges with one >=3, or 4 larges)
+============================================================
+

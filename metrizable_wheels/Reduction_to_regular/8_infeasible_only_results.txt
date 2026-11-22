@@ -1,0 +1,31 @@
+=== PROVEN INFEASIBLE: Wheel R = [2, 2, 2, 3, 2, 2, 2, 3] ===
+Total combinations explored and failed: 96
+
+Analyzing a sample failed path to find the contradiction:
+Edge 1(R) -> Edge 2(R) -> Edge 3(R) -> Edge 4(R)
+
+=== Final linear system for this path ===
+--- Step k=0 (Reduced edge 1) ---
+big_delta_k0_7_2: t_0 + t_3 < h_0 + h_1
+big_delta_k0_1_3: t_0 < h_1 + h_2
+small_delta_k0_2_4: h_1 + h_2 < t_0 + t_1
+--- Step k=1 (Reduced edge 2) ---
+big_delta_k1_1_3: t_1 < h_1 + h_2
+big_delta_k1_2_5: t_1 + t_2 < h_2 + h_3
+--- Step k=2 (Reduced edge 3) ---
+big_delta_k2_2_4: t_2 < h_2 + h_3
+big_delta_k2_3_5: t_2 < h_3 + h_0
+small_delta_k2_4_0: h_3 + h_0 < t_2 + t_3
+--- Step k=3 (Reduced edge 4) ---
+big_delta_k3_3_0: t_3 < h_3 + h_0
+big_delta_k3_4_1: t_3 < h_0 + h_1
+
+=== FATAL CONTRADICTION (Gurobi IIS) ===
+The following specific equations contradict each other and cannot be satisfied simultaneously:
+  * big_delta_k0_7_2
+  * small_delta_k0_2_4
+  * big_delta_k1_2_5
+  * small_delta_k2_4_0
+==================================================
+
+

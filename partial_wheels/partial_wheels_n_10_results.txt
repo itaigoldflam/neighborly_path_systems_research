@@ -1,0 +1,374 @@
+EXPERIMENT REPORT FOR n=10
+Total unique partitions: 76
+============================================================
+
+--- Partition 1: [1, 9] ---
+Spoke Mask: (0, 0, 0, 0, 0, 0, 0, 0, 1, 1)
+Graph: 11 vertices, 12 edges
+Generated 1004 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 2: [2, 8] ---
+Spoke Mask: (0, 0, 0, 0, 0, 0, 0, 1, 0, 1)
+Graph: 11 vertices, 12 edges
+Generated 5832 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 3: [3, 7] ---
+Spoke Mask: (0, 0, 0, 0, 0, 0, 1, 0, 0, 1)
+Graph: 11 vertices, 12 edges
+Generated 13373 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 4: [4, 6] ---
+Spoke Mask: (0, 0, 0, 0, 0, 1, 0, 0, 0, 1)
+Graph: 11 vertices, 12 edges
+Generated 20776 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 5: [5, 5] ---
+Spoke Mask: (0, 0, 0, 0, 1, 0, 0, 0, 0, 1)
+Graph: 11 vertices, 12 edges
+Generated 23935 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 6: [1, 1, 8] ---
+Spoke Mask: (0, 0, 0, 0, 0, 0, 0, 1, 1, 1)
+Graph: 11 vertices, 13 edges
+Generated 2916 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 7: [2, 1, 7] ---
+Spoke Mask: (0, 0, 0, 0, 0, 0, 1, 0, 1, 1)
+Graph: 11 vertices, 13 edges
+Generated 10941 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 8: [3, 1, 6] ---
+Spoke Mask: (0, 0, 0, 0, 0, 1, 0, 0, 1, 1)
+Graph: 11 vertices, 13 edges
+Generated 21409 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 9: [2, 2, 6] ---
+Spoke Mask: (0, 0, 0, 0, 0, 1, 0, 1, 0, 1)
+Graph: 11 vertices, 13 edges
+Generated 28258 valid neighborly systems.
+
+STATUS: NOT WEAKLY METRIZABLE
+A counterexample for WEAK metrizability was found (discarding strong counterexample):
+System Index: 1296
+IIS Constraints (The Contradiction in Weak):
+  d(4, 0) = d(4, 1) + w(1, 0)   [Path: [4, 3, 2, 1, 0]]
+  d(4, 1) = d(4, 2) + w(2, 1)   [Path: [4, 3, 2, 1]]
+  d(4, 2) = d(4, 3) + w(3, 2)   [Path: [4, 3, 2]]
+  d(4, 3) = d(4, 4) + w(4, 3)   [Path: [4, 3]]
+  d(4, 5) = d(4, 4) + w(4, 5)   [Path: [4, 5]]
+  d(4, 6) = d(4, 5) + w(5, 6)   [Path: [4, 5, 6]]
+  d(4, 7) <= d(4, 6) + w(6, 7)   [Alternative via 6]
+  d(4, 7) = d(4, 8) + w(8, 7)   [Path: [4, 3, 2, 1, 0, 9, 8, 7]]
+  d(4, 8) = d(4, 9) + w(9, 8)   [Path: [4, 3, 2, 1, 0, 9, 8]]
+  d(4, 9) = d(4, 0) + w(0, 9)   [Path: [4, 3, 2, 1, 0, 9]]
+  d(5, 0) = d(5, 1) + w(1, 0)   [Path: [5, 4, 3, 2, 1, 0]]
+  d(5, 1) = d(5, 2) + w(2, 1)   [Path: [5, 4, 3, 2, 1]]
+  d(5, 2) = d(5, 3) + w(3, 2)   [Path: [5, 4, 3, 2]]
+  d(5, 3) = d(5, 4) + w(4, 3)   [Path: [5, 4, 3]]
+  d(5, 4) = d(5, 5) + w(5, 4)   [Path: [5, 4]]
+  d(5, 7) = d(5, 6) + w(6, 7)   [Path: [5, 6, 7]]
+  d(5, 8) = d(5, 7) + w(7, 8)   [Path: [5, 6, 7, 8]]
+  d(5, 8) <= d(5, 9) + w(9, 8)   [Alternative via 9]
+  d(5, 9) = d(5, 0) + w(0, 9)   [Path: [5, 4, 3, 2, 1, 0, 9]]
+  d(6, 0) = d(6, 1) + w(1, 0)   [Path: [6, 5, 4, 3, 2, 1, 0]]
+  d(6, 1) = d(6, 2) + w(2, 1)   [Path: [6, 5, 4, 3, 2, 1]]
+  d(6, 2) = d(6, 3) + w(3, 2)   [Path: [6, 5, 4, 3, 2]]
+  d(6, 3) = d(6, 4) + w(4, 3)   [Path: [6, 5, 4, 3]]
+  d(6, 4) = d(6, 5) + w(5, 4)   [Path: [6, 5, 4]]
+  d(6, 5) = d(6, 6) + w(6, 5)   [Path: [6, 5]]
+  d(6, 8) = d(6, 7) + w(7, 8)   [Path: [6, 7, 8]]
+  d(6, 9) = d(6, 0) + w(0, 9)   [Path: [6, 5, 4, 3, 2, 1, 0, 9]]
+  d(6, 9) <= d(6, 8) + w(8, 9)   [Alternative via 8]
+  d(10, 0) = d(10, 1) + w(1, 0)   [Path: [10, 5, 4, 3, 2, 1, 0]]
+  d(10, 0) <= d(10, 9) + w(9, 0)   [Alternative via 9]
+  d(10, 1) = d(10, 2) + w(2, 1)   [Path: [10, 5, 4, 3, 2, 1]]
+  d(10, 2) = d(10, 3) + w(3, 2)   [Path: [10, 5, 4, 3, 2]]
+  d(10, 3) = d(10, 4) + w(4, 3)   [Path: [10, 5, 4, 3]]
+  d(10, 4) = d(10, 5) + w(5, 4)   [Path: [10, 5, 4]]
+  d(10, 6) <= d(10, 5) + w(5, 6)   [Alternative via 5]
+  d(10, 6) = d(10, 7) + w(7, 6)   [Path: [10, 7, 6]]
+  d(10, 8) <= d(10, 7) + w(7, 8)   [Alternative via 7]
+  d(10, 8) = d(10, 9) + w(9, 8)   [Path: [10, 9, 8]]
+
+============================================================
+
+--- Partition 10: [4, 1, 5] ---
+Spoke Mask: (0, 0, 0, 0, 1, 0, 0, 0, 1, 1)
+Graph: 11 vertices, 13 edges
+Generated 29071 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 11: [3, 2, 5] ---
+Spoke Mask: (0, 0, 0, 0, 1, 0, 0, 1, 0, 1)
+Graph: 11 vertices, 13 edges
+Generated 44301 valid neighborly systems.
+
+STATUS: NOT WEAKLY METRIZABLE
+A counterexample for WEAK metrizability was found (discarding strong counterexample):
+System Index: 5205
+IIS Constraints (The Contradiction in Weak):
+  d(2, 0) = d(2, 1) + w(1, 0)   [Path: [2, 1, 0]]
+  d(2, 1) = d(2, 2) + w(2, 1)   [Path: [2, 1]]
+  d(2, 4) = d(2, 3) + w(3, 4)   [Path: [2, 3, 4]]
+  d(2, 5) = d(2, 4) + w(4, 5)   [Path: [2, 3, 4, 5]]
+  d(2, 6) = d(2, 5) + w(5, 6)   [Path: [2, 3, 4, 5, 6]]
+  d(2, 7) <= d(2, 6) + w(6, 7)   [Alternative via 6]
+  d(2, 7) = d(2, 8) + w(8, 7)   [Path: [2, 1, 0, 9, 8, 7]]
+  d(2, 8) = d(2, 9) + w(9, 8)   [Path: [2, 1, 0, 9, 8]]
+  d(2, 9) = d(2, 0) + w(0, 9)   [Path: [2, 1, 0, 9]]
+  d(3, 0) = d(3, 1) + w(1, 0)   [Path: [3, 2, 1, 0]]
+  d(3, 1) = d(3, 2) + w(2, 1)   [Path: [3, 2, 1]]
+  d(3, 2) = d(3, 3) + w(3, 2)   [Path: [3, 2]]
+  d(3, 5) = d(3, 4) + w(4, 5)   [Path: [3, 4, 5]]
+  d(3, 6) = d(3, 5) + w(5, 6)   [Path: [3, 4, 5, 6]]
+  d(3, 7) = d(3, 6) + w(6, 7)   [Path: [3, 4, 5, 6, 7]]
+  d(3, 8) = d(3, 7) + w(7, 8)   [Path: [3, 4, 5, 6, 7, 8]]
+  d(3, 8) <= d(3, 9) + w(9, 8)   [Alternative via 9]
+  d(3, 9) = d(3, 0) + w(0, 9)   [Path: [3, 2, 1, 0, 9]]
+  d(6, 0) = d(6, 1) + w(1, 0)   [Path: [6, 5, 4, 3, 2, 1, 0]]
+  d(6, 1) = d(6, 2) + w(2, 1)   [Path: [6, 5, 4, 3, 2, 1]]
+  d(6, 2) = d(6, 3) + w(3, 2)   [Path: [6, 5, 4, 3, 2]]
+  d(6, 3) = d(6, 4) + w(4, 3)   [Path: [6, 5, 4, 3]]
+  d(6, 4) = d(6, 5) + w(5, 4)   [Path: [6, 5, 4]]
+  d(6, 5) = d(6, 6) + w(6, 5)   [Path: [6, 5]]
+  d(6, 7) = d(6, 6) + w(6, 7)   [Path: [6, 7]]
+  d(6, 8) = d(6, 7) + w(7, 8)   [Path: [6, 7, 8]]
+  d(6, 9) = d(6, 0) + w(0, 9)   [Path: [6, 5, 4, 3, 2, 1, 0, 9]]
+  d(6, 9) <= d(6, 8) + w(8, 9)   [Alternative via 8]
+  d(10, 0) = d(10, 1) + w(1, 0)   [Path: [10, 4, 3, 2, 1, 0]]
+  d(10, 0) <= d(10, 9) + w(9, 0)   [Alternative via 9]
+  d(10, 1) = d(10, 2) + w(2, 1)   [Path: [10, 4, 3, 2, 1]]
+  d(10, 2) = d(10, 3) + w(3, 2)   [Path: [10, 4, 3, 2]]
+  d(10, 3) = d(10, 4) + w(4, 3)   [Path: [10, 4, 3]]
+  d(10, 5) = d(10, 4) + w(4, 5)   [Path: [10, 4, 5]]
+  d(10, 6) <= d(10, 5) + w(5, 6)   [Alternative via 5]
+  d(10, 6) = d(10, 7) + w(7, 6)   [Path: [10, 7, 6]]
+  d(10, 8) <= d(10, 7) + w(7, 8)   [Alternative via 7]
+  d(10, 8) = d(10, 9) + w(9, 8)   [Path: [10, 9, 8]]
+
+============================================================
+
+--- Partition 12: [4, 2, 4] ---
+Spoke Mask: (0, 0, 0, 1, 0, 0, 0, 1, 0, 1)
+Graph: 11 vertices, 13 edges
+Generated 50866 valid neighborly systems.
+
+STATUS: NOT WEAKLY METRIZABLE
+A counterexample for WEAK metrizability was found (discarding strong counterexample):
+System Index: 3276
+IIS Constraints (The Contradiction in Weak):
+  d(2, 0) = d(2, 1) + w(1, 0)   [Path: [2, 1, 0]]
+  d(2, 1) = d(2, 2) + w(2, 1)   [Path: [2, 1]]
+  d(2, 4) = d(2, 3) + w(3, 4)   [Path: [2, 3, 4]]
+  d(2, 5) = d(2, 4) + w(4, 5)   [Path: [2, 3, 4, 5]]
+  d(2, 6) = d(2, 5) + w(5, 6)   [Path: [2, 3, 4, 5, 6]]
+  d(2, 7) <= d(2, 6) + w(6, 7)   [Alternative via 6]
+  d(2, 7) = d(2, 8) + w(8, 7)   [Path: [2, 1, 0, 9, 8, 7]]
+  d(2, 8) = d(2, 9) + w(9, 8)   [Path: [2, 1, 0, 9, 8]]
+  d(2, 9) = d(2, 0) + w(0, 9)   [Path: [2, 1, 0, 9]]
+  d(6, 0) = d(6, 1) + w(1, 0)   [Path: [6, 5, 4, 3, 2, 1, 0]]
+  d(6, 1) = d(6, 2) + w(2, 1)   [Path: [6, 5, 4, 3, 2, 1]]
+  d(6, 2) = d(6, 3) + w(3, 2)   [Path: [6, 5, 4, 3, 2]]
+  d(6, 8) = d(6, 7) + w(7, 8)   [Path: [6, 7, 8]]
+  d(6, 9) = d(6, 0) + w(0, 9)   [Path: [6, 5, 4, 3, 2, 1, 0, 9]]
+  d(6, 9) <= d(6, 8) + w(8, 9)   [Alternative via 8]
+  d(6, 10) <= d(6, 3) + w(3, 10)   [Alternative via 3]
+  d(6, 10) = d(6, 7) + w(7, 10)   [Path: [6, 7, 10]]
+  d(8, 0) = d(8, 9) + w(9, 0)   [Path: [8, 9, 0]]
+  d(8, 1) = d(8, 0) + w(0, 1)   [Path: [8, 9, 0, 1]]
+  d(8, 2) = d(8, 1) + w(1, 2)   [Path: [8, 9, 0, 1, 2]]
+  d(8, 3) <= d(8, 2) + w(2, 3)   [Alternative via 2]
+  d(8, 3) = d(8, 4) + w(4, 3)   [Path: [8, 7, 6, 5, 4, 3]]
+  d(8, 4) = d(8, 5) + w(5, 4)   [Path: [8, 7, 6, 5, 4]]
+  d(8, 5) = d(8, 6) + w(6, 5)   [Path: [8, 7, 6, 5]]
+  d(8, 6) = d(8, 7) + w(7, 6)   [Path: [8, 7, 6]]
+  d(8, 7) = d(8, 8) + w(8, 7)   [Path: [8, 7]]
+  d(10, 0) = d(10, 1) + w(1, 0)   [Path: [10, 3, 2, 1, 0]]
+  d(10, 0) <= d(10, 9) + w(9, 0)   [Alternative via 9]
+  d(10, 1) = d(10, 2) + w(2, 1)   [Path: [10, 3, 2, 1]]
+  d(10, 2) = d(10, 3) + w(3, 2)   [Path: [10, 3, 2]]
+  d(10, 3) = d(10, 10) + w(10, 3)   [Path: [10, 3]]
+  d(10, 7) = d(10, 10) + w(10, 7)   [Path: [10, 7]]
+  d(10, 8) <= d(10, 7) + w(7, 8)   [Alternative via 7]
+  d(10, 8) = d(10, 9) + w(9, 8)   [Path: [10, 9, 8]]
+
+============================================================
+
+--- Partition 13: [3, 3, 4] ---
+Spoke Mask: (0, 0, 0, 1, 0, 0, 1, 0, 0, 1)
+Graph: 11 vertices, 13 edges
+Generated 58456 valid neighborly systems.
+
+STATUS: NOT WEAKLY METRIZABLE
+A counterexample for WEAK metrizability was found (discarding strong counterexample):
+System Index: 4976
+IIS Constraints (The Contradiction in Weak):
+  d(2, 0) = d(2, 1) + w(1, 0)   [Path: [2, 1, 0]]
+  d(2, 1) = d(2, 2) + w(2, 1)   [Path: [2, 1]]
+  d(2, 3) = d(2, 2) + w(2, 3)   [Path: [2, 3]]
+  d(2, 4) = d(2, 3) + w(3, 4)   [Path: [2, 3, 4]]
+  d(2, 5) = d(2, 4) + w(4, 5)   [Path: [2, 3, 4, 5]]
+  d(2, 6) <= d(2, 5) + w(5, 6)   [Alternative via 5]
+  d(2, 6) = d(2, 7) + w(7, 6)   [Path: [2, 1, 0, 9, 8, 7, 6]]
+  d(2, 7) = d(2, 8) + w(8, 7)   [Path: [2, 1, 0, 9, 8, 7]]
+  d(2, 8) = d(2, 9) + w(9, 8)   [Path: [2, 1, 0, 9, 8]]
+  d(2, 9) = d(2, 0) + w(0, 9)   [Path: [2, 1, 0, 9]]
+  d(3, 0) = d(3, 1) + w(1, 0)   [Path: [3, 2, 1, 0]]
+  d(3, 1) = d(3, 2) + w(2, 1)   [Path: [3, 2, 1]]
+  d(3, 2) = d(3, 3) + w(3, 2)   [Path: [3, 2]]
+  d(3, 5) = d(3, 4) + w(4, 5)   [Path: [3, 4, 5]]
+  d(3, 6) = d(3, 5) + w(5, 6)   [Path: [3, 4, 5, 6]]
+  d(3, 7) = d(3, 6) + w(6, 7)   [Path: [3, 4, 5, 6, 7]]
+  d(3, 8) = d(3, 7) + w(7, 8)   [Path: [3, 4, 5, 6, 7, 8]]
+  d(3, 8) <= d(3, 9) + w(9, 8)   [Alternative via 9]
+  d(3, 9) = d(3, 0) + w(0, 9)   [Path: [3, 2, 1, 0, 9]]
+  d(5, 0) = d(5, 1) + w(1, 0)   [Path: [5, 4, 3, 2, 1, 0]]
+  d(5, 1) = d(5, 2) + w(2, 1)   [Path: [5, 4, 3, 2, 1]]
+  d(5, 2) = d(5, 3) + w(3, 2)   [Path: [5, 4, 3, 2]]
+  d(5, 7) = d(5, 6) + w(6, 7)   [Path: [5, 6, 7]]
+  d(5, 8) = d(5, 7) + w(7, 8)   [Path: [5, 6, 7, 8]]
+  d(5, 9) = d(5, 0) + w(0, 9)   [Path: [5, 4, 3, 2, 1, 0, 9]]
+  d(5, 9) <= d(5, 8) + w(8, 9)   [Alternative via 8]
+  d(5, 10) <= d(5, 3) + w(3, 10)   [Alternative via 3]
+  d(5, 10) = d(5, 6) + w(6, 10)   [Path: [5, 6, 10]]
+  d(10, 0) = d(10, 1) + w(1, 0)   [Path: [10, 3, 2, 1, 0]]
+  d(10, 0) <= d(10, 9) + w(9, 0)   [Alternative via 9]
+  d(10, 1) = d(10, 2) + w(2, 1)   [Path: [10, 3, 2, 1]]
+  d(10, 2) = d(10, 3) + w(3, 2)   [Path: [10, 3, 2]]
+  d(10, 3) = d(10, 10) + w(10, 3)   [Path: [10, 3]]
+  d(10, 6) = d(10, 10) + w(10, 6)   [Path: [10, 6]]
+  d(10, 7) = d(10, 6) + w(6, 7)   [Path: [10, 6, 7]]
+  d(10, 8) <= d(10, 7) + w(7, 8)   [Alternative via 7]
+  d(10, 8) = d(10, 9) + w(9, 8)   [Path: [10, 9, 8]]
+
+============================================================
+
+--- Partition 14: [1, 1, 1, 7] ---
+Spoke Mask: (0, 0, 0, 0, 0, 0, 1, 1, 1, 1)
+Graph: 11 vertices, 14 edges
+Generated 7218 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 15: [2, 1, 1, 6] ---
+Spoke Mask: (0, 0, 0, 0, 0, 1, 0, 1, 1, 1)
+Graph: 11 vertices, 14 edges
+Generated 19991 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 16: [1, 2, 1, 6] ---
+Spoke Mask: (0, 0, 0, 0, 0, 1, 1, 0, 1, 1)
+Graph: 11 vertices, 14 edges
+Generated 21152 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 17: [3, 1, 1, 5] ---
+Spoke Mask: (0, 0, 0, 0, 1, 0, 0, 1, 1, 1)
+Graph: 11 vertices, 14 edges
+Generated 32631 valid neighborly systems.
+
+STATUS: STRONGLY METRIZABLE (All systems are strictly feasible)
+
+============================================================
+
+--- Partition 18: [2, 2, 1, 5] ---
+Spoke Mask: (0, 0, 0, 0, 1, 0, 1, 0, 1, 1)
+Graph: 11 vertices, 14 edges
+Generated 45638 valid neighborly systems.
+
+STATUS: NOT WEAKLY METRIZABLE
+A counterexample for WEAK metrizability was found (discarding strong counterexample):
+System Index: 5192
+IIS Constraints (The Contradiction in Weak):
+  d(5, 0) = d(5, 1) + w(1, 0)   [Path: [5, 4, 3, 2, 1, 0]]
+  d(5, 1) = d(5, 2) + w(2, 1)   [Path: [5, 4, 3, 2, 1]]
+  d(5, 2) = d(5, 3) + w(3, 2)   [Path: [5, 4, 3, 2]]
+  d(5, 3) = d(5, 4) + w(4, 3)   [Path: [5, 4, 3]]
+  d(5, 7) = d(5, 6) + w(6, 7)   [Path: [5, 6, 7]]
+  d(5, 8) <= d(5, 7) + w(7, 8)   [Alternative via 7]
+  d(5, 8) = d(5, 9) + w(9, 8)   [Path: [5, 4, 3, 2, 1, 0, 9, 8]]
+  d(5, 9) = d(5, 0) + w(0, 9)   [Path: [5, 4, 3, 2, 1, 0, 9]]
+  d(5, 10) <= d(5, 4) + w(4, 10)   [Alternative via 4]
+  d(5, 10) = d(5, 6) + w(6, 10)   [Path: [5, 6, 10]]
+  d(6, 0) = d(6, 9) + w(9, 0)   [Path: [6, 7, 8, 9, 0]]
+  d(6, 1) = d(6, 0) + w(0, 1)   [Path: [6, 7, 8, 9, 0, 1]]
+  d(6, 2) = d(6, 1) + w(1, 2)   [Path: [6, 7, 8, 9, 0, 1, 2]]
+  d(6, 2) <= d(6, 3) + w(3, 2)   [Alternative via 3]
+  d(6, 3) = d(6, 4) + w(4, 3)   [Path: [6, 5, 4, 3]]
+  d(6, 4) = d(6, 5) + w(5, 4)   [Path: [6, 5, 4]]
+  d(6, 5) = d(6, 6) + w(6, 5)   [Path: [6, 5]]
+  d(6, 8) = d(6, 7) + w(7, 8)   [Path: [6, 7, 8]]
+  d(6, 9) = d(6, 8) + w(8, 9)   [Path: [6, 7, 8, 9]]
+  d(7, 0) = d(7, 9) + w(9, 0)   [Path: [7, 8, 9, 0]]
+  d(7, 1) = d(7, 0) + w(0, 1)   [Path: [7, 8, 9, 0, 1]]
+  d(7, 2) = d(7, 1) + w(1, 2)   [Path: [7, 8, 9, 0, 1, 2]]
+  d(7, 3) <= d(7, 2) + w(2, 3)   [Alternative via 2]
+  d(7, 3) = d(7, 4) + w(4, 3)   [Path: [7, 6, 5, 4, 3]]
+  d(7, 4) = d(7, 5) + w(5, 4)   [Path: [7, 6, 5, 4]]
+  d(7, 5) = d(7, 6) + w(6, 5)   [Path: [7, 6, 5]]
+  d(7, 6) = d(7, 7) + w(7, 6)   [Path: [7, 6]]
+  d(7, 9) = d(7, 8) + w(8, 9)   [Path: [7, 8, 9]]
+  d(10, 0) = d(10, 1) + w(1, 0)   [Path: [10, 4, 3, 2, 1, 0]]
+  d(10, 0) <= d(10, 9) + w(9, 0)   [Alternative via 9]
+  d(10, 1) = d(10, 2) + w(2, 1)   [Path: [10, 4, 3, 2, 1]]
+  d(10, 2) = d(10, 3) + w(3, 2)   [Path: [10, 4, 3, 2]]
+  d(10, 3) = d(10, 4) + w(4, 3)   [Path: [10, 4, 3]]
+  d(10, 4) = d(10, 10) + w(10, 4)   [Path: [10, 4]]
+  d(10, 6) = d(10, 10) + w(10, 6)   [Path: [10, 6]]
+  d(10, 7) <= d(10, 6) + w(6, 7)   [Alternative via 6]
+  d(10, 7) = d(10, 8) + w(8, 7)   [Path: [10, 8, 7]]
+  d(10, 9) <= d(10, 8) + w(8, 9)   [Alternative via 8]
+
+============================================================
+
+--- Partition 19: [2, 1, 2, 5] ---
+Spoke Mask: (0, 0, 0, 0, 1, 0, 1, 1, 0, 1)
+Graph: 11 vertices, 14 edges
+Generated 43358 valid neighborly systems.
+
+STATUS: NOT WEAKLY METRIZABLE
+A counterexample for WEAK metrizability was found (discarding strong counterexample):
+System Index: 5524
